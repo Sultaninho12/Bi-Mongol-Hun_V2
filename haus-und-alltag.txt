@@ -1,0 +1,87 @@
+# Haus & Alltag
+🚪 Tür | Хаалга | Chaalga
+🪟 Fenster | Цонх | Zonch
+🛏️ Bett | Ор | Or
+🪑 Stuhl | Сандал | Sandal
+🪵 Tisch | Ширээ | Schiree
+🛋️ Sofa | Буйдан | Buidan
+🪞 Spiegel | Толь | Tol
+💡 Lampe / Licht | Гэрэл | Gerel
+🔑 Schlüssel | Түлхүүр | Tülchüür
+🍳 Küche | Гал тогоо | Gal togoo
+🛁 Badezimmer | Угаалгын өрөө | Ugaalgiin öröö
+🛌 Schlafzimmer | Унтлагын өрөө | Untlagiin öröö
+🍽️ Teller | Таваг | Tawag
+🥣 Schüssel / Tasse | Аяга | Ajaga
+🥄 Löffel | Халбага | Chalbaga
+🍴 Gabel | Сэрээ | Seree
+🔪 Messer | Хутга | Chutga
+🧼 Seife | Саван | Sawan
+🧣 Handtuch | Алчуур | Altschuur
+🧸 Spielzeug | Тоглоом | Togloom
+🏓 Tischtennis | Ширээний теннис | Schireenii tennis
+🥊 Boxen | Бокс | Boks
+🥋 Judo | Жүдо | Dschüdo
+🏃 Wettlauf | Гүйлт | Güilt
+🏅 Medaille | Медаль | Medal
+🏆 Pokal | Цом | Zom
+🏟️ Stadion | Цэнгэлдэх хүрээлэн | Zengeldech chüreelen
+🎯 Ziel / Scheibe | Бай | Bai
+🎲 Würfel | Шоо | Schoo
+🪚 Tischler / Schreiner | Мужаан | Mudschaan
+🪣 Eimer | Хувин | Chuwin
+🏷️ Etikett / Schild | Шошго / Тэмдэг | Schoschgo
+📌 Reißzwecke / Pin | Хатгуур | Chatguur
+🧽 Schwamm | Порлон / Хөвөн | Chöwön
+🧴 Creme / Lotion | Тос | Tos
+🏃‍♂️ Aufstehen | Босох | Bosoch
+🛌 Hinlegen | Хэвтэх | Chewtech
+🚿 Duschen | Шүршүүрт орох | Schürschüürt oroch
+🪥 Zähne putzen | Шүдээ угаах | Schüdee ugaach
+🪮 Kämmen | Самнах | Samnach
+👕 Anziehen | Өмсөх | Ömsöch
+🧥 Ausziehen | Тайлах | Tailach
+🔪 Schneiden / Hacken | Хэрчих | Chertschich
+🥄 Rühren / Mischen | Хутгах | Chutgach
+🧺 Waschen (Wäsche) | Хувцас угаах | Chuwzas ugaach
+🧹 Fegen / Kehren | Шүүрдэх | Schüürdech
+🧽 Wischen | Арчих | Artschich
+🗑️ Wegwerfen | Хаях | Chajach
+📦 Aufräumen | Цэгцлэх / Хураах | Zegzlech
+🔑 Abschließen | Түгжих | Tügdschich
+🔓 Aufschließen | Түгжээ тайлах | Tügdschee tailach
+🚪 Klopfen | Тогших | Togschich
+🔔 Klingeln | Хонх дарах | Chonch darach
+🚶‍♀️ Eintreten | Орох | Oroch
+🚶‍♂️ Hinausgehen | Гарах | Garach
+⬆️ Hinaufgehen | Өгсөх | Ögsöch
+⬇️ Hinuntergehen | Уруудах | Uruudach
+↩️ Zurückkehren | Буцах | Buzach
+↪️ Abbiegen | Эргэх | Ergech
+🛑 Anhalten / Stoppen | Зогсоох | Sogsooch
+🏃‍♀️ Beeilen | Яарах | Jaarach
+🧻 Küchenrolle | Гал тогооны цаас | Gal togoonii zaas
+🧽 Spülmittel | Аяга таваг угаагч | Ajaga tawag ugaagtsch
+🧴 Sonnencreme | Нарны тос | Narnii tos
+💊 Salbe / Creme | Түрхлэг | Türchleg
+💧 Augentropfen | Нүдний дусаалга | Nüdnii dusaalga
+😷 Mundschutz / Maske | Амны хаалт | Amnii chaalt
+Dessert / Nachtisch | Амттан | Amttan
+Lieferung | Хүргэлт | Chürgelt
+Thron | Хаан ширээ | Chaan schiree
+Zaubertrick | Илбэ | Ilbe
+Jubelruf | Уухай | Uuchai
+Umarmung | Тэврэлт | Tewrelt
+🧮 Gleichung | Тэгшитгэл | Tegschitgel
+🔢 Formel | Томьёо | Tomjoo
+💡 Nachttischlampe | Ширээний гэрэл | Schireenii gerel
+🛋️ Sofakissen | Буйдангийн дэр | Buidangiin der
+🪟 Jalousie / Rollo | Хөшиг / Жалюз | Chöschig
+🛏️ Tagesdecke | Орны бүтээлэг | Ornii büteeleg
+🧺 Schmutzwäsche | Хиртэй хувцас | Chirtei chuwzas
+🧼 Waschbecken | Угаалтуур | Ugaaltuur
+🚿 Abflussrohr | Бохирын хоолой | Bochiriin chooloi
+🪞 Rasierspiegel | Сахлын толь | Sachliin tol
+😊 optimistisch | Өөдрөг | Öödrög
+❤️ unvergesslich | Мартагдашгүй | Martagdaschgüi
+🎈 Seifenblase | Савангийн хөөс | Sawangii chöös

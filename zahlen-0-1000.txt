@@ -1,0 +1,1002 @@
+# Zahlen 0–1.000
+0 – null | тэг
+1 – eins | нэг
+2 – zwei | хоёр
+3 – drei | гурав
+4 – vier | дөрөв
+5 – fünf | тав
+6 – sechs | зургаа
+7 – sieben | долоо
+8 – acht | найм
+9 – neun | ес
+10 – zehn | арав
+11 – elf | арван нэг
+12 – zwölf | арван хоёр
+13 – dreizehn | арван гурав
+14 – vierzehn | арван дөрөв
+15 – fünfzehn | арван тав
+16 – sechzehn | арван зургаа
+17 – siebzehn | арван долоо
+18 – achtzehn | арван найм
+19 – neunzehn | арван ес
+20 – zwanzig | хорь
+21 – einundzwanzig | хорин нэг
+22 – zweiundzwanzig | хорин хоёр
+23 – dreiundzwanzig | хорин гурав
+24 – vierundzwanzig | хорин дөрөв
+25 – fünfundzwanzig | хорин тав
+26 – sechsundzwanzig | хорин зургаа
+27 – siebenundzwanzig | хорин долоо
+28 – achtundzwanzig | хорин найм
+29 – neunundzwanzig | хорин ес
+30 – dreißig | гуч
+31 – einunddreißig | гучин нэг
+32 – zweiunddreißig | гучин хоёр
+33 – dreiunddreißig | гучин гурав
+34 – vierunddreißig | гучин дөрөв
+35 – fünfunddreißig | гучин тав
+36 – sechsunddreißig | гучин зургаа
+37 – siebenunddreißig | гучин долоо
+38 – achtunddreißig | гучин найм
+39 – neununddreißig | гучин ес
+40 – vierzig | дөч
+41 – einundvierzig | дөчин нэг
+42 – zweiundvierzig | дөчин хоёр
+43 – dreiundvierzig | дөчин гурав
+44 – vierundvierzig | дөчин дөрөв
+45 – fünfundvierzig | дөчин тав
+46 – sechsundvierzig | дөчин зургаа
+47 – siebenundvierzig | дөчин долоо
+48 – achtundvierzig | дөчин найм
+49 – neunundvierzig | дөчин ес
+50 – fünfzig | тавь
+51 – einundfünfzig | тавин нэг
+52 – zweiundfünfzig | тавин хоёр
+53 – dreiundfünfzig | тавин гурав
+54 – vierundfünfzig | тавин дөрөв
+55 – fünfundfünfzig | тавин тав
+56 – sechsundfünfzig | тавин зургаа
+57 – siebenundfünfzig | тавин долоо
+58 – achtundfünfzig | тавин найм
+59 – neunundfünfzig | тавин ес
+60 – sechzig | жар
+61 – einundsechzig | жаран нэг
+62 – zweiundsechzig | жаран хоёр
+63 – dreiundsechzig | жаран гурав
+64 – vierundsechzig | жаран дөрөв
+65 – fünfundsechzig | жаран тав
+66 – sechsundsechzig | жаран зургаа
+67 – siebenundsechzig | жаран долоо
+68 – achtundsechzig | жаран найм
+69 – neunundsechzig | жаран ес
+70 – siebzig | дал
+71 – einundsiebzig | далан нэг
+72 – zweiundsiebzig | далан хоёр
+73 – dreiundsiebzig | далан гурав
+74 – vierundsiebzig | далан дөрөв
+75 – fünfundsiebzig | далан тав
+76 – sechsundsiebzig | далан зургаа
+77 – siebenundsiebzig | далан долоо
+78 – achtundsiebzig | далан найм
+79 – neunundsiebzig | далан ес
+80 – achtzig | ная
+81 – einundachtzig | наян нэг
+82 – zweiundachtzig | наян хоёр
+83 – dreiundachtzig | наян гурав
+84 – vierundachtzig | наян дөрөв
+85 – fünfundachtzig | наян тав
+86 – sechsundachtzig | наян зургаа
+87 – siebenundachtzig | наян долоо
+88 – achtundachtzig | наян найм
+89 – neunundachtzig | наян ес
+90 – neunzig | ер
+91 – einundneunzig | ерэн нэг
+92 – zweiundneunzig | ерэн хоёр
+93 – dreiundneunzig | ерэн гурав
+94 – vierundneunzig | ерэн дөрөв
+95 – fünfundneunzig | ерэн тав
+96 – sechsundneunzig | ерэн зургаа
+97 – siebenundneunzig | ерэн долоо
+98 – achtundneunzig | ерэн найм
+99 – neunundneunzig | ерэн ес
+100 – hundert | зуу
+101 – hunderteins | зуун нэг
+102 – hundertzwei | зуун хоёр
+103 – hundertdrei | зуун гурав
+104 – hundertvier | зуун дөрөв
+105 – hundertfünf | зуун тав
+106 – hundertsechs | зуун зургаа
+107 – hundertsieben | зуун долоо
+108 – hundertacht | зуун найм
+109 – hundertneun | зуун ес
+110 – hundertzehn | зуун арав
+111 – hundertelf | зуун арван нэг
+112 – hundertzwölf | зуун арван хоёр
+113 – hundertdreizehn | зуун арван гурав
+114 – hundertvierzehn | зуун арван дөрөв
+115 – hundertfünfzehn | зуун арван тав
+116 – hundertsechzehn | зуун арван зургаа
+117 – hundertsiebzehn | зуун арван долоо
+118 – hundertachtzehn | зуун арван найм
+119 – hundertneunzehn | зуун арван ес
+120 – hundertzwanzig | зуун хорь
+121 – hunderteinundzwanzig | зуун хорин нэг
+122 – hundertzweiundzwanzig | зуун хорин хоёр
+123 – hundertdreiundzwanzig | зуун хорин гурав
+124 – hundertvierundzwanzig | зуун хорин дөрөв
+125 – hundertfünfundzwanzig | зуун хорин тав
+126 – hundertsechsundzwanzig | зуун хорин зургаа
+127 – hundertsiebenundzwanzig | зуун хорин долоо
+128 – hundertachtundzwanzig | зуун хорин найм
+129 – hundertneunundzwanzig | зуун хорин ес
+130 – hundertdreißig | зуун гуч
+131 – hunderteinunddreißig | зуун гучин нэг
+132 – hundertzweiunddreißig | зуун гучин хоёр
+133 – hundertdreiunddreißig | зуун гучин гурав
+134 – hundertvierunddreißig | зуун гучин дөрөв
+135 – hundertfünfunddreißig | зуун гучин тав
+136 – hundertsechsunddreißig | зуун гучин зургаа
+137 – hundertsiebenunddreißig | зуун гучин долоо
+138 – hundertachtunddreißig | зуун гучин найм
+139 – hundertneununddreißig | зуун гучин ес
+140 – hundertvierzig | зуун дөч
+141 – hunderteinundvierzig | зуун дөчин нэг
+142 – hundertzweiundvierzig | зуун дөчин хоёр
+143 – hundertdreiundvierzig | зуун дөчин гурав
+144 – hundertvierundvierzig | зуун дөчин дөрөв
+145 – hundertfünfundvierzig | зуун дөчин тав
+146 – hundertsechsundvierzig | зуун дөчин зургаа
+147 – hundertsiebenundvierzig | зуун дөчин долоо
+148 – hundertachtundvierzig | зуун дөчин найм
+149 – hundertneunundvierzig | зуун дөчин ес
+150 – hundertfünfzig | зуун тавь
+151 – hunderteinundfünfzig | зуун тавин нэг
+152 – hundertzweiundfünfzig | зуун тавин хоёр
+153 – hundertdreiundfünfzig | зуун тавин гурав
+154 – hundertvierundfünfzig | зуун тавин дөрөв
+155 – hundertfünfundfünfzig | зуун тавин тав
+156 – hundertsechsundfünfzig | зуун тавин зургаа
+157 – hundertsiebenundfünfzig | зуун тавин долоо
+158 – hundertachtundfünfzig | зуун тавин найм
+159 – hundertneunundfünfzig | зуун тавин ес
+160 – hundertsechzig | зуун жар
+161 – hunderteinundsechzig | зуун жаран нэг
+162 – hundertzweiundsechzig | зуун жаран хоёр
+163 – hundertdreiundsechzig | зуун жаран гурав
+164 – hundertvierundsechzig | зуун жаран дөрөв
+165 – hundertfünfundsechzig | зуун жаран тав
+166 – hundertsechsundsechzig | зуун жаран зургаа
+167 – hundertsiebenundsechzig | зуун жаран долоо
+168 – hundertachtundsechzig | зуун жаран найм
+169 – hundertneunundsechzig | зуун жаран ес
+170 – hundertsiebzig | зуун дал
+171 – hunderteinundsiebzig | зуун далан нэг
+172 – hundertzweiundsiebzig | зуун далан хоёр
+173 – hundertdreiundsiebzig | зуун далан гурав
+174 – hundertvierundsiebzig | зуун далан дөрөв
+175 – hundertfünfundsiebzig | зуун далан тав
+176 – hundertsechsundsiebzig | зуун далан зургаа
+177 – hundertsiebenundsiebzig | зуун далан долоо
+178 – hundertachtundsiebzig | зуун далан найм
+179 – hundertneunundsiebzig | зуун далан ес
+180 – hundertachtzig | зуун ная
+181 – hunderteinundachtzig | зуун наян нэг
+182 – hundertzweiundachtzig | зуун наян хоёр
+183 – hundertdreiundachtzig | зуун наян гурав
+184 – hundertvierundachtzig | зуун наян дөрөв
+185 – hundertfünfundachtzig | зуун наян тав
+186 – hundertsechsundachtzig | зуун наян зургаа
+187 – hundertsiebenundachtzig | зуун наян долоо
+188 – hundertachtundachtzig | зуун наян найм
+189 – hundertneunundachtzig | зуун наян ес
+190 – hundertneunzig | зуун ер
+191 – hunderteinundneunzig | зуун ерэн нэг
+192 – hundertzweiundneunzig | зуун ерэн хоёр
+193 – hundertdreiundneunzig | зуун ерэн гурав
+194 – hundertvierundneunzig | зуун ерэн дөрөв
+195 – hundertfünfundneunzig | зуун ерэн тав
+196 – hundertsechsundneunzig | зуун ерэн зургаа
+197 – hundertsiebenundneunzig | зуун ерэн долоо
+198 – hundertachtundneunzig | зуун ерэн найм
+199 – hundertneunundneunzig | зуун ерэн ес
+200 – zweihundert | хоёр зуу
+201 – zweihunderteins | хоёр зуун нэг
+202 – zweihundertzwei | хоёр зуун хоёр
+203 – zweihundertdrei | хоёр зуун гурав
+204 – zweihundertvier | хоёр зуун дөрөв
+205 – zweihundertfünf | хоёр зуун тав
+206 – zweihundertsechs | хоёр зуун зургаа
+207 – zweihundertsieben | хоёр зуун долоо
+208 – zweihundertacht | хоёр зуун найм
+209 – zweihundertneun | хоёр зуун ес
+210 – zweihundertzehn | хоёр зуун арав
+211 – zweihundertelf | хоёр зуун арван нэг
+212 – zweihundertzwölf | хоёр зуун арван хоёр
+213 – zweihundertdreizehn | хоёр зуун арван гурав
+214 – zweihundertvierzehn | хоёр зуун арван дөрөв
+215 – zweihundertfünfzehn | хоёр зуун арван тав
+216 – zweihundertsechzehn | хоёр зуун арван зургаа
+217 – zweihundertsiebzehn | хоёр зуун арван долоо
+218 – zweihundertachtzehn | хоёр зуун арван найм
+219 – zweihundertneunzehn | хоёр зуун арван ес
+220 – zweihundertzwanzig | хоёр зуун хорь
+221 – zweihunderteinundzwanzig | хоёр зуун хорин нэг
+222 – zweihundertzweiundzwanzig | хоёр зуун хорин хоёр
+223 – zweihundertdreiundzwanzig | хоёр зуун хорин гурав
+224 – zweihundertvierundzwanzig | хоёр зуун хорин дөрөв
+225 – zweihundertfünfundzwanzig | хоёр зуун хорин тав
+226 – zweihundertsechsundzwanzig | хоёр зуун хорин зургаа
+227 – zweihundertsiebenundzwanzig | хоёр зуун хорин долоо
+228 – zweihundertachtundzwanzig | хоёр зуун хорин найм
+229 – zweihundertneunundzwanzig | хоёр зуун хорин ес
+230 – zweihundertdreißig | хоёр зуун гуч
+231 – zweihunderteinunddreißig | хоёр зуун гучин нэг
+232 – zweihundertzweiunddreißig | хоёр зуун гучин хоёр
+233 – zweihundertdreiunddreißig | хоёр зуун гучин гурав
+234 – zweihundertvierunddreißig | хоёр зуун гучин дөрөв
+235 – zweihundertfünfunddreißig | хоёр зуун гучин тав
+236 – zweihundertsechsunddreißig | хоёр зуун гучин зургаа
+237 – zweihundertsiebenunddreißig | хоёр зуун гучин долоо
+238 – zweihundertachtunddreißig | хоёр зуун гучин найм
+239 – zweihundertneununddreißig | хоёр зуун гучин ес
+240 – zweihundertvierzig | хоёр зуун дөч
+241 – zweihunderteinundvierzig | хоёр зуун дөчин нэг
+242 – zweihundertzweiundvierzig | хоёр зуун дөчин хоёр
+243 – zweihundertdreiundvierzig | хоёр зуун дөчин гурав
+244 – zweihundertvierundvierzig | хоёр зуун дөчин дөрөв
+245 – zweihundertfünfundvierzig | хоёр зуун дөчин тав
+246 – zweihundertsechsundvierzig | хоёр зуун дөчин зургаа
+247 – zweihundertsiebenundvierzig | хоёр зуун дөчин долоо
+248 – zweihundertachtundvierzig | хоёр зуун дөчин найм
+249 – zweihundertneunundvierzig | хоёр зуун дөчин ес
+250 – zweihundertfünfzig | хоёр зуун тавь
+251 – zweihunderteinundfünfzig | хоёр зуун тавин нэг
+252 – zweihundertzweiundfünfzig | хоёр зуун тавин хоёр
+253 – zweihundertdreiundfünfzig | хоёр зуун тавин гурав
+254 – zweihundertvierundfünfzig | хоёр зуун тавин дөрөв
+255 – zweihundertfünfundfünfzig | хоёр зуун тавин тав
+256 – zweihundertsechsundfünfzig | хоёр зуун тавин зургаа
+257 – zweihundertsiebenundfünfzig | хоёр зуун тавин долоо
+258 – zweihundertachtundfünfzig | хоёр зуун тавин найм
+259 – zweihundertneunundfünfzig | хоёр зуун тавин ес
+260 – zweihundertsechzig | хоёр зуун жар
+261 – zweihunderteinundsechzig | хоёр зуун жаран нэг
+262 – zweihundertzweiundsechzig | хоёр зуун жаран хоёр
+263 – zweihundertdreiundsechzig | хоёр зуун жаран гурав
+264 – zweihundertvierundsechzig | хоёр зуун жаран дөрөв
+265 – zweihundertfünfundsechzig | хоёр зуун жаран тав
+266 – zweihundertsechsundsechzig | хоёр зуун жаран зургаа
+267 – zweihundertsiebenundsechzig | хоёр зуун жаран долоо
+268 – zweihundertachtundsechzig | хоёр зуун жаран найм
+269 – zweihundertneunundsechzig | хоёр зуун жаран ес
+270 – zweihundertsiebzig | хоёр зуун дал
+271 – zweihunderteinundsiebzig | хоёр зуун далан нэг
+272 – zweihundertzweiundsiebzig | хоёр зуун далан хоёр
+273 – zweihundertdreiundsiebzig | хоёр зуун далан гурав
+274 – zweihundertvierundsiebzig | хоёр зуун далан дөрөв
+275 – zweihundertfünfundsiebzig | хоёр зуун далан тав
+276 – zweihundertsechsundsiebzig | хоёр зуун далан зургаа
+277 – zweihundertsiebenundsiebzig | хоёр зуун далан долоо
+278 – zweihundertachtundsiebzig | хоёр зуун далан найм
+279 – zweihundertneunundsiebzig | хоёр зуун далан ес
+280 – zweihundertachtzig | хоёр зуун ная
+281 – zweihunderteinundachtzig | хоёр зуун наян нэг
+282 – zweihundertzweiundachtzig | хоёр зуун наян хоёр
+283 – zweihundertdreiundachtzig | хоёр зуун наян гурав
+284 – zweihundertvierundachtzig | хоёр зуун наян дөрөв
+285 – zweihundertfünfundachtzig | хоёр зуун наян тав
+286 – zweihundertsechsundachtzig | хоёр зуун наян зургаа
+287 – zweihundertsiebenundachtzig | хоёр зуун наян долоо
+288 – zweihundertachtundachtzig | хоёр зуун наян найм
+289 – zweihundertneunundachtzig | хоёр зуун наян ес
+290 – zweihundertneunzig | хоёр зуун ер
+291 – zweihunderteinundneunzig | хоёр зуун ерэн нэг
+292 – zweihundertzweiundneunzig | хоёр зуун ерэн хоёр
+293 – zweihundertdreiundneunzig | хоёр зуун ерэн гурав
+294 – zweihundertvierundneunzig | хоёр зуун ерэн дөрөв
+295 – zweihundertfünfundneunzig | хоёр зуун ерэн тав
+296 – zweihundertsechsundneunzig | хоёр зуун ерэн зургаа
+297 – zweihundertsiebenundneunzig | хоёр зуун ерэн долоо
+298 – zweihundertachtundneunzig | хоёр зуун ерэн найм
+299 – zweihundertneunundneunzig | хоёр зуун ерэн ес
+300 – dreihundert | гурван зуу
+301 – dreihunderteins | гурван зуун нэг
+302 – dreihundertzwei | гурван зуун хоёр
+303 – dreihundertdrei | гурван зуун гурав
+304 – dreihundertvier | гурван зуун дөрөв
+305 – dreihundertfünf | гурван зуун тав
+306 – dreihundertsechs | гурван зуун зургаа
+307 – dreihundertsieben | гурван зуун долоо
+308 – dreihundertacht | гурван зуун найм
+309 – dreihundertneun | гурван зуун ес
+310 – dreihundertzehn | гурван зуун арав
+311 – dreihundertelf | гурван зуун арван нэг
+312 – dreihundertzwölf | гурван зуун арван хоёр
+313 – dreihundertdreizehn | гурван зуун арван гурав
+314 – dreihundertvierzehn | гурван зуун арван дөрөв
+315 – dreihundertfünfzehn | гурван зуун арван тав
+316 – dreihundertsechzehn | гурван зуун арван зургаа
+317 – dreihundertsiebzehn | гурван зуун арван долоо
+318 – dreihundertachtzehn | гурван зуун арван найм
+319 – dreihundertneunzehn | гурван зуун арван ес
+320 – dreihundertzwanzig | гурван зуун хорь
+321 – dreihunderteinundzwanzig | гурван зуун хорин нэг
+322 – dreihundertzweiundzwanzig | гурван зуун хорин хоёр
+323 – dreihundertdreiundzwanzig | гурван зуун хорин гурав
+324 – dreihundertvierundzwanzig | гурван зуун хорин дөрөв
+325 – dreihundertfünfundzwanzig | гурван зуун хорин тав
+326 – dreihundertsechsundzwanzig | гурван зуун хорин зургаа
+327 – dreihundertsiebenundzwanzig | гурван зуун хорин долоо
+328 – dreihundertachtundzwanzig | гурван зуун хорин найм
+329 – dreihundertneunundzwanzig | гурван зуун хорин ес
+330 – dreihundertdreißig | гурван зуун гуч
+331 – dreihunderteinunddreißig | гурван зуун гучин нэг
+332 – dreihundertzweiunddreißig | гурван зуун гучин хоёр
+333 – dreihundertdreiunddreißig | гурван зуун гучин гурав
+334 – dreihundertvierunddreißig | гурван зуун гучин дөрөв
+335 – dreihundertfünfunddreißig | гурван зуун гучин тав
+336 – dreihundertsechsunddreißig | гурван зуун гучин зургаа
+337 – dreihundertsiebenunddreißig | гурван зуун гучин долоо
+338 – dreihundertachtunddreißig | гурван зуун гучин найм
+339 – dreihundertneununddreißig | гурван зуун гучин ес
+340 – dreihundertvierzig | гурван зуун дөч
+341 – dreihunderteinundvierzig | гурван зуун дөчин нэг
+342 – dreihundertzweiundvierzig | гурван зуун дөчин хоёр
+343 – dreihundertdreiundvierzig | гурван зуун дөчин гурав
+344 – dreihundertvierundvierzig | гурван зуун дөчин дөрөв
+345 – dreihundertfünfundvierzig | гурван зуун дөчин тав
+346 – dreihundertsechsundvierzig | гурван зуун дөчин зургаа
+347 – dreihundertsiebenundvierzig | гурван зуун дөчин долоо
+348 – dreihundertachtundvierzig | гурван зуун дөчин найм
+349 – dreihundertneunundvierzig | гурван зуун дөчин ес
+350 – dreihundertfünfzig | гурван зуун тавь
+351 – dreihunderteinundfünfzig | гурван зуун тавин нэг
+352 – dreihundertzweiundfünfzig | гурван зуун тавин хоёр
+353 – dreihundertdreiundfünfzig | гурван зуун тавин гурав
+354 – dreihundertvierundfünfzig | гурван зуун тавин дөрөв
+355 – dreihundertfünfundfünfzig | гурван зуун тавин тав
+356 – dreihundertsechsundfünfzig | гурван зуун тавин зургаа
+357 – dreihundertsiebenundfünfzig | гурван зуун тавин долоо
+358 – dreihundertachtundfünfzig | гурван зуун тавин найм
+359 – dreihundertneunundfünfzig | гурван зуун тавин ес
+360 – dreihundertsechzig | гурван зуун жар
+361 – dreihunderteinundsechzig | гурван зуун жаран нэг
+362 – dreihundertzweiundsechzig | гурван зуун жаран хоёр
+363 – dreihundertdreiundsechzig | гурван зуун жаран гурав
+364 – dreihundertvierundsechzig | гурван зуун жаран дөрөв
+365 – dreihundertfünfundsechzig | гурван зуун жаран тав
+366 – dreihundertsechsundsechzig | гурван зуун жаран зургаа
+367 – dreihundertsiebenundsechzig | гурван зуун жаран долоо
+368 – dreihundertachtundsechzig | гурван зуун жаран найм
+369 – dreihundertneunundsechzig | гурван зуун жаран ес
+370 – dreihundertsiebzig | гурван зуун дал
+371 – dreihunderteinundsiebzig | гурван зуун далан нэг
+372 – dreihundertzweiundsiebzig | гурван зуун далан хоёр
+373 – dreihundertdreiundsiebzig | гурван зуун далан гурав
+374 – dreihundertvierundsiebzig | гурван зуун далан дөрөв
+375 – dreihundertfünfundsiebzig | гурван зуун далан тав
+376 – dreihundertsechsundsiebzig | гурван зуун далан зургаа
+377 – dreihundertsiebenundsiebzig | гурван зуун далан долоо
+378 – dreihundertachtundsiebzig | гурван зуун далан найм
+379 – dreihundertneunundsiebzig | гурван зуун далан ес
+380 – dreihundertachtzig | гурван зуун ная
+381 – dreihunderteinundachtzig | гурван зуун наян нэг
+382 – dreihundertzweiundachtzig | гурван зуун наян хоёр
+383 – dreihundertdreiundachtzig | гурван зуун наян гурав
+384 – dreihundertvierundachtzig | гурван зуун наян дөрөв
+385 – dreihundertfünfundachtzig | гурван зуун наян тав
+386 – dreihundertsechsundachtzig | гурван зуун наян зургаа
+387 – dreihundertsiebenundachtzig | гурван зуун наян долоо
+388 – dreihundertachtundachtzig | гурван зуун наян найм
+389 – dreihundertneunundachtzig | гурван зуун наян ес
+390 – dreihundertneunzig | гурван зуун ер
+391 – dreihunderteinundneunzig | гурван зуун ерэн нэг
+392 – dreihundertzweiundneunzig | гурван зуун ерэн хоёр
+393 – dreihundertdreiundneunzig | гурван зуун ерэн гурав
+394 – dreihundertvierundneunzig | гурван зуун ерэн дөрөв
+395 – dreihundertfünfundneunzig | гурван зуун ерэн тав
+396 – dreihundertsechsundneunzig | гурван зуун ерэн зургаа
+397 – dreihundertsiebenundneunzig | гурван зуун ерэн долоо
+398 – dreihundertachtundneunzig | гурван зуун ерэн найм
+399 – dreihundertneunundneunzig | гурван зуун ерэн ес
+400 – vierhundert | дөрвөн зуу
+401 – vierhunderteins | дөрвөн зуун нэг
+402 – vierhundertzwei | дөрвөн зуун хоёр
+403 – vierhundertdrei | дөрвөн зуун гурав
+404 – vierhundertvier | дөрвөн зуун дөрөв
+405 – vierhundertfünf | дөрвөн зуун тав
+406 – vierhundertsechs | дөрвөн зуун зургаа
+407 – vierhundertsieben | дөрвөн зуун долоо
+408 – vierhundertacht | дөрвөн зуун найм
+409 – vierhundertneun | дөрвөн зуун ес
+410 – vierhundertzehn | дөрвөн зуун арав
+411 – vierhundertelf | дөрвөн зуун арван нэг
+412 – vierhundertzwölf | дөрвөн зуун арван хоёр
+413 – vierhundertdreizehn | дөрвөн зуун арван гурав
+414 – vierhundertvierzehn | дөрвөн зуун арван дөрөв
+415 – vierhundertfünfzehn | дөрвөн зуун арван тав
+416 – vierhundertsechzehn | дөрвөн зуун арван зургаа
+417 – vierhundertsiebzehn | дөрвөн зуун арван долоо
+418 – vierhundertachtzehn | дөрвөн зуун арван найм
+419 – vierhundertneunzehn | дөрвөн зуун арван ес
+420 – vierhundertzwanzig | дөрвөн зуун хорь
+421 – vierhunderteinundzwanzig | дөрвөн зуун хорин нэг
+422 – vierhundertzweiundzwanzig | дөрвөн зуун хорин хоёр
+423 – vierhundertdreiundzwanzig | дөрвөн зуун хорин гурав
+424 – vierhundertvierundzwanzig | дөрвөн зуун хорин дөрөв
+425 – vierhundertfünfundzwanzig | дөрвөн зуун хорин тав
+426 – vierhundertsechsundzwanzig | дөрвөн зуун хорин зургаа
+427 – vierhundertsiebenundzwanzig | дөрвөн зуун хорин долоо
+428 – vierhundertachtundzwanzig | дөрвөн зуун хорин найм
+429 – vierhundertneunundzwanzig | дөрвөн зуун хорин ес
+430 – vierhundertdreißig | дөрвөн зуун гуч
+431 – vierhunderteinunddreißig | дөрвөн зуун гучин нэг
+432 – vierhundertzweiunddreißig | дөрвөн зуун гучин хоёр
+433 – vierhundertdreiunddreißig | дөрвөн зуун гучин гурав
+434 – vierhundertvierunddreißig | дөрвөн зуун гучин дөрөв
+435 – vierhundertfünfunddreißig | дөрвөн зуун гучин тав
+436 – vierhundertsechsunddreißig | дөрвөн зуун гучин зургаа
+437 – vierhundertsiebenunddreißig | дөрвөн зуун гучин долоо
+438 – vierhundertachtunddreißig | дөрвөн зуун гучин найм
+439 – vierhundertneununddreißig | дөрвөн зуун гучин ес
+440 – vierhundertvierzig | дөрвөн зуун дөч
+441 – vierhunderteinundvierzig | дөрвөн зуун дөчин нэг
+442 – vierhundertzweiundvierzig | дөрвөн зуун дөчин хоёр
+443 – vierhundertdreiundvierzig | дөрвөн зуун дөчин гурав
+444 – vierhundertvierundvierzig | дөрвөн зуун дөчин дөрөв
+445 – vierhundertfünfundvierzig | дөрвөн зуун дөчин тав
+446 – vierhundertsechsundvierzig | дөрвөн зуун дөчин зургаа
+447 – vierhundertsiebenundvierzig | дөрвөн зуун дөчин долоо
+448 – vierhundertachtundvierzig | дөрвөн зуун дөчин найм
+449 – vierhundertneunundvierzig | дөрвөн зуун дөчин ес
+450 – vierhundertfünfzig | дөрвөн зуун тавь
+451 – vierhunderteinundfünfzig | дөрвөн зуун тавин нэг
+452 – vierhundertzweiundfünfzig | дөрвөн зуун тавин хоёр
+453 – vierhundertdreiundfünfzig | дөрвөн зуун тавин гурав
+454 – vierhundertvierundfünfzig | дөрвөн зуун тавин дөрөв
+455 – vierhundertfünfundfünfzig | дөрвөн зуун тавин тав
+456 – vierhundertsechsundfünfzig | дөрвөн зуун тавин зургаа
+457 – vierhundertsiebenundfünfzig | дөрвөн зуун тавин долоо
+458 – vierhundertachtundfünfzig | дөрвөн зуун тавин найм
+459 – vierhundertneunundfünfzig | дөрвөн зуун тавин ес
+460 – vierhundertsechzig | дөрвөн зуун жар
+461 – vierhunderteinundsechzig | дөрвөн зуун жаран нэг
+462 – vierhundertzweiundsechzig | дөрвөн зуун жаран хоёр
+463 – vierhundertdreiundsechzig | дөрвөн зуун жаран гурав
+464 – vierhundertvierundsechzig | дөрвөн зуун жаран дөрөв
+465 – vierhundertfünfundsechzig | дөрвөн зуун жаран тав
+466 – vierhundertsechsundsechzig | дөрвөн зуун жаран зургаа
+467 – vierhundertsiebenundsechzig | дөрвөн зуун жаран долоо
+468 – vierhundertachtundsechzig | дөрвөн зуун жаран найм
+469 – vierhundertneunundsechzig | дөрвөн зуун жаран ес
+470 – vierhundertsiebzig | дөрвөн зуун дал
+471 – vierhunderteinundsiebzig | дөрвөн зуун далан нэг
+472 – vierhundertzweiundsiebzig | дөрвөн зуун далан хоёр
+473 – vierhundertdreiundsiebzig | дөрвөн зуун далан гурав
+474 – vierhundertvierundsiebzig | дөрвөн зуун далан дөрөв
+475 – vierhundertfünfundsiebzig | дөрвөн зуун далан тав
+476 – vierhundertsechsundsiebzig | дөрвөн зуун далан зургаа
+477 – vierhundertsiebenundsiebzig | дөрвөн зуун далан долоо
+478 – vierhundertachtundsiebzig | дөрвөн зуун далан найм
+479 – vierhundertneunundsiebzig | дөрвөн зуун далан ес
+480 – vierhundertachtzig | дөрвөн зуун ная
+481 – vierhunderteinundachtzig | дөрвөн зуун наян нэг
+482 – vierhundertzweiundachtzig | дөрвөн зуун наян хоёр
+483 – vierhundertdreiundachtzig | дөрвөн зуун наян гурав
+484 – vierhundertvierundachtzig | дөрвөн зуун наян дөрөв
+485 – vierhundertfünfundachtzig | дөрвөн зуун наян тав
+486 – vierhundertsechsundachtzig | дөрвөн зуун наян зургаа
+487 – vierhundertsiebenundachtzig | дөрвөн зуун наян долоо
+488 – vierhundertachtundachtzig | дөрвөн зуун наян найм
+489 – vierhundertneunundachtzig | дөрвөн зуун наян ес
+490 – vierhundertneunzig | дөрвөн зуун ер
+491 – vierhunderteinundneunzig | дөрвөн зуун ерэн нэг
+492 – vierhundertzweiundneunzig | дөрвөн зуун ерэн хоёр
+493 – vierhundertdreiundneunzig | дөрвөн зуун ерэн гурав
+494 – vierhundertvierundneunzig | дөрвөн зуун ерэн дөрөв
+495 – vierhundertfünfundneunzig | дөрвөн зуун ерэн тав
+496 – vierhundertsechsundneunzig | дөрвөн зуун ерэн зургаа
+497 – vierhundertsiebenundneunzig | дөрвөн зуун ерэн долоо
+498 – vierhundertachtundneunzig | дөрвөн зуун ерэн найм
+499 – vierhundertneunundneunzig | дөрвөн зуун ерэн ес
+500 – fünfhundert | таван зуу
+501 – fünfhunderteins | таван зуун нэг
+502 – fünfhundertzwei | таван зуун хоёр
+503 – fünfhundertdrei | таван зуун гурав
+504 – fünfhundertvier | таван зуун дөрөв
+505 – fünfhundertfünf | таван зуун тав
+506 – fünfhundertsechs | таван зуун зургаа
+507 – fünfhundertsieben | таван зуун долоо
+508 – fünfhundertacht | таван зуун найм
+509 – fünfhundertneun | таван зуун ес
+510 – fünfhundertzehn | таван зуун арав
+511 – fünfhundertelf | таван зуун арван нэг
+512 – fünfhundertzwölf | таван зуун арван хоёр
+513 – fünfhundertdreizehn | таван зуун арван гурав
+514 – fünfhundertvierzehn | таван зуун арван дөрөв
+515 – fünfhundertfünfzehn | таван зуун арван тав
+516 – fünfhundertsechzehn | таван зуун арван зургаа
+517 – fünfhundertsiebzehn | таван зуун арван долоо
+518 – fünfhundertachtzehn | таван зуун арван найм
+519 – fünfhundertneunzehn | таван зуун арван ес
+520 – fünfhundertzwanzig | таван зуун хорь
+521 – fünfhunderteinundzwanzig | таван зуун хорин нэг
+522 – fünfhundertzweiundzwanzig | таван зуун хорин хоёр
+523 – fünfhundertdreiundzwanzig | таван зуун хорин гурав
+524 – fünfhundertvierundzwanzig | таван зуун хорин дөрөв
+525 – fünfhundertfünfundzwanzig | таван зуун хорин тав
+526 – fünfhundertsechsundzwanzig | таван зуун хорин зургаа
+527 – fünfhundertsiebenundzwanzig | таван зуун хорин долоо
+528 – fünfhundertachtundzwanzig | таван зуун хорин найм
+529 – fünfhundertneunundzwanzig | таван зуун хорин ес
+530 – fünfhundertdreißig | таван зуун гуч
+531 – fünfhunderteinunddreißig | таван зуун гучин нэг
+532 – fünfhundertzweiunddreißig | таван зуун гучин хоёр
+533 – fünfhundertdreiunddreißig | таван зуун гучин гурав
+534 – fünfhundertvierunddreißig | таван зуун гучин дөрөв
+535 – fünfhundertfünfunddreißig | таван зуун гучин тав
+536 – fünfhundertsechsunddreißig | таван зуун гучин зургаа
+537 – fünfhundertsiebenunddreißig | таван зуун гучин долоо
+538 – fünfhundertachtunddreißig | таван зуун гучин найм
+539 – fünfhundertneununddreißig | таван зуун гучин ес
+540 – fünfhundertvierzig | таван зуун дөч
+541 – fünfhunderteinundvierzig | таван зуун дөчин нэг
+542 – fünfhundertzweiundvierzig | таван зуун дөчин хоёр
+543 – fünfhundertdreiundvierzig | таван зуун дөчин гурав
+544 – fünfhundertvierundvierzig | таван зуун дөчин дөрөв
+545 – fünfhundertfünfundvierzig | таван зуун дөчин тав
+546 – fünfhundertsechsundvierzig | таван зуун дөчин зургаа
+547 – fünfhundertsiebenundvierzig | таван зуун дөчин долоо
+548 – fünfhundertachtundvierzig | таван зуун дөчин найм
+549 – fünfhundertneunundvierzig | таван зуун дөчин ес
+550 – fünfhundertfünfzig | таван зуун тавь
+551 – fünfhunderteinundfünfzig | таван зуун тавин нэг
+552 – fünfhundertzweiundfünfzig | таван зуун тавин хоёр
+553 – fünfhundertdreiundfünfzig | таван зуун тавин гурав
+554 – fünfhundertvierundfünfzig | таван зуун тавин дөрөв
+555 – fünfhundertfünfundfünfzig | таван зуун тавин тав
+556 – fünfhundertsechsundfünfzig | таван зуун тавин зургаа
+557 – fünfhundertsiebenundfünfzig | таван зуун тавин долоо
+558 – fünfhundertachtundfünfzig | таван зуун тавин найм
+559 – fünfhundertneunundfünfzig | таван зуун тавин ес
+560 – fünfhundertsechzig | таван зуун жар
+561 – fünfhunderteinundsechzig | таван зуун жаран нэг
+562 – fünfhundertzweiundsechzig | таван зуун жаран хоёр
+563 – fünfhundertdreiundsechzig | таван зуун жаран гурав
+564 – fünfhundertvierundsechzig | таван зуун жаран дөрөв
+565 – fünfhundertfünfundsechzig | таван зуун жаран тав
+566 – fünfhundertsechsundsechzig | таван зуун жаран зургаа
+567 – fünfhundertsiebenundsechzig | таван зуун жаран долоо
+568 – fünfhundertachtundsechzig | таван зуун жаран найм
+569 – fünfhundertneunundsechzig | таван зуун жаран ес
+570 – fünfhundertsiebzig | таван зуун дал
+571 – fünfhunderteinundsiebzig | таван зуун далан нэг
+572 – fünfhundertzweiundsiebzig | таван зуун далан хоёр
+573 – fünfhundertdreiundsiebzig | таван зуун далан гурав
+574 – fünfhundertvierundsiebzig | таван зуун далан дөрөв
+575 – fünfhundertfünfundsiebzig | таван зуун далан тав
+576 – fünfhundertsechsundsiebzig | таван зуун далан зургаа
+577 – fünfhundertsiebenundsiebzig | таван зуун далан долоо
+578 – fünfhundertachtundsiebzig | таван зуун далан найм
+579 – fünfhundertneunundsiebzig | таван зуун далан ес
+580 – fünfhundertachtzig | таван зуун ная
+581 – fünfhunderteinundachtzig | таван зуун наян нэг
+582 – fünfhundertzweiundachtzig | таван зуун наян хоёр
+583 – fünfhundertdreiundachtzig | таван зуун наян гурав
+584 – fünfhundertvierundachtzig | таван зуун наян дөрөв
+585 – fünfhundertfünfundachtzig | таван зуун наян тав
+586 – fünfhundertsechsundachtzig | таван зуун наян зургаа
+587 – fünfhundertsiebenundachtzig | таван зуун наян долоо
+588 – fünfhundertachtundachtzig | таван зуун наян найм
+589 – fünfhundertneunundachtzig | таван зуун наян ес
+590 – fünfhundertneunzig | таван зуун ер
+591 – fünfhunderteinundneunzig | таван зуун ерэн нэг
+592 – fünfhundertzweiundneunzig | таван зуун ерэн хоёр
+593 – fünfhundertdreiundneunzig | таван зуун ерэн гурав
+594 – fünfhundertvierundneunzig | таван зуун ерэн дөрөв
+595 – fünfhundertfünfundneunzig | таван зуун ерэн тав
+596 – fünfhundertsechsundneunzig | таван зуун ерэн зургаа
+597 – fünfhundertsiebenundneunzig | таван зуун ерэн долоо
+598 – fünfhundertachtundneunzig | таван зуун ерэн найм
+599 – fünfhundertneunundneunzig | таван зуун ерэн ес
+600 – sechshundert | зургаан зуу
+601 – sechshunderteins | зургаан зуун нэг
+602 – sechshundertzwei | зургаан зуун хоёр
+603 – sechshundertdrei | зургаан зуун гурав
+604 – sechshundertvier | зургаан зуун дөрөв
+605 – sechshundertfünf | зургаан зуун тав
+606 – sechshundertsechs | зургаан зуун зургаа
+607 – sechshundertsieben | зургаан зуун долоо
+608 – sechshundertacht | зургаан зуун найм
+609 – sechshundertneun | зургаан зуун ес
+610 – sechshundertzehn | зургаан зуун арав
+611 – sechshundertelf | зургаан зуун арван нэг
+612 – sechshundertzwölf | зургаан зуун арван хоёр
+613 – sechshundertdreizehn | зургаан зуун арван гурав
+614 – sechshundertvierzehn | зургаан зуун арван дөрөв
+615 – sechshundertfünfzehn | зургаан зуун арван тав
+616 – sechshundertsechzehn | зургаан зуун арван зургаа
+617 – sechshundertsiebzehn | зургаан зуун арван долоо
+618 – sechshundertachtzehn | зургаан зуун арван найм
+619 – sechshundertneunzehn | зургаан зуун арван ес
+620 – sechshundertzwanzig | зургаан зуун хорь
+621 – sechshunderteinundzwanzig | зургаан зуун хорин нэг
+622 – sechshundertzweiundzwanzig | зургаан зуун хорин хоёр
+623 – sechshundertdreiundzwanzig | зургаан зуун хорин гурав
+624 – sechshundertvierundzwanzig | зургаан зуун хорин дөрөв
+625 – sechshundertfünfundzwanzig | зургаан зуун хорин тав
+626 – sechshundertsechsundzwanzig | зургаан зуун хорин зургаа
+627 – sechshundertsiebenundzwanzig | зургаан зуун хорин долоо
+628 – sechshundertachtundzwanzig | зургаан зуун хорин найм
+629 – sechshundertneunundzwanzig | зургаан зуун хорин ес
+630 – sechshundertdreißig | зургаан зуун гуч
+631 – sechshunderteinunddreißig | зургаан зуун гучин нэг
+632 – sechshundertzweiunddreißig | зургаан зуун гучин хоёр
+633 – sechshundertdreiunddreißig | зургаан зуун гучин гурав
+634 – sechshundertvierunddreißig | зургаан зуун гучин дөрөв
+635 – sechshundertfünfunddreißig | зургаан зуун гучин тав
+636 – sechshundertsechsunddreißig | зургаан зуун гучин зургаа
+637 – sechshundertsiebenunddreißig | зургаан зуун гучин долоо
+638 – sechshundertachtunddreißig | зургаан зуун гучин найм
+639 – sechshundertneununddreißig | зургаан зуун гучин ес
+640 – sechshundertvierzig | зургаан зуун дөч
+641 – sechshunderteinundvierzig | зургаан зуун дөчин нэг
+642 – sechshundertzweiundvierzig | зургаан зуун дөчин хоёр
+643 – sechshundertdreiundvierzig | зургаан зуун дөчин гурав
+644 – sechshundertvierundvierzig | зургаан зуун дөчин дөрөв
+645 – sechshundertfünfundvierzig | зургаан зуун дөчин тав
+646 – sechshundertsechsundvierzig | зургаан зуун дөчин зургаа
+647 – sechshundertsiebenundvierzig | зургаан зуун дөчин долоо
+648 – sechshundertachtundvierzig | зургаан зуун дөчин найм
+649 – sechshundertneunundvierzig | зургаан зуун дөчин ес
+650 – sechshundertfünfzig | зургаан зуун тавь
+651 – sechshunderteinundfünfzig | зургаан зуун тавин нэг
+652 – sechshundertzweiundfünfzig | зургаан зуун тавин хоёр
+653 – sechshundertdreiundfünfzig | зургаан зуун тавин гурав
+654 – sechshundertvierundfünfzig | зургаан зуун тавин дөрөв
+655 – sechshundertfünfundfünfzig | зургаан зуун тавин тав
+656 – sechshundertsechsundfünfzig | зургаан зуун тавин зургаа
+657 – sechshundertsiebenundfünfzig | зургаан зуун тавин долоо
+658 – sechshundertachtundfünfzig | зургаан зуун тавин найм
+659 – sechshundertneunundfünfzig | зургаан зуун тавин ес
+660 – sechshundertsechzig | зургаан зуун жар
+661 – sechshunderteinundsechzig | зургаан зуун жаран нэг
+662 – sechshundertzweiundsechzig | зургаан зуун жаран хоёр
+663 – sechshundertdreiundsechzig | зургаан зуун жаран гурав
+664 – sechshundertvierundsechzig | зургаан зуун жаран дөрөв
+665 – sechshundertfünfundsechzig | зургаан зуун жаран тав
+666 – sechshundertsechsundsechzig | зургаан зуун жаран зургаа
+667 – sechshundertsiebenundsechzig | зургаан зуун жаран долоо
+668 – sechshundertachtundsechzig | зургаан зуун жаран найм
+669 – sechshundertneunundsechzig | зургаан зуун жаран ес
+670 – sechshundertsiebzig | зургаан зуун дал
+671 – sechshunderteinundsiebzig | зургаан зуун далан нэг
+672 – sechshundertzweiundsiebzig | зургаан зуун далан хоёр
+673 – sechshundertdreiundsiebzig | зургаан зуун далан гурав
+674 – sechshundertvierundsiebzig | зургаан зуун далан дөрөв
+675 – sechshundertfünfundsiebzig | зургаан зуун далан тав
+676 – sechshundertsechsundsiebzig | зургаан зуун далан зургаа
+677 – sechshundertsiebenundsiebzig | зургаан зуун далан долоо
+678 – sechshundertachtundsiebzig | зургаан зуун далан найм
+679 – sechshundertneunundsiebzig | зургаан зуун далан ес
+680 – sechshundertachtzig | зургаан зуун ная
+681 – sechshunderteinundachtzig | зургаан зуун наян нэг
+682 – sechshundertzweiundachtzig | зургаан зуун наян хоёр
+683 – sechshundertdreiundachtzig | зургаан зуун наян гурав
+684 – sechshundertvierundachtzig | зургаан зуун наян дөрөв
+685 – sechshundertfünfundachtzig | зургаан зуун наян тав
+686 – sechshundertsechsundachtzig | зургаан зуун наян зургаа
+687 – sechshundertsiebenundachtzig | зургаан зуун наян долоо
+688 – sechshundertachtundachtzig | зургаан зуун наян найм
+689 – sechshundertneunundachtzig | зургаан зуун наян ес
+690 – sechshundertneunzig | зургаан зуун ер
+691 – sechshunderteinundneunzig | зургаан зуун ерэн нэг
+692 – sechshundertzweiundneunzig | зургаан зуун ерэн хоёр
+693 – sechshundertdreiundneunzig | зургаан зуун ерэн гурав
+694 – sechshundertvierundneunzig | зургаан зуун ерэн дөрөв
+695 – sechshundertfünfundneunzig | зургаан зуун ерэн тав
+696 – sechshundertsechsundneunzig | зургаан зуун ерэн зургаа
+697 – sechshundertsiebenundneunzig | зургаан зуун ерэн долоо
+698 – sechshundertachtundneunzig | зургаан зуун ерэн найм
+699 – sechshundertneunundneunzig | зургаан зуун ерэн ес
+700 – siebenhundert | долоон зуу
+701 – siebenhunderteins | долоон зуун нэг
+702 – siebenhundertzwei | долоон зуун хоёр
+703 – siebenhundertdrei | долоон зуун гурав
+704 – siebenhundertvier | долоон зуун дөрөв
+705 – siebenhundertfünf | долоон зуун тав
+706 – siebenhundertsechs | долоон зуун зургаа
+707 – siebenhundertsieben | долоон зуун долоо
+708 – siebenhundertacht | долоон зуун найм
+709 – siebenhundertneun | долоон зуун ес
+710 – siebenhundertzehn | долоон зуун арав
+711 – siebenhundertelf | долоон зуун арван нэг
+712 – siebenhundertzwölf | долоон зуун арван хоёр
+713 – siebenhundertdreizehn | долоон зуун арван гурав
+714 – siebenhundertvierzehn | долоон зуун арван дөрөв
+715 – siebenhundertfünfzehn | долоон зуун арван тав
+716 – siebenhundertsechzehn | долоон зуун арван зургаа
+717 – siebenhundertsiebzehn | долоон зуун арван долоо
+718 – siebenhundertachtzehn | долоон зуун арван найм
+719 – siebenhundertneunzehn | долоон зуун арван ес
+720 – siebenhundertzwanzig | долоон зуун хорь
+721 – siebenhunderteinundzwanzig | долоон зуун хорин нэг
+722 – siebenhundertzweiundzwanzig | долоон зуун хорин хоёр
+723 – siebenhundertdreiundzwanzig | долоон зуун хорин гурав
+724 – siebenhundertvierundzwanzig | долоон зуун хорин дөрөв
+725 – siebenhundertfünfundzwanzig | долоон зуун хорин тав
+726 – siebenhundertsechsundzwanzig | долоон зуун хорин зургаа
+727 – siebenhundertsiebenundzwanzig | долоон зуун хорин долоо
+728 – siebenhundertachtundzwanzig | долоон зуун хорин найм
+729 – siebenhundertneunundzwanzig | долоон зуун хорин ес
+730 – siebenhundertdreißig | долоон зуун гуч
+731 – siebenhunderteinunddreißig | долоон зуун гучин нэг
+732 – siebenhundertzweiunddreißig | долоон зуун гучин хоёр
+733 – siebenhundertdreiunddreißig | долоон зуун гучин гурав
+734 – siebenhundertvierunddreißig | долоон зуун гучин дөрөв
+735 – siebenhundertfünfunddreißig | долоон зуун гучин тав
+736 – siebenhundertsechsunddreißig | долоон зуун гучин зургаа
+737 – siebenhundertsiebenunddreißig | долоон зуун гучин долоо
+738 – siebenhundertachtunddreißig | долоон зуун гучин найм
+739 – siebenhundertneununddreißig | долоон зуун гучин ес
+740 – siebenhundertvierzig | долоон зуун дөч
+741 – siebenhunderteinundvierzig | долоон зуун дөчин нэг
+742 – siebenhundertzweiundvierzig | долоон зуун дөчин хоёр
+743 – siebenhundertdreiundvierzig | долоон зуун дөчин гурав
+744 – siebenhundertvierundvierzig | долоон зуун дөчин дөрөв
+745 – siebenhundertfünfundvierzig | долоон зуун дөчин тав
+746 – siebenhundertsechsundvierzig | долоон зуун дөчин зургаа
+747 – siebenhundertsiebenundvierzig | долоон зуун дөчин долоо
+748 – siebenhundertachtundvierzig | долоон зуун дөчин найм
+749 – siebenhundertneunundvierzig | долоон зуун дөчин ес
+750 – siebenhundertfünfzig | долоон зуун тавь
+751 – siebenhunderteinundfünfzig | долоон зуун тавин нэг
+752 – siebenhundertzweiundfünfzig | долоон зуун тавин хоёр
+753 – siebenhundertdreiundfünfzig | долоон зуун тавин гурав
+754 – siebenhundertvierundfünfzig | долоон зуун тавин дөрөв
+755 – siebenhundertfünfundfünfzig | долоон зуун тавин тав
+756 – siebenhundertsechsundfünfzig | долоон зуун тавин зургаа
+757 – siebenhundertsiebenundfünfzig | долоон зуун тавин долоо
+758 – siebenhundertachtundfünfzig | долоон зуун тавин найм
+759 – siebenhundertneunundfünfzig | долоон зуун тавин ес
+760 – siebenhundertsechzig | долоон зуун жар
+761 – siebenhunderteinundsechzig | долоон зуун жаран нэг
+762 – siebenhundertzweiundsechzig | долоон зуун жаран хоёр
+763 – siebenhundertdreiundsechzig | долоон зуун жаран гурав
+764 – siebenhundertvierundsechzig | долоон зуун жаран дөрөв
+765 – siebenhundertfünfundsechzig | долоон зуун жаран тав
+766 – siebenhundertsechsundsechzig | долоон зуун жаран зургаа
+767 – siebenhundertsiebenundsechzig | долоон зуун жаран долоо
+768 – siebenhundertachtundsechzig | долоон зуун жаран найм
+769 – siebenhundertneunundsechzig | долоон зуун жаран ес
+770 – siebenhundertsiebzig | долоон зуун дал
+771 – siebenhunderteinundsiebzig | долоон зуун далан нэг
+772 – siebenhundertzweiundsiebzig | долоон зуун далан хоёр
+773 – siebenhundertdreiundsiebzig | долоон зуун далан гурав
+774 – siebenhundertvierundsiebzig | долоон зуун далан дөрөв
+775 – siebenhundertfünfundsiebzig | долоон зуун далан тав
+776 – siebenhundertsechsundsiebzig | долоон зуун далан зургаа
+777 – siebenhundertsiebenundsiebzig | долоон зуун далан долоо
+778 – siebenhundertachtundsiebzig | долоон зуун далан найм
+779 – siebenhundertneunundsiebzig | долоон зуун далан ес
+780 – siebenhundertachtzig | долоон зуун ная
+781 – siebenhunderteinundachtzig | долоон зуун наян нэг
+782 – siebenhundertzweiundachtzig | долоон зуун наян хоёр
+783 – siebenhundertdreiundachtzig | долоон зуун наян гурав
+784 – siebenhundertvierundachtzig | долоон зуун наян дөрөв
+785 – siebenhundertfünfundachtzig | долоон зуун наян тав
+786 – siebenhundertsechsundachtzig | долоон зуун наян зургаа
+787 – siebenhundertsiebenundachtzig | долоон зуун наян долоо
+788 – siebenhundertachtundachtzig | долоон зуун наян найм
+789 – siebenhundertneunundachtzig | долоон зуун наян ес
+790 – siebenhundertneunzig | долоон зуун ер
+791 – siebenhunderteinundneunzig | долоон зуун ерэн нэг
+792 – siebenhundertzweiundneunzig | долоон зуун ерэн хоёр
+793 – siebenhundertdreiundneunzig | долоон зуун ерэн гурав
+794 – siebenhundertvierundneunzig | долоон зуун ерэн дөрөв
+795 – siebenhundertfünfundneunzig | долоон зуун ерэн тав
+796 – siebenhundertsechsundneunzig | долоон зуун ерэн зургаа
+797 – siebenhundertsiebenundneunzig | долоон зуун ерэн долоо
+798 – siebenhundertachtundneunzig | долоон зуун ерэн найм
+799 – siebenhundertneunundneunzig | долоон зуун ерэн ес
+800 – achthundert | найман зуу
+801 – achthunderteins | найман зуун нэг
+802 – achthundertzwei | найман зуун хоёр
+803 – achthundertdrei | найман зуун гурав
+804 – achthundertvier | найман зуун дөрөв
+805 – achthundertfünf | найман зуун тав
+806 – achthundertsechs | найман зуун зургаа
+807 – achthundertsieben | найман зуун долоо
+808 – achthundertacht | найман зуун найм
+809 – achthundertneun | найман зуун ес
+810 – achthundertzehn | найман зуун арав
+811 – achthundertelf | найман зуун арван нэг
+812 – achthundertzwölf | найман зуун арван хоёр
+813 – achthundertdreizehn | найман зуун арван гурав
+814 – achthundertvierzehn | найман зуун арван дөрөв
+815 – achthundertfünfzehn | найман зуун арван тав
+816 – achthundertsechzehn | найман зуун арван зургаа
+817 – achthundertsiebzehn | найман зуун арван долоо
+818 – achthundertachtzehn | найман зуун арван найм
+819 – achthundertneunzehn | найман зуун арван ес
+820 – achthundertzwanzig | найман зуун хорь
+821 – achthunderteinundzwanzig | найман зуун хорин нэг
+822 – achthundertzweiundzwanzig | найман зуун хорин хоёр
+823 – achthundertdreiundzwanzig | найман зуун хорин гурав
+824 – achthundertvierundzwanzig | найман зуун хорин дөрөв
+825 – achthundertfünfundzwanzig | найман зуун хорин тав
+826 – achthundertsechsundzwanzig | найман зуун хорин зургаа
+827 – achthundertsiebenundzwanzig | найман зуун хорин долоо
+828 – achthundertachtundzwanzig | найман зуун хорин найм
+829 – achthundertneunundzwanzig | найман зуун хорин ес
+830 – achthundertdreißig | найман зуун гуч
+831 – achthunderteinunddreißig | найман зуун гучин нэг
+832 – achthundertzweiunddreißig | найман зуун гучин хоёр
+833 – achthundertdreiunddreißig | найман зуун гучин гурав
+834 – achthundertvierunddreißig | найман зуун гучин дөрөв
+835 – achthundertfünfunddreißig | найман зуун гучин тав
+836 – achthundertsechsunddreißig | найман зуун гучин зургаа
+837 – achthundertsiebenunddreißig | найман зуун гучин долоо
+838 – achthundertachtunddreißig | найман зуун гучин найм
+839 – achthundertneununddreißig | найман зуун гучин ес
+840 – achthundertvierzig | найман зуун дөч
+841 – achthunderteinundvierzig | найман зуун дөчин нэг
+842 – achthundertzweiundvierzig | найман зуун дөчин хоёр
+843 – achthundertdreiundvierzig | найман зуун дөчин гурав
+844 – achthundertvierundvierzig | найман зуун дөчин дөрөв
+845 – achthundertfünfundvierzig | найман зуун дөчин тав
+846 – achthundertsechsundvierzig | найман зуун дөчин зургаа
+847 – achthundertsiebenundvierzig | найман зуун дөчин долоо
+848 – achthundertachtundvierzig | найман зуун дөчин найм
+849 – achthundertneunundvierzig | найман зуун дөчин ес
+850 – achthundertfünfzig | найман зуун тавь
+851 – achthunderteinundfünfzig | найман зуун тавин нэг
+852 – achthundertzweiundfünfzig | найман зуун тавин хоёр
+853 – achthundertdreiundfünfzig | найман зуун тавин гурав
+854 – achthundertvierundfünfzig | найман зуун тавин дөрөв
+855 – achthundertfünfundfünfzig | найман зуун тавин тав
+856 – achthundertsechsundfünfzig | найман зуун тавин зургаа
+857 – achthundertsiebenundfünfzig | найман зуун тавин долоо
+858 – achthundertachtundfünfzig | найман зуун тавин найм
+859 – achthundertneunundfünfzig | найман зуун тавин ес
+860 – achthundertsechzig | найман зуун жар
+861 – achthunderteinundsechzig | найман зуун жаран нэг
+862 – achthundertzweiundsechzig | найман зуун жаран хоёр
+863 – achthundertdreiundsechzig | найман зуун жаран гурав
+864 – achthundertvierundsechzig | найман зуун жаран дөрөв
+865 – achthundertfünfundsechzig | найман зуун жаран тав
+866 – achthundertsechsundsechzig | найман зуун жаран зургаа
+867 – achthundertsiebenundsechzig | найман зуун жаран долоо
+868 – achthundertachtundsechzig | найман зуун жаран найм
+869 – achthundertneunundsechzig | найман зуун жаран ес
+870 – achthundertsiebzig | найман зуун дал
+871 – achthunderteinundsiebzig | найман зуун далан нэг
+872 – achthundertzweiundsiebzig | найман зуун далан хоёр
+873 – achthundertdreiundsiebzig | найман зуун далан гурав
+874 – achthundertvierundsiebzig | найман зуун далан дөрөв
+875 – achthundertfünfundsiebzig | найман зуун далан тав
+876 – achthundertsechsundsiebzig | найман зуун далан зургаа
+877 – achthundertsiebenundsiebzig | найман зуун далан долоо
+878 – achthundertachtundsiebzig | найман зуун далан найм
+879 – achthundertneunundsiebzig | найман зуун далан ес
+880 – achthundertachtzig | найман зуун ная
+881 – achthunderteinundachtzig | найман зуун наян нэг
+882 – achthundertzweiundachtzig | найман зуун наян хоёр
+883 – achthundertdreiundachtzig | найман зуун наян гурав
+884 – achthundertvierundachtzig | найман зуун наян дөрөв
+885 – achthundertfünfundachtzig | найман зуун наян тав
+886 – achthundertsechsundachtzig | найман зуун наян зургаа
+887 – achthundertsiebenundachtzig | найман зуун наян долоо
+888 – achthundertachtundachtzig | найман зуун наян найм
+889 – achthundertneunundachtzig | найман зуун наян ес
+890 – achthundertneunzig | найман зуун ер
+891 – achthunderteinundneunzig | найман зуун ерэн нэг
+892 – achthundertzweiundneunzig | найман зуун ерэн хоёр
+893 – achthundertdreiundneunzig | найман зуун ерэн гурав
+894 – achthundertvierundneunzig | найман зуун ерэн дөрөв
+895 – achthundertfünfundneunzig | найман зуун ерэн тав
+896 – achthundertsechsundneunzig | найман зуун ерэн зургаа
+897 – achthundertsiebenundneunzig | найман зуун ерэн долоо
+898 – achthundertachtundneunzig | найман зуун ерэн найм
+899 – achthundertneunundneunzig | найман зуун ерэн ес
+900 – neunhundert | есөн зуу
+901 – neunhunderteins | есөн зуун нэг
+902 – neunhundertzwei | есөн зуун хоёр
+903 – neunhundertdrei | есөн зуун гурав
+904 – neunhundertvier | есөн зуун дөрөв
+905 – neunhundertfünf | есөн зуун тав
+906 – neunhundertsechs | есөн зуун зургаа
+907 – neunhundertsieben | есөн зуун долоо
+908 – neunhundertacht | есөн зуун найм
+909 – neunhundertneun | есөн зуун ес
+910 – neunhundertzehn | есөн зуун арав
+911 – neunhundertelf | есөн зуун арван нэг
+912 – neunhundertzwölf | есөн зуун арван хоёр
+913 – neunhundertdreizehn | есөн зуун арван гурав
+914 – neunhundertvierzehn | есөн зуун арван дөрөв
+915 – neunhundertfünfzehn | есөн зуун арван тав
+916 – neunhundertsechzehn | есөн зуун арван зургаа
+917 – neunhundertsiebzehn | есөн зуун арван долоо
+918 – neunhundertachtzehn | есөн зуун арван найм
+919 – neunhundertneunzehn | есөн зуун арван ес
+920 – neunhundertzwanzig | есөн зуун хорь
+921 – neunhunderteinundzwanzig | есөн зуун хорин нэг
+922 – neunhundertzweiundzwanzig | есөн зуун хорин хоёр
+923 – neunhundertdreiundzwanzig | есөн зуун хорин гурав
+924 – neunhundertvierundzwanzig | есөн зуун хорин дөрөв
+925 – neunhundertfünfundzwanzig | есөн зуун хорин тав
+926 – neunhundertsechsundzwanzig | есөн зуун хорин зургаа
+927 – neunhundertsiebenundzwanzig | есөн зуун хорин долоо
+928 – neunhundertachtundzwanzig | есөн зуун хорин найм
+929 – neunhundertneunundzwanzig | есөн зуун хорин ес
+930 – neunhundertdreißig | есөн зуун гуч
+931 – neunhunderteinunddreißig | есөн зуун гучин нэг
+932 – neunhundertzweiunddreißig | есөн зуун гучин хоёр
+933 – neunhundertdreiunddreißig | есөн зуун гучин гурав
+934 – neunhundertvierunddreißig | есөн зуун гучин дөрөв
+935 – neunhundertfünfunddreißig | есөн зуун гучин тав
+936 – neunhundertsechsunddreißig | есөн зуун гучин зургаа
+937 – neunhundertsiebenunddreißig | есөн зуун гучин долоо
+938 – neunhundertachtunddreißig | есөн зуун гучин найм
+939 – neunhundertneununddreißig | есөн зуун гучин ес
+940 – neunhundertvierzig | есөн зуун дөч
+941 – neunhunderteinundvierzig | есөн зуун дөчин нэг
+942 – neunhundertzweiundvierzig | есөн зуун дөчин хоёр
+943 – neunhundertdreiundvierzig | есөн зуун дөчин гурав
+944 – neunhundertvierundvierzig | есөн зуун дөчин дөрөв
+945 – neunhundertfünfundvierzig | есөн зуун дөчин тав
+946 – neunhundertsechsundvierzig | есөн зуун дөчин зургаа
+947 – neunhundertsiebenundvierzig | есөн зуун дөчин долоо
+948 – neunhundertachtundvierzig | есөн зуун дөчин найм
+949 – neunhundertneunundvierzig | есөн зуун дөчин ес
+950 – neunhundertfünfzig | есөн зуун тавь
+951 – neunhunderteinundfünfzig | есөн зуун тавин нэг
+952 – neunhundertzweiundfünfzig | есөн зуун тавин хоёр
+953 – neunhundertdreiundfünfzig | есөн зуун тавин гурав
+954 – neunhundertvierundfünfzig | есөн зуун тавин дөрөв
+955 – neunhundertfünfundfünfzig | есөн зуун тавин тав
+956 – neunhundertsechsundfünfzig | есөн зуун тавин зургаа
+957 – neunhundertsiebenundfünfzig | есөн зуун тавин долоо
+958 – neunhundertachtundfünfzig | есөн зуун тавин найм
+959 – neunhundertneunundfünfzig | есөн зуун тавин ес
+960 – neunhundertsechzig | есөн зуун жар
+961 – neunhunderteinundsechzig | есөн зуун жаран нэг
+962 – neunhundertzweiundsechzig | есөн зуун жаран хоёр
+963 – neunhundertdreiundsechzig | есөн зуун жаран гурав
+964 – neunhundertvierundsechzig | есөн зуун жаран дөрөв
+965 – neunhundertfünfundsechzig | есөн зуун жаран тав
+966 – neunhundertsechsundsechzig | есөн зуун жаран зургаа
+967 – neunhundertsiebenundsechzig | есөн зуун жаран долоо
+968 – neunhundertachtundsechzig | есөн зуун жаран найм
+969 – neunhundertneunundsechzig | есөн зуун жаран ес
+970 – neunhundertsiebzig | есөн зуун дал
+971 – neunhunderteinundsiebzig | есөн зуун далан нэг
+972 – neunhundertzweiundsiebzig | есөн зуун далан хоёр
+973 – neunhundertdreiundsiebzig | есөн зуун далан гурав
+974 – neunhundertvierundsiebzig | есөн зуун далан дөрөв
+975 – neunhundertfünfundsiebzig | есөн зуун далан тав
+976 – neunhundertsechsundsiebzig | есөн зуун далан зургаа
+977 – neunhundertsiebenundsiebzig | есөн зуун далан долоо
+978 – neunhundertachtundsiebzig | есөн зуун далан найм
+979 – neunhundertneunundsiebzig | есөн зуун далан ес
+980 – neunhundertachtzig | есөн зуун ная
+981 – neunhunderteinundachtzig | есөн зуун наян нэг
+982 – neunhundertzweiundachtzig | есөн зуун наян хоёр
+983 – neunhundertdreiundachtzig | есөн зуун наян гурав
+984 – neunhundertvierundachtzig | есөн зуун наян дөрөв
+985 – neunhundertfünfundachtzig | есөн зуун наян тав
+986 – neunhundertsechsundachtzig | есөн зуун наян зургаа
+987 – neunhundertsiebenundachtzig | есөн зуун наян долоо
+988 – neunhundertachtundachtzig | есөн зуун наян найм
+989 – neunhundertneunundachtzig | есөн зуун наян ес
+990 – neunhundertneunzig | есөн зуун ер
+991 – neunhunderteinundneunzig | есөн зуун ерэн нэг
+992 – neunhundertzweiundneunzig | есөн зуун ерэн хоёр
+993 – neunhundertdreiundneunzig | есөн зуун ерэн гурав
+994 – neunhundertvierundneunzig | есөн зуун ерэн дөрөв
+995 – neunhundertfünfundneunzig | есөн зуун ерэн тав
+996 – neunhundertsechsundneunzig | есөн зуун ерэн зургаа
+997 – neunhundertsiebenundneunzig | есөн зуун ерэн долоо
+998 – neunhundertachtundneunzig | есөн зуун ерэн найм
+999 – neunhundertneunundneunzig | есөн зуун ерэн ес
+1000 – tausend | мянга

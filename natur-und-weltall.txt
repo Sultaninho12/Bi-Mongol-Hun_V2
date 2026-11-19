@@ -1,0 +1,284 @@
+# Natur & Weltall
+☁️ Wolke | Үүл | Üül
+🌧️ Regen | Бороо | Boroo
+❄️ Schnee | Цас | Zas
+💨 Wind | Салхи | Salchi
+🔥 Feuer | Гал | Gal
+🌍 Erde / Welt | Дэлхий | Delchii
+🌊 Fluss | Гол | Gol
+🏞️ See | Нуур | Nuur
+🌳 Baum | Мод | Mod
+🌸 Blume | Цэцэг | Zezeg
+🌿 Gras | Өвс | Öws
+🪨 Stein | Чулуу | Chuluu
+🏜️ Steppe | Тал | Tal
+🏜️ Wüste (Gobi) | Говь | Gow
+🌌 Himmel | Тэнгэр | Tenger
+🌈 Regenbogen | Солонго | Solongo
+⚡ Blitz | Цахилгаан цахих | Zachilgaan zachich
+⛈️ Donner / Gewitter | Аянга | Ajanga
+🌫️ Nebel | Манан | Manan
+🧊 Eis | Мөс | Mös
+🌊 Meer / Ozean | Далай | Dalai
+🏝️ Insel | Арал | Aral
+🌲 Wald | Ой мод | Oi mod
+🏖️ Sand | Элс | Els
+🌱 Erde / Boden | Шороо / Газар | Schoroo / Gasar
+💨 Luft | Агаар | Agaar
+🚀 Weltraum | Сансар | Sansar
+🪐 Planet | Гараг | Garag
+🌅 Sonnenaufgang | Нар мандах | Nar mandach
+🌇 Sonnenuntergang | Нар жаргах | Nar dschargach
+🌑 Schatten | Сүүдэр | Süüder
+🫐 Blaubeere | Нэрс | Ners
+🌽 Mais | Эрдэнэ шиш | Erdene schisch
+🍄 Pilz | Мөөг | Möög
+🌾 Mehl | Гурил | Guril
+🛢️ Öl | Тос | Tos
+🍀 Glück | Аз жаргал | As dschargal
+🎂 Geburtstag | Төрсөн өдөр | Törsön ödör
+✈️ Flughafen | Нисэх онгоцны буудал | Nisech ongoznii buudal
+🔭 Fernrohr / Teleskop | Дуран | Duran
+🌕 Vollmond | Тэргэл сар | Tergel sar
+👋 Willkommen! | Тавтай морилно уу! | Tawtai morilno uu!
+🗣️ Flüstern | Шивнэх | Schiwnech
+📢 Rufen / Schreien | Дуудах / Хашгирах | Duudach
+🤐 Schweigen | Дуугүй байх | Duugüi baich
+🤔 Überlegen | Тунгаах / Бодох | Bodoch
+💡 Verstehen | Ойлгох | Oilgoch
+🗣️ Erklären | Тайлбарлах | Tailbarlach
+🔄 Wiederholen | Давтах | Dawtach
+📖 Übersetzen | Орчуулах | Ortschuulach
+✏️ Korrigieren | Засах | Sasach
+🖼️ Zeigen | Үзүүлэх / Харуулах | Üsüülech
+🙈 Verstecken | Нуух | Nuuch
+🔍 Entdecken | Нээх / Олох | Oloch
+🤝 Versprechen | Амлах | Amlach
+🙏 Danken | Талархах | Talarchach
+😔 Entschuldigen | Уучлалт гуйх | Uutschlalt guich
+🤗 Umarmen | Тэврэх | Tewrech
+😘 Küssen | Үнсэх | Ünsech
+👋 Winken | Даллах | Dallach
+👏 Klatschen | Алга таших | Alga taschich
+👍 Nicken / Zustimmen | Зөвшөөрөх | Söwschööröch
+👎 Ablehnen | Татгалзах | Tatgalsach
+🤲 Bitten / Betteln | Гуйх | Guich
+🎁 Bekommen / Erhalten | Хүлээн авах | Chüleen awach
+💰 Bezahlen | Төлөх | Tölöch
+💱 Wechseln / Tauschen | Солих | Solich
+🌱 Pflanzen / Säen | Тарих | Tarich
+🚿 Gießen (Blumen) | Услах | Uslach
+🌾 Ernten | Хураах | Churaach
+🌾 Hafer | Овьёос | Owjoos
+🌾 Gerste | Арвай | Arwai
+🌾 Hirse | Шар будаа | Schar budaa
+🫘 Erbse | Вандуй | Wandui
+🫘 Linse | Сэвэг зарам | Seweg saram
+🌿 Koriander | Кориандр / Үсү | Üsü
+🌿 Minze | Гаа | Gaa
+🌿 Basilikum | Базилик | Basilik
+🌰 Walnuss | Хушга | Chuschga
+🌲 Pinienkern | Хушны самар | Chuschnii samar
+🌲 Förster / Waldhüter | Ойчин | Oitschin
+🌱 Gärtner | Цэцэрлэгч | Zezerlegtsch
+⚓ Matrose / Seemann | Далайчин | Dalaitschin
+🌼 Löwenzahn | Багваахай | Bagwaachai
+🫐 Schwarze Johannisbeere | Үхрийн нүд | Üchriin nüd – wörtl. Kuhauge
+🏖️ Sonnenschirm | Нарны шүхэр | Narnii schücher
+🌳 Schattenplatz | Сүүдэр газар | Süüder gasar
+🌸 Blütenblatt | Дэлбээ | Delbee
+🌵 Dorn / Stachel | Өргөс | Örgös
+🍄 Pilzkorb | Мөөгний сагс | Möögnii sags
+🌾 Ähre | Түрүү | Türüü
+🌻 Nektar / Blütenstaub | Цэцгийн тоос | Zezgiin toos
+🌾 Weide / Weideland | Бэлчээр | Beltscheer
+🎨 Ornament / Muster | Хээ угалз | Chee ugals
+🌨️ Hagel | Мөндөр | Möndör
+💧 Morgentau | Шүүдэр | Schüüder
+🧭 Kompass | Луужин | Luudschin
+🌟 Gute Besserung! | Хурдан эдгээрэй! | Churdan edgeerei!
+🤝 Freut mich, dich kennenzulernen! | Танилцсандаа таатай байна! | Tanilzsandaa taatai bain!
+Kehlkopfgesang | Хөөмий | Chöömii
+Zither | Ятга | Jatga
+Weideland | Бэлчээр | Beltscheer
+🌞 Sonnenfinsternis | Нар хиртэлт | Nar chirtelt
+🌕 Mondfinsternis | Сар хиртэлт | Sar chirtelt
+🌌 Galaxie | Галактик / Оддын ай | Oddiin ai
+🛰️ Raumstation | Сансрын станц | Sansriin stanz
+🧪 Labor | Лаборатори | Laboratori
+🔍 Vergrößerungsglas / Lupe | Томруулдаг шил | Tomruuldag schil
+🧫 Bakterie / Keim | Нян / Бактери | Njan
+🌲 Wacholder | Арц | Arz
+📿 Gebetsmühle | Хүрд | Chürd
+🚩 Gebetsfahne | Дарцаг | Darzag
+🏯 Stupa / Pagode | Суварга | Suwarga
+☀️ Sonnenaufgangsland | Наран ургах зүг | Naran urgach süg
+🌙 Mondlicht | Сарны туяа | Sarnii tujaa
+🌾 Hirsebrei | Шар будааны каш | Schar budaanii kasch
+🍄 Champignon | Цагаан мөөг | Zagaan möög
+🧅 Wildzwiebel | Таана | Taana
+🌿 Thymian | Ганга | Ganga
+🌼 Kamille | Алтан товч | Altan towtsch
+🌺 Pfingstrose | Цээнэ | Zeene
+🌷 Lilie | Сараана | Saraana
+🌻 Löwenzahnblüte | Багваахай цэцэг | Bagwaachai zezeg
+🌿 Beifuß / Wermut | Шарилж | Scharildsch
+🌲 Zeder / Sibirische Kiefer | Хуш | Chusch
+🌳 Erle | Нигүрс | Nigürs
+🌳 Espe | Улиангар | Uliangar
+🌿 Strauch / Busch | Бут / Сөөг | But / Söög
+🌱 Spross / Trieb | Нахиа | Nachia
+🌸 Knospe | Цоморлиг | Zomorlig
+🍂 Fallendes Laub | Навчис унах | Nawtschis unach
+🪵 Baumstumpf | Хожуул | Chodschuul
+🌲 Harz | Давирхай | Dawirchai
+🌲 Wacholder (Räucherwerk) | Арц | Arz
+🌅 Sonnenwende | Нар буцах | Nar buzach
+🌗 Tagundnachtgleiche | Өдөр шөнө тэнцэх | Ödör schönö tenzech
+📅 Schaltjahr | Өндөр жил | Öndör dschil
+🗓️ Alltag / Werktag | Ажлын өдөр | Adschliin ödör
+🎉 Feiertag | Баярын өдөр | Bajariin ödör
+🎂 Jubiläum | Тэмдэглэлт ой | Temdeglelt oi
+⏰ Wecker | Сэрүүлэг | Serüüleg
+⌛ Sanduhr | Элсэн цаг | Elsen zag
+⏱️ Stoppuhr | Секундомер | Sekundomer
+🕰️ Pendeluhr | Дүүжин цаг | Düüdschin zag
+📅 Terminkalender | Тэмдэглэлийн дэвтэр | Temdegleliin dewter
+⚡ Augenblick / Moment | Агшин / Хормын төдий | Agschin
+♾️ Ewigkeit | Мөнх | Mönch
+🔄 Reihenfolge | Дараалал | Daraalal
+Erstens | Нэгдүгээрт | Negdügeert
+Zweitens | Хоёрдугаарт | Chojordugaart
+Drittens | Гуравдугаарт | Gurawdugaart
+➕ Zusätzlich / Extra | Нэмэлт | Nemelt
+➖ Weniger / Abzüglich | Хасаад | Chasaad
+➗ Anteil / Quote | Ногдох хувь | Nogdoch chuw
+📊 Mehrheit | Олонх | Olonch
+📉 Minderheit | Цөөнх | Zöönch
+⚖️ Gerechtigkeit / Ausgleich | Тэгш байдал | Tegsch baidal
+🤝 Kompromiss | Буулт / Зөвшилцөл | Söwschilzöl
+🌲 Eiche | Царс мод | Zars mod
+Farn | Ойм | Oim
+Mohnblume | Намуу цэцэг | Namuu zezeg
+Iris | Цахилдаг | Zachildag
+Ufer | Эрэг | Ereg
+Klippe | Цохио | Zochio
+Keller | Зоорь | Soor
+Eingang | Орц | Orz
+Schleife | Тууз | Tuus
+🌱 Nährstoff | Шим тэжээл | Schim tedscheel
+☀️ Photosynthese | Фотосинтез | Fotosintes
+🌿 Wurzelwerk | Үндэсний систем | Ündesnii sistem
+🌸 Bestäubung | Тоос хүртээх | Toos chürteech
+🌾 Erntezeit | Ургац хураалт | Urgaz churaalt
+🚜 Bewässerung | Усалгаа | Usalgaa
+🌱 Gewächshaus | Хүлэмж | Chülemdsch
+🌻 Beet / Gartenbeet | Мандан / Талбай | Mandan
+🪴 Blumenerde | Хар шороо | Char schoroo
+🚿 Gießkanne | Услагч | Uslagtsch
+💐 Blumenladen | Цэцгийн дэлгүүр | Zezgiin delgüür
+📚 Buchhandlung | Номын дэлгүүр | Nomiin delgüür
+🌱 Keimling | Соёо | Sojoo
+🌿 Stängel / Halm | Иш | Isch
+🌸 Blütenkelch | Цоморлиг | Zomorlig
+🌾 Getreidefeld | Тариалан | Tarialan
+🚜 Mähdrescher | Комбайн | Kombain
+🌾 Strohballen | Сүрэл | Sürel
+√ Quadratwurzel | Квадрат язгуур | Kwadrat jasguur
+📐 Hypotenuse | Гипотенуз | Gipotenus
+📏 Koordinaten | Координат | Koordinat
+📈 Kurve / Linie | Муруй шугам | Murui schugam
+⭕ Sehne / Kreissehne | Хөвч | Chöwtsch
+⚖️ Dichte | Нягт | Njagt
+🚀 Beschleunigung | Хурдатгал | Churdatgal
+🛑 Reibung | Үрэлт | Ürelt
+⚖️ Druck | Даралт | Daralt
+🌊 Auftrieb | Хөвөх хүч | Chöwöch chütsch
+🌿 Heilpflanze | Эмийн ургамал | Emiin urgamal
+🌲 Kiefernnadel | Шилмүүс | Schilmüüs
+🍂 Humus / Waldboden | Ялзмаг | Jalsmag
+🌱 Keimfähigkeit | Соёололт | Sojoololt
+🌾 Fruchtbarkeit (Boden) | Үржил шим | Ürdschil schim
+🚜 Dünger | Бордоо | Bordoo
+🌾 Unkraut | Хогийн ургамал | Chogiin urgamal
+🌻 Sonnenblumenöl | Наранцэцгийн тос | Naranzezgiin tos
+🌾 Buchweizen | Гурвалжин будаа | Gurwaldschin budaa
+🌾 Roggen | Хөх тариа | Chöch taria
+🌽 Maiskolben | Эрдэнэ шишийн түрүү | Erdene schischiin türüü
+🥬 Sauerkraut | Даршилсан байцаа | Darschilsan baizaa
+🧄 Knoblauchzehe | Сармисны хумс | Sarmisnii chums
+🧅 Zwiebelring | Хэрчсэн сонгино | Chertschsen songino
+🌶️ Gewürznelke | Хадаасан цэцэг | Chadaasan zezeg
+🪵 Zimt | Шанц | Schanz
+🫚 Ingwer | Цагаан гаа | Zagaan gaa
+🌿 Vanille | Ваниль | Wanil
+🌰 Cashewnuss | Кешью самар | Keschju samar
+🌱 Humusboden | Үржил шимтэй хөрс | Ürdschil schimtei chörs
+🌾 Ackerbau | Газар тариалан | Gasar tarialan
+🌾 Sichel / Sense | Хадуур | Chaduur
+🧺 Erntekorb | Ургацын сагс | Urgaziin sags
+🌻 Sonnenblumenfeld | Наранцэцгийн талбай | Naranzezgiin talbai
+💨 Edelgas | Инертийн хий | Inertiin chii
+💎 Diamant | Алмаз / Очир эрдэнэ | Almas / Otschir erdene
+🔴 Rubin | Бадмаараг | Badmaarag
+🟢 Smaragd | Маргад | Margad
+🔵 Saphir | Индранил | Indranil
+🩵 Türkis (Edelstein) | Оюу | Ojuu
+🟠 Bernstein | Хув | Chuw
+⚪ Elfenbein | Зааны яс | Saanii jas
+🪨 Marmor | Гантиг | Gantig
+🪨 Granit | Боржин | Bordschin
+🧱 Kalkstein | Шохойн чулуу | Schochoin chuluu
+⛰️ Schiefer | Занар | Sanar
+🌍 Kontinentalplatte | Эх газрын хавтан | Ech gasriin chawtan
+🌊 Meeresboden | Далайн ёроол | Dalain jorool
+🏝️ Korallenriff | Шүрэн арлын хад | Schüren arliin chad
+🌊 Strudel / Wirbel | Усны эргүүлэг | Usnii ergüüleg
+🌲 Tannenwald | Гацууран ой | Gazuuran oi
+🌳 Birkenhain | Хусан төгөл | Chusan tögöl
+🌿 Steppe mit Federgras | Хялганат тал | Chjalganat tal
+🌺 Alpenrose / Rhododendron | Тэрэлж | Tereldsch
+🌼 Butterblume | Холтсон цэцэг | Choltson zezeg
+🌱 Kleesamen | Хошоонгорын үр | Choschoongoriin ür
+🍄 Fliegenpilz | Ялааны хор мөөг | Jalaanii chor möög
+🌰 Eichel | Царсны боргоцой | Zarsnii borgozoi
+🍁 Ahornblatt | Агч модны навч | Agtsch modnii nawtsch
+🍀 Vierblättriges Kleeblatt | Дөрвөн навчит хошоонгор | Dörwön nawtschit choschoongor
+🔭 Galaxienhaufen | Галактикийн бөөгнөрөл | Galaktikiin böögnöröl
+🌑 Neumond | Шинэ сар | Schine sar
+🌓 Zunehmender Mond | Тал сар (өсөх) | Tal sar
+🌗 Abnehmender Mond | Хуучирч буй сар | Chuutschirtsch bui sar
+☀️ Sonnenfleck | Нарны толбо | Narnii tolbo
+🌍 Erdachse | Дэлхийн тэнхлэг | Delchiin tenchleg
+🧭 Südhalbkugel | Өмнөд хагас бөмбөрцөг | Ömnöd chagas bömbörzög
+🧭 Nordhalbkugel | Хойд хагас бөмбөрцөг | Choid chagas bömbörzög
+🧪 Element (Chemie) | Элемент | Element
+⚗️ Verbindung (Chemie) | Нэгдэл | Negdel
+🫧 Blase / Gasblase | Хөөс / Бөмбөлөг | Chöös
+🧊 Eiswürfelbeutel | Мөсний уут | Mösnii uut
+🔥 Funkenflug | Оч үсрэх | Otsch üsrech
+🌲 Lärchenwald | Шинэсэн ой | Schinesen oi
+🌳 Weidenbaum | Уд мод | Ud mod
+🌿 Wacholderstrauch | Арцны бут | Arznii but
+🌺 Wildrose / Heckenrose | Нохойн хошууны бут | Nochoin choschuunii but
+🌼 Arnika | Арника | Arnika
+🌿 Salbei | Сэржмядаг | Serdschmjadag
+🌿 Rosmarin | Розмарин | Rosmarin
+🌱 Keimblatt | Үрийн тал | Üriin tal
+🌾 Getreideähre | Тарианы түрүү | Tarianii türüü
+🍄 Pfifferling | Шар мөөг | Schar möög
+🔭 Sternenhaufen | Оддын бөөгнөрөл | Oddiin böögnöröl
+🌌 Schwarzes Loch | Хар нүх | Char nüch
+🛰️ Weltraumteleskop | Сансрын дуран | Sansriin duran
+🚀 Startrampe | Хөөргөх тавцан | Chöörgöch tawzan
+🌲 Mischwald | Холимог ой | Cholimog oi
+🌳 Trauerweide | Унжгар уд | Undschgar ud
+🌿 Schachtelhalm | Шивлээ | Schiwlee
+🌺 Enzian | Дэгд | Degd
+🌼 Primel / Schlüsselblume | Хаврын яргуй | Chawriin jargui
+🌸 Kuhschelle (Yargui) | Яргуй | Jargui
+🌿 Beifuß-Steppe | Шарилжтай тал | Scharildschtai tal
+🌱 Wurzelknolle | Үндэс | Ündes
+🌾 Sommerweizen | Зуслангийн буудай | Suslangiin buudai
+🍄 Morchel | Хонхон мөөг | Chonchon möög
+🥞 Buchweizenpfannkuchen | Гурвалжин будааны бин | Gurwaldschin budaanii bin

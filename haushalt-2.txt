@@ -1,0 +1,24 @@
+# Haus & Alltag
+Herd | Зуух
+Topf | Тогоо
+Wasserhahn | Цорго
+Besen | Шүүрэг
+Staubsauger | Тоос сорогч
+Waschmaschine | Угаалгын машин
+Heizung | Халаагуур
+Klimaanlage | Агааржуулагч
+Decke (Bett) | Хөнжил
+Vorhang | Хөшиг
+Schrank | Шүүгээ
+Regal | Тавиур
+Schreibtisch | Бичгийн ширээ
+Hof | Хашаа
+Dach | Дээвэр
+Wand | Хана
+Boden / Fußboden | Шал
+Zimmerdecke | Тааз
+Treppe | Шат
+Balkon | Тагт
+Wohnung | Орон сууц
+Zimmer | Өрөө
+Adresse | Хаяг

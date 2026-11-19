@@ -1,0 +1,129 @@
+# Musik, Sport & Freizeit
+🎶 Musik | Хөгжим | Chögdschim
+🎻 Pferdekopfgeige | Морин хуур | Morin chuur
+🎵 Lied | Дуу | Duu
+⚽ Ball | Бөмбөг | Bömbög
+🏊 Schwimmen | Усанд сэлэх | Usand selech
+🏇 Pferderennen | Морин уралдаан | Morin uraldaan
+🏹 Bogenschießen | Сур харваа | Sur charwaa
+🎪 Naadam-Fest | Наадам | Naadam
+♟️ Schach | Шатар | Schatar
+🦴 Schagai (Knöchelspiel) | Шагай | Schagai
+🎁 Geschenk | Бэлэг | Beleg
+🎉 Fest / Feiertag | Баяр | Bajar
+🎨 Malen / Zeichnen | Зурах | Surach
+🏆 Gewinnen | Ялах / Хожих | Jalach / Chodschich
+🦸 Held | Баатар | Baatar
+🎸 Gitarre | Гитар | Gitar
+🎹 Klavier | Төгөлдөр хуур | Tögöldör chuur
+🥁 Trommel | Бөмбөр | Bömbör
+🎺 Trompete / Horn | Бүрээ | Büree
+🪈 Flöte | Лимбэ | Limbe
+🎻 Geige | Хийл | Chiil
+🎤 Mikrofon | Микрофон | Mikrofon
+📻 Radio | Радио | Radio
+🎭 Theater | Театр | Teatr
+💃 Tanz | Бүжиг | Büdschig
+🏀 Basketball | Сагсан бөмбөг | Sagsan bömbög
+⚽ Fußball | Хөл бөмбөг | Chöl bömbög
+🏐 Volleyball | Гар бөмбөг | Gar bömbög
+🎾 Tennis | Теннис | Tennis
+🃏 Spielkarte | Хөзөр | Chösör
+🧩 Puzzle / Rätsel | Оньсого | Onsogo
+🪁 Drachen (Spielzeug) | Цаасан шувуу | Zaasan schuwuu
+🎈 Luftballon | Бөмбөлөг | Bömbölög
+🪀 Kreisel | Эргүүлэг | Ergüüleg
+🪆 Puppe | Хүүхэлдэй | Chüücheldei
+🤖 Roboter | Робот | Robot
+🚂 Spielzeugzug | Тоглоомон галт тэрэг | Togloomon galt tereg
+🧱 Bauklotz | Өрөг | Örög
+🛝 Schaukel | Савлуур | Sawluur
+🏖️ Sandkasten | Элсний хайрцаг | Elsnii chairzag
+⛺ Zelt | Майхан | Maichan
+🎒 Rucksack | Үүргэвч | Üürgewtsch
+🧳 Koffer | Чемодан | Tschemodan
+🧭 Reise | Аялал | Ajalal
+📸 Foto | Гэрэл зураг | Gerel surag
+🛂 Reisepass | Гадаад паспорт | Gadaad pasport
+🌍 Ausland | Гадаад улс | Gadaad uls
+🏠 Heimat | Эх орон | Ech oron
+🏛️ Hauptstadt | Нийслэл | Niislel
+🏙️ Ulaanbaatar | Улаанбаатар | Ulaanbaatar
+🏛️ Parlament / Regierung | Засгийн газар | Sasgiin gasar
+🎨 Kunst | Урлаг | Urlag
+⚒️ Schmied | Дархан | Darchan
+🧵 Schneider / Näherin | Оёдолчин | Ojodoltschin
+💇‍♀️ Friseur | Үсчин | Üstschin
+🚕 Fahrer / Chauffeur | Жолооч | Dscholootsch
+✈️ Pilot | Нисгэгч | Nisgegtsch
+👨‍🚀 Astronaut | Сансрын нисгэгч | Sansriin nisgegtsch
+🎨 Maler / Künstler | Зураач | Suraatsch
+✍️ Schriftsteller | Зохиолч | Sochioltsch
+📰 Journalist | Сэтгүүлч | Setgüültsch
+📸 Fotograf | Зурагчин | Suragtschin
+🎬 Schauspieler | Жүжигчин | Dschüdschigtschin
+🎼 Musiker | Хөгжимчин | Chögdschimtschin
+⚖️ Richter | Шүүгч | Schüügtsch
+👨‍⚖️ Anwalt | Өмгөөлөгч | Ömgöölögtsch
+🪖 Soldat | Цэрэг | Zereg
+🧑‍🌾 Bauer / Landwirt | Тариаланч | Tarialantsch
+🎮 Lass uns spielen! | Хамтдаа тоглоцгооё! | Chamtdaa toglozgoojo!
+📖 Beispiel | Жишээ | Dschischee
+📌 Unterschied | Ялгаа | Jalgaa
+🔗 Zusammenhang / Verbindung | Холбоо | Cholboo
+🧩 Teil / Stück | Хэсэг | Cheseg
+🌐 Ganzes | Бүхэл | Büchel
+🔢 Gruppe / Menge | Бүлэг / Бөөн | Büleg
+👤 Einzelner / Individuum | Ганц / Хувь хүн | Ganz
+❄️ Schneeball | Цасан бөмбөг | Zasan bömbög
+⛷️ Skistock | Цаны таяг | Zanii tajag
+🏊 Schwimmbad | Усан бассейн | Usan bassein
+🤿 Taucherbrille | Усны шил | Usnii schil
+🪈 Maultrommel | Аман хуур | Aman chuur
+🎖️ Auszeichnung / Orden | Шагнал / Одон | Schagnal / Odon
+📺 Nachrichtensendung | Мэдээний хөтөлбөр | Medeenii chötölbör
+🎬 Zeichentrickfilm / Cartoon | Хүүхэлдэйн кино | Chüücheldeiin kino
+🎵 Chor | Найрал дуу | Nairal duu
+🎼 Orchester | Найрал хөгжим | Nairal chögdschim
+🎤 Konzert | Тоглолт | Toglolot
+💃 Ballett | Балет | Balet
+🎨 Porträt | Хөрөг зураг | Chörög surag
+🖌️ Wasserfarbe / Aquarell | Усан будаг | Usan budag
+📐 Schablone / Muster | Хэв / Загвар | Chew / Sagwar
+🧶 Handarbeit | Гар урлал | Gar urlal
+🏺 Töpferei / Keramik | Шавар урлал | Schawar urlal
+🪵 Holzschnitzerei | Модон сийлбэр | Modon siilber
+⚒️ Schmiedekunst | Дарханы урлал | Darchanii urlal
+💍 Juwelier / Goldschmied | Алт мөнгөний дархан | Alt möngönii darchan
+🧵 Webstuhl | Нэхмэлийн машин | Nechmeliin maschin
+🪢 Lasso / Schlinge | Бугуйл | Buguil
+🧸 Spielzeugladen | Тоглоомын дэлгүүр | Togloomiin delgüür
+💍 Juweliergeschäft | Үнэт эдлэлийн дэлгүүр | Ünet edleliin delgüür
+👓 Optiker | Нүдний шилний газар | Nüdnii schilnii gasar
+⌚ Uhrmacher | Цаг засвар | Zag saswar
+🔑 Schlüsseldienst | Түлхүүр хувилагч | Tülchüür chuwilagtsch
+🧺 Wäscherei / Reinigung | Хими цэвэрлэгээ | Chimi zewerlegee
+🏨 Rezeption / Empfang | Угтах хэсэг | Ugtach cheseg
+🛏️ Einzelzimmer | Нэг хүний өрөө | Neg chünii öröö
+🛏️ Doppelzimmer | Хоёр хүний өрөө | Chojor chünii öröö
+🔑 Zimmerschlüssel | Өрөөний түлхүүр | Öröönii tülchüür
+🪵 Schnitzmesser | Сийлбэрийн хутга | Siilberiin chutga
+🎨 Staffelei | Зургийн тавиур | Surgiin tawiur
+🖌️ Ölfarbe | Тосон будаг | Toson budag
+✏️ Kohlezeichnung | Нүүрсэн зураг | Nüürsen surag
+🗿 Denkmal | Дурсгалт газар | Dursgalt gasar
+🏛️ Säule / Pfeiler | Багана | Bagana
+🌉 Bogen / Gewölbe | Нуман хаалга | Numan chaalga
+🧱 Fundament | Суурь | Suur
+🪜 Geländer | Шатны бариул | Schatnii bariul
+🚪 Klingelschild | Нэрийн хаяг | Neriin chajag
+📬 Postfach | Шуудангийн хайрцаг | Schuudangiin chairzag
+👂 Trommelfell | Хэнгэрэг | Chengereg
+🦷 Zahnschmelz | Шүдний паалан | Schüdnii paalan
+👍 Ausgezeichnet / Prima | Онц сайн | Onz sain
+🌟 Lernen macht Spaß! | Сурах их хөгжилтэй! | Surach ich chögdschiltei!
+🇲🇳🇩🇪 Zwei Sprachen, eine Welt! | Хоёр хэл, нэг дэлхий! | Chojor chel, neg delchii!
+Kalligrafie | Уран бичлэг | Uran bitschleg
+Einfallsreich | Сэргэлэн | Sergelen
+Rutschbahn | Гулсуур | Gulsuur
+Gegenwart | Одоо цаг | Odoo zag

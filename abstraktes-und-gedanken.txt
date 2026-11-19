@@ -1,0 +1,83 @@
+# Abstraktes & Gedanken
+Idee | Санаа | Sanaa
+Geschichte | Түүх | Tüüch
+Gast | Зочин | Sotschin
+Morgen | Өглөө | Öglöö
+⚖️ Gesetz / Recht | Хууль | Chuul
+🏫 Universität | Их сургууль | Ich surguul
+Wahrheit | Үнэн | Ünen
+Mut | Зориг | Sorig
+Glocke | Хонх | Chonch
+🤗 Kein Problem! | Асуудалгүй! | Asuudalgüi!
+👏 Bravo! / Klasse! | Мундаг! | Mundag!
+🤝 Bis morgen! | Маргааш уулзъя! | Margaasch uulsja!
+Boot | Завь | Saw
+Flamme | Дөл | Döl
+Rauch | Утаа | Utaa
+Alter | Нас | Nas
+Vorname | Нэр | Ner
+Nachname | Овог | Owog
+Adresse | Хаяг | Chajag
+Krone | Титэм | Titem
+Maske | Баг | Bag
+Klasse! / Bravo! | Мундаг | Mundag
+⏳ Zeitraum / Dauer | Хугацаа | Chugazaa
+📅 Termin / Verabredung | Уулзалт / Цаг | Uulsalt
+🤝 Vereinbarung / Vertrag | Гэрээ | Geree
+📝 Unterschrift | Гарын үсэг | Gariin üseg
+🖋️ Stempel | Тамга | Tamga
+📬 Umschlag | Дугтуй | Dugtui
+✉️ Briefmarke | Марк | Mark
+📦 Absender | Илгээгч | Ilgeegtsch
+📥 Empfänger | Хүлээн авагч | Chüleen awagtsch
+💬 Gespräch / Dialog | Яриа / Харилцан яриа | Jaria
+🗣️ Diskussion / Streit | Маргаан / Хэлэлцүүлэг | Margin
+🤝 Einigung | Тохиролцоо | Tochirolzoo
+❓ Grund / Ursache | Шалтгаан | Schaltgaan
+💡 Bedeutung / Sinn | Утга | Utga
+🧠 Gedächtnis / Erinnerung | Ой санамж | Oi sanamdsch
+💭 Phantasie / Vorstellung | Төсөөлөл | Tösöölöl
+🎯 Aufmerksamkeit | Анхаарал | Anchaaral
+💡 Wissen / Kenntnis | Мэдлэг | Medleg
+🎓 Bildung | Боловсрол | Bolowsrol
+🛠️ Fähigkeit / Können | Чадвар | Tschadwar
+🌟 Talent / Begabung | Авьяас | Awjaas
+🔄 Gewohnheit | Зуршил | Surschil
+🎭 Charakter / Wesen | Зан ааш | San aasch
+❤️ Gefühl / Emotion | Сэтгэл хөдлөл | Setgel chödlöl
+🤝 Vertrauen | Итгэл | Itgel
+❓ Zweifel | Эргэлзээ | Ergelsee
+⚠️ Fehler / Irrtum | Алдаа | Aldaa
+✅ Wahrheit / Richtigkeit | Зөв зүйл | Söw süil
+⚖️ Vergleich | Харьцуулалт | Charizuulalt
+📌 Entscheidung / Wahl | Сонголт / Шийдвэр | Songolt / Schiidwer
+📋 Plan / Vorhaben | Төлөвлөгөө | Tölöwlögöö
+🏗️ Vorbereitung | Бэлтгэл | Beltgel
+⚡ Versuch / Probe | Оролдлого / Туршилт | Oroldlogo
+🏁 Ergebnis / Resultat | Үр дүн | Ür dün
+🎉 Vorteil / Nutzen | Давуу тал / Ач тус | Dawuu tal
+⚠️ Nachteil / Mangel | Сул тал / Дутагдал | Sul tal
+🆘 Problem / Schwierigkeit | Асуудал / Бэрхшээл | Asuudal
+💡 Ausweg / Lösung | Гарц / Шийдэл | Garz
+🛡️ Schutz / Verteidigung | Хамгаалалт | Chamgaalalt
+Talent | Авьяас | Awjaas
+Wissen | Мэдлэг | Medleg
+Fehler | Алдаа | Aldaa
+Gebirgspass | Даваа | Dawaa
+Sumpf | Намаг | Namag
+🧮 Rechnen | Тооцоолох | Toozoоloch
+🗣️ Meinung / Ansicht | Үзэл бодол / Санал | Üsel bodol
+💡 Vorschlag / Rat | Зөвлөгөө / Санал | Söwlögöö
+⚠️ Warnung | Сануулга | Sanuulga
+🚫 Verbotsschild | Хориглох тэмдэг | Chorigloch temdeg
+✅ Genehmigung | Зөвшөөрөл | Söwschööröl
+📋 Bedingung / Voraussetzung | Нөхцөл | Nöchzöl
+🎯 Aufgabe / Pflicht | Үүрэг / Даалгавар | Üüreg
+🏅 Verantwortung | Хариуцлага | Chariuzlaga
+🌟 Verdienst / Leistung | Гавьяа | Gawjaa
+📐 Senkrecht / Vertikal | Босоо | Bosoo
+📏 Waagerecht / Horizontal | Хэвтээ | Chewtee
+↗️ Diagonal / Schräg | Ташуу / Диагональ | Taschuu
+🔄 Parallel | Зэрэгцээ | Seregzee
+➕ Schnittpunkt | Огтлолцлын цэг | Ogtlolzliin zeg
+💡 Ich habe eine Idee! | Надад нэг санаа байна! | Nadad neg sanaa bain!

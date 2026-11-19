@@ -1,0 +1,18 @@
+# Fragen & Alltagssätze
+Ich verstehe nicht. | Би ойлгохгүй байна.
+Sprechen Sie Deutsch? | Та герман хэлээр ярьдаг уу?
+Ich spreche ein bisschen Mongolisch. | Би бага зэрэг монгол хэлээр ярьдаг.
+Wie spät ist es? | Хэдэн цаг болж байна вэ?
+Ich weiß nicht. | Би мэдэхгүй.
+Hilfe! | Туслаарай!
+Ich brauche Hilfe. | Надад тусламж хэрэгтэй.
+Wo wohnst du? | Чи хаана амьдардаг вэ?
+Woher kommst du? | Чи хаанаас ирсэн бэ?
+Wie alt bist du? | Чи хэдэн настай вэ?
+Ich komme aus Deutschland. | Би Германаас ирсэн.
+Bis später! | Дараа уулзъя!
+Viel Erfolg! | Амжилт хүсье!
+Alles Gute zum Geburtstag! | Төрсөн өдрийн мэнд хүргэе!
+Bitte warte kurz. | Түр хүлээгээрэй.
+Das gefällt mir. | Надад таалагдаж байна.
+Das gefällt mir nicht. | Надад таалагдахгүй байна.

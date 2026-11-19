@@ -1,0 +1,52 @@
+# Pronomen & Wörtchen
+🙋 Ich | Би | Bi
+👉 Du | Чи | Tschi
+🙇 Sie (Höflich) | Та | Ta
+🧑 Er / Sie / Es | Тэр | Ter
+👥 Wir | Бид | Bid
+👥 Ihr / Sie (Plural) | Та нар | Ta nar
+📌 Mein | Миний | Minii
+📌 Dein | Чиний | Tschinii
+📌 Sein / Ihr | Түүний | Tüünii
+📌 Unser | Бидний | Bidnii
+👆 Dieses / Das hier | Энэ | Ene
+👉 Jenes / Das dort | Тэр | Ter
+➕ Und | Ба / Болон | Ba / Bolon
+🔀 Oder | Эсвэл | Eswel
+🛑 Aber | Гэвч / Харин | Gewtsch / Charin
+💡 Weil | Учир нь | Utschir n
+❓ Wenn / Falls | Хэрэв | Cherew
+✨ Auch | Бас / Мөн | Bas / Mön
+🌟 Sehr | Маш | Masch
+🤏 Ein bisschen / Wenig | Бага зэрэг | Baga sereg
+🏔️ Viel | Их / Олон | Ich / Olon
+💯 Alle / Alles | Бүгд / Бүх | Bügd / Büch
+🚫 Nichts / Niemand | Юу ч биш / Хэн ч биш | Juu tsch bisch
+🔄 Immer | Үргэлж | Ürgeldsch
+⏳ Manchmal | Заримдаа | Sarimdaa
+❌ Nie / Niemals | Хэзээ ч үгүй | Chesee tsch ügüi
+⚡ Sofort / Jetzt | Одоо / Шууд | Odoo / Schuud
+⏭️ Später | Дараа | Daraa
+⏮️ Vorher / Früher | Өмнө / Эрт | Ömnö / Ert
+❤️ Ich bin stolz auf dich! | Би чамаар бахархаж байна! | Bi tschamaar bacharchadsch bain!
+🌟 Du bist sehr klug! | Чи маш ухаантай юм! | Tschi masch uchaantai jum!
+👏 Du hast das toll gemacht! | Чи үүнийг гайхалтай хийлээ! | Tschi üüniig gaichaltai chiilee!
+🌟 Alles ist möglich! | Бүх зүйл боломжтой! | Büch süil bolomdschtoi!
+Spaten | Хүрз | Chürs
+👏 Du machst große Fortschritte! | Чи маш их ахиц гаргаж байна! | Tschi masch ich achiz gargadsch bain!
+Glut | Цог | Zog
+Spiegelung | Ойлт | Oilt
+Braut | Сүйт бүсгүй | Süit büsgüi
+📖 Ich kenne dieses Wort! | Би энэ үгийг мэднэ! | Bi ene ügiig medne!
+🏆 Du bist ein echter Sprachprofi! | Чи жинхэнэ хэлний мэргэжилтэн юм! | Tschi dschinchene chelnii mergedschilten jum!
+Türkis | Оюу | Ojuu
+Rhododendron | Тэрэлж | Tereldsch
+Sichel | Хадуур | Chaduur
+Kegel | Конус | Konus
+Gulasch | Гуляш | Guljasch
+Glückshufeisen | Азын тах | Asiin tach
+🧮 Algebra | Алгебр | Algebr
+📐 Vektor | Вектор | Wektor
+📏 Achse | Тэнхлэг | Tenchleg
+✍️ Ich übe jeden Tag! | Би өдөр бүр дасгал хийдэг! | Bi ödör bür dasgal chiideg!
+🎉 Du bist großartig! | Чи үнэхээр гайхалтай! | Tschi ünecheer gaichaltai!

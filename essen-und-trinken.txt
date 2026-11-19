@@ -1,0 +1,365 @@
+# Essen & Trinken
+🥩 Fleisch | Мах | Mach
+🍚 Reis | Будаа | Budaa
+🍜 Nudeln | Гоймон | Goimon
+🍲 Suppe | Шөл | Schöl
+🥟 Buuz (Teigtaschen) | Бууз | Buuz
+🥟 Khuushuur | Хуушуур | Chuuschuur
+🧀 Käse / Quark | Ааруул / Бяслаг | Aaruul / Bjaslag
+🧈 Butter | Цөцгийн тос | Zözgiin tos
+🥚 Ei | Өндөг | Öndög
+🥔 Kartoffel | Төмс | Töms
+🥕 Karotte | Лууван | Luuwan
+🧅 Zwiebel | Сонгино | Songino
+🧄 Knoblauch | Сармис | Sarmis
+🍅 Tomate | Улаан лооль | Ulaan lool
+🥒 Gurke | Өргөст хэмх | Örgöst chemch
+🍌 Banane | Гадил | Gadil
+🍊 Orange | Жүрж | Dschürdsch
+🍓 Erdbeere | Гүзээлзгэнэ | Güseelsgene
+🍵 Tee | Цай | Zai
+🧂 Salz | Давс | Daws
+🍬 Zucker | Элсэн чихэр | Elsen chicher
+🍯 Honig | Зөгийн бал | Sögiin bal
+🍫 Schokolade | Шоколад | Schokolad
+🍦 Eis | Зайрмаг | Sairmag
+🎂 Kuchen / Torte | Бялуу | Bjaluu
+🍇 Weintraube | Усан үзэм | Usan üsem
+🍉 Wassermelone | Тарвас | Tarwas
+🍈 Melone | Амтат гуа | Amtat gua
+🍐 Birne | Лийр | Liir
+🍑 Pfirsich | Тоор | Toor
+🍒 Kirsche | Интоор | Intoor
+🍍 Ananas | Хан боргоцой | Chan borgozoi
+🍋 Zitrone | Нимбэг | Nimbeg
+🥝 Kiwi | Киви | Kiwi
+🥭 Mango | Манго | Mango
+🍒 Sanddorn | Чацаргана | Tschazargana
+🥬 Kohl | Байцаа | Baizaa
+🫑 Paprika | Амтат чинжүү | Amtat tschindschüü
+🌶️ Chili / Pfeffer | Халуун чинжүү | Chaluun tschindschüü
+🎃 Kürbis | Хулуу | Chuluu
+🥜 Nuss / Erdnuss | Самар | Samar
+🫘 Bohne | Шош | Schosch
+☕ Kaffee | Кофе | Kofe
+🧃 Saft | Жүүс / Шүүс | Schüüs
+🥣 Joghurt / Tarag | Тараг | Tarag
+🍪 Keks / Gebäck | Жигнэмэг | Dschignemeg
+🍩 Boortsog (Schmalzgebäck) | Боорцог | Boorzog
+🥪 Sandwich / Brotzeit | Хачиртай талх | Chatschirtai talch
+🥗 Salat | Салат | Salat
+🍗 Hähnchenfleisch | Тахианы мах | Tachianii mach
+🥩 Rindfleisch | Үхрийн мах | Üchriin mach
+🍳 Frühstück | Өглөөний цай | Öglöönii zai
+🍱 Mittagessen | Өдрийн хоол | Ödriin chool
+🍽️ Abendessen | Оройн хоол | Oroin chool
+🥄 Geschmack | Амт | Amt
+🍋 Sauer | Исгэлэн | Isgelen
+🧂 Salzig | Давстай | Dawstai
+🌶️ Scharf | Халуун ногоотой | Chaluun nogootoi
+🤢 Bitter | Гашуун | Gaschuun
+Obst | Жимс | Dschims
+Farbe | Өнгө | Öngö
+Bild | Зураг | Surag
+🥛 Milchtee | Сүүтэй цай | Süütei zai
+Lamm | Хурга | Churga
+🍶 Flasche | Шил / Сав | Schil / Saw
+🥫 Dose | Лааз | Laas
+🛍️ Tüte / Beutel | Уут | Uut
+📦 Paket | Илгээмж | Ilgeemdsch
+📮 Briefkasten | Шуудангийн хайрцаг | Schuudangiin chairzag
+🍽️ Guten Appetit! | Сайхан хооллоорой! | Saichan choollooroi!
+🎉 Herzlichen Glückwunsch! | Баяр хүргэе! | Bajar chürgeje!
+🍳 Braten | Шарах | Scharach
+🍲 Kochen / Sieden | Чанах | Tschanach
+🥟 Dämpfen | Жигнэх | Dschignech
+🥛 Gießen / Einschenken | Аягалах / Цутгах | Ajagalach
+📏 Messen | Хэмжих | Chemdschich
+⚖️ Wiegen | Жинлэх | Dschinlech
+🧵 Nähen | Оёх | Ojoch
+🧶 Stricken | Нэхэх | Nechech
+♨️ Kochen (Wasser) | Буцлах | Buzlach
+💨 Trocknen | Хатах | Chatach
+💦 Nass werden | Норох | Noroch
+✨ Glänzen / Leuchten | Гялалзах | Gjalalsach
+🔊 Klingen / Tönen | Дуугарах | Duugarach
+🥣 Suppenkelle | Шанага | Schanaga
+🔪 Schneidebrett | Гамбанз | Gambans
+🧁 Backofen | Шарах шүүгээ | Scharach schüügee
+☕ Kaffeemaschine | Кофе чанагч | Kofe tschanagtsch
+🫖 Wasserkocher | Ус буцалгагч | Us buzalgagtsch
+🥤 Strohhalm | Соруул | Soruul
+🍽️ Untertasse | Дийз | Diis
+🧂 Salzstreuer | Давсны сав | Dawsnii saw
+🫙 Glas / Einmachglas | Шилэн сав | Schilen saw
+🥡 Deckel | Таг | Tag
+🥬 Salatkopf | Навчит байцаа | Nawtschit baizaa
+Radieschen | Улаан лууван | Ulaan luuwan
+🥔 Süßkartoffel | Амтат төмс | Amtat töms
+🧄 Frühlingszwiebel | Ногоон сонгино | Nogoon songino
+🍋 Limette | Ногоон нимбэг | Nogoon nimbeg
+🍇 Rosine | Үзэм | Üsem
+🍑 Aprikose | Гүйлс | Güils
+🍐 Pflaume | Чавга | Tschawga
+🥜 Mandel | Бүйлс | Büils
+🥛 Sahne / Rahm | Цөцгий | Zözgii
+🧈 Öröm (Milchhaut/Butter) | Өрөм | Öröm
+🧀 Eezgii (Trockenquark) | Ээзгий | Eesgii
+🥛 Buttermilch | Хярам / Айраг | Chjaram
+🍖 Trockenfleisch (Borts) | Борц | Borz
+🥟 Bansh (Kleine Teigtaschen) | Банш | Bansch
+🍜 Tsuivan (Nudelgericht) | Цуйван | Zuiwan
+🍞 Gambir (Fladenbrot) | Гамбир | Gambir
+🍯 Sirup | Шүүс / Сироп | Sirop
+🧥 Weste | Хантааз | Chantaas
+🍼 Babyflasche | Угж | Ugdsch
+🧸 Schnuller | Сооск / Хөхөлт | Chöchölt
+🚼 Kinderwagen | Хүүхдийн тэрэг | Chüüchdiin tereg
+🦷 Milchzahn | Сүүн шүд | Süün schüd
+💇 Zopf / Flechte | Гэзэг / Сүлжээс | Geseg
+🧔 Bart | Сахал | Sachal
+👁️ Augenbraue | Хөмсөг | Chömsög
+👁️ Wimper | Сормуус | Sormuus
+😊 Wange / Backe | Хацар | Chazar
+🧔 Kinn | Эрүү | Erüü
+🧠 Stirn | Дух | Duch
+🧣 Hals / Nacken | Хүзүү | Chüsüü
+💪 Schulter | Мөр | Mör
+💪 Ellbogen | Тохой | Tochoi
+✋ Handgelenk | Бугуй | Bugui
+💅 Fingernagel | Хумс | Chums
+✋ Handfläche | Алга | Alga
+✊ Faust | Нударга | Nudarga
+🦵 Knie | Өвдөг | Öwdög
+🦶 Knöchel | Шагай | Schagai
+🦶 Ferse | Өсгий | Ösgii
+🦶 Zeh | Хөлийн хуруу | Chöliin churuu
+🥟 kleine Teigtaschen | Банш | Bansch
+🧈 Öröm | Өрөм | Dicke Milchhaut / Rahmbutter
+🌊 Überschwemmung | Үер | Üjer
+☀️ Es ist sonnig | Нартай байна | Nartai bain
+📐 Messen / Abmessen | Хэмжих | Chemdschich
+🥛 Liter | Литр | Litr
+🍞 Bäcker | Талхчин | Talchtschin
+🥩 Metzger | Махчин / Нядалгаачин | Machtschin
+🔧 Mechaniker / Schlosser | Засварчин | Saswartschin
+⚡ Elektriker | Цахилгаанчин | Zachilgaantschin
+🚰 Klempner | Сантехникч | Santechniktsch
+🧱 Maurer | Өрлөгчин | Örlögtschin
+🖌️ Anstreicher / Maler | Будагчин | Budagtschin
+🚢 Kapitän | Ахмад | Achmad
+💧 Heilquelle / Mineralwasser | Рашаан | Raschaan
+👍 Daumen | Эрхий хуруу | Erchii churuu
+🫀 Leber | Элэг | Eleg
+🔄 Bitte wiederhole das | Дахиад хэлнэ үү | Dachiad chelne uu
+👏 Weiter so! | Үргэлжлүүлээрэй! | Ürgeldschlüüleerei!
+Einjähriges Fohlen | Даага | Daaga
+Heilquelle | Рашаан | Raschaan
+Bedeutung | Утга | Utga
+Niere | Бөөр | Böör
+Lippe | Уруул | Uruul
+Teig | Зуурмаг | Suurmag
+Brühe | Тунгалаг шөл | Tungalag schöl
+Kontinent | Тив | Tiw
+Champion | Аварга | Awarga
+Bürger | Иргэн | Irgen
+🌍 Welt / Erdkreis | Дэлхий ертөнц | Delchii jörtönz
+👥 Bevölkerung / Volk | Хүн ам / Ард түмэн | Ard tümen
+🇲🇳 Nation / Volk | Үндэстэн | Ündesten
+🗣️ Dialekt / Mundart | Аялгуу | Ajalguu
+📜 Gesetzbuch / Verfassung | Үндсэн хууль | Ündsen chuul
+🏛️ Amt / Behörde | Албан газар | Alban gasar
+🍵 Thermoskanne | Халуун сав | Chaluun saw
+🧺 Picknickkorb | Аяны сагс | Ajanii sags
+🥖 Bäckerei | Талх нарийн боовны газар | Talchnii gasar
+☕ Café | Кафе | Kafe
+🍦 Eisdiele | Зайрмагны газар | Sairmagnii gasar
+✂️ Friseursalon | Үсчин | Üstschin
+⛽ Autowerkstatt | Авто засвар | Awto saswar
+🚓 Polizeiwache | Цагдаагийн хэлтэс | Zagdaagiin cheltes
+🚒 Feuerwache | Гал команд | Gal komand
+🧈 Yakbutter | Сарлагийн тос | Sarlagiin tos
+🍖 Hammelrücken (Uuts) | Ууц | Uuz
+🥟 Gedämpfte Teigtasche | Жигнэсэн бууз | Dschignesen buus
+🍵 Gesalzener Milchtee | Давстай сүүтэй цай | Dawstai süütei zai
+🍪 Röstmehl (Zamba) | Замба / Арвайн гурил | Arwain guril
+🫐 Wildbeeren | Зэрлэг жимс | Serleg dschims
+🎁 Preis / Belohnung | Шагнал урамшуулал | Schagnal uramschuulal
+👏 Applaus / Beifall | Алга ташилт | Alga taschilt
+🎉 Stimmung / Laune | Сэтгэл санаа | Setgel sanaa
+😊 Humor / Witz | Хошин шог | Choschin schog
+😂 Witz / Scherz | Онигоо / Тоглоом | Onigoo
+🎭 Komödie | Инээдмийн жүжиг | Ineedmiin dschüdschig
+😢 Drama / Tragödie | Эмгэнэлт жүжиг | Emgenelt dschüdschig
+📖 Roman / Erzählung | Роман / Тууж | Roman / Tuudsch
+📰 Artikel / Bericht | Нийтлэл / Мэдээ | Niitlel
+🎙️ Interview | Ярилцлага | Jarilzlaga
+📢 Werbung / Anzeige | Зар сурталчилгаа | Sar surtaltschilgaa
+🧈 Butterschmalz / Ghee | Шар тос | Schar tos
+🍯 Honigglas | Зөгийн балны шил | Sögiin balnii schil
+🧀 Käserei | Бяслагны үйлдвэр | Bjaslagnii üildwer
+🥛 Molkerei | Сүүний үйлдвэр | Süünii üildwer
+🥩 Schlachterei / Fleischerei | Махны дэлгүүр | Machnii delgüür
+🍎 Obstladen | Жимсний дэлгүүр | Dschimsnii delgüür
+🍽️ Speisekarte / Menü | Хоолны цэс | Choolnii zes
+🧑‍🍳 Kellner / Bedienung | Зөөгч | Söögtsch
+🧾 Trinkgeld | Гарын мөнгө | Gariin möngö
+🥗 Vorspeise | Зууш | Suusch
+🍲 Hauptgericht | Үндсэн хоол | Ündsen chool
+🍰 Nachtisch / Dessert | Амттан | Amttan
+🥤 Getränkebestellung | Уух зүйл | Uuch süil
+🧊 Eisgekühlt | Хүйтэн | Chüiten
+🔥 Frisch zubereitet | Шинээр хийсэн | Schineer chiisen
+🥄 Portion | Порц / Хэмжээ | Porz
+🍽️ Selbstbedienung | Өөртөө үйлчлэх | Öörtöö üiltschlech
+🥡 Zum Mitnehmen | Авч явах | Awtsch jawach
+🚲 Lieferservice | Хүргэлт | Chürgelt
+📦 Bestellung | Захиалга | Sachialga
+🎟️ Reservierung | Урьдчилсан захиалга | Urdtschilsan sachialga
+🎭 Eintritt frei | Үнэ төлбөргүй орох | Üne tölbörgii oroch
+📸 Blitzlicht verboten | Гэрэл цохихыг хориглоно | Gerel zochichig choriglono
+🤫 Ruhe bitte | Чимээгүй байна уу | Chimeegüi bain uu
+🚪 Drücken (Tür) | Түлх | Tülch
+🚪 Ziehen (Tür) | Тат | Tat
+🍭 Zuckerwatte | Хөвөн чихэр | Chöwön chicher
+✈️ Flugmodus | Нислэгийн горим | Nislegiin gorim
+🥧 Kreisdiagramm | Дугуй график | Dugui grafik
+⚖️ Verhältnis / Proportion | Харьцаа | Charizaa
+🧲 Pol (Nord/Süd) | Туйл | Tuil
+⚡ Stromkreis | Цахилгаан хэлхээ | Zachilgaan chelchee
+🧴 Mundwasser | Ам зайлагч | Am sailagtsch
+🧻 Feuchttücher | Нойтон салфетка | Noiton salfetka
+🥄 Teelöffelvoll | Нэг цайны халбага | Neg zainii chalbaga
+🥣 Suppentopf | Шөлний тогоо | Schölnii togoo
+🍳 Pfannenwender | Хутгуур | Chutguur
+🔪 Gemüsemesser | Ногооны хутга | Nogoonii chutga
+🧊 Eiswürfelform | Мөс хөлдөөгч | Mös chöldöögtsch
+🫖 Teesieb | Цайны шүүлтүүр | Zainii schüültüür
+☕ Kaffeetasse | Кофены аяга | Kofenii ajaga
+🍽️ Serviette | Амны цаас | Amnii zaas
+🧂 Pfefferstreuer | Перецний сав | Pereznii saw
+🫙 Vorratsdose | Хүнсний сав | Chünsnii saw
+🥖 Brotkrume | Талхны үйрмэг | Talchnii üirmeg
+🍞 Brotrinde | Талхны зах | Talchnii sach
+🧀 Scheibe Käse | Зүсэм бяслаг | Süsem bjaslag
+🍎 Apfelkerngehäuse | Алимны гол | Alimnii gol
+🍊 Orangenschale | Жүржийн хальс | Dschürdschiin chalis
+🍇 Weintraubenkern | Үзмийн яс | Üsmiin jas
+🍉 Wassermelonenschale | Тарвасны хальс | Tarwasnii chalis
+🥔 Kartoffelschale | Төмсний хальс | Tömsnii chalis
+🥕 Karottensaft | Луувангийн шүүс | Luuwangiin schüüs
+🍅 Tomatensuppe | Улаан лоолийн шөл | Ulaan looliin schöl
+🍽️ Speiseröhre | Улаан хоолой | Ulaan chooloi
+🫀 Darm | Гэдэс | Gedes
+🦴 Gelenk | Үе | Üje
+🦵 Sehne (Körper) | Шөрмөс | Schörmös
+🦴 Knorpel | Мөгөөрс | Mögöörs
+🧠 Rückenmark | Нугас | Nugas
+👁️ Netzhaut | Торлог бүрхэвч | Torlog bürchewtsch
+🥔 Kartoffelpüree | Нухсан төмс | Nuchsan töms
+🥕 Möhrenbrei | Луувангийн нухаш | Luuwangiin nuchasch
+🍅 Tomatenmark | Улаан лоолийн оо | Ulaan looliin oo
+🥒 Gewürzgurke | Даршилсан өргөст хэмх | Darschilsan örgöst chemch
+🥥 Kokosraspel | Наргил модны үйрмэг | Nargil modnii üirmeg
+🥜 Erdnussbutter | Самрын тос | Samriin tos
+🍞 Toastbrot | Шарсан талх | Scharsan talch
+🥐 Blätterteig | Давхраат гурил | Dawchraat guril
+🍰 Sahnetorte | Цөцгийтэй бялуу | Zözgiitei bjaluu
+🍪 Lebkuchen / Honigkuchen | Зөгийн балтай боов | Sögiin baltai boow
+🍮 Karamell | Карамель / Хайлсан чихэр | Karamel
+🍧 Sorbet / Wassereis | Жимстэй зайрмаг | Dschimstei sairmag
+🥤 Apfelschorle | Хийжүүлсэн алимны шүүс | Alimnii schüüs
+🍵 Pfefferminztee | Гаатай цай | Gaatai zai
+🍵 Kamillentee | Алтан товч цэцгийн цай | Altan towtsch zezgiin zai
+🥛 Hafermilch | Овьёосны сүү | Owjoosnii süü
+🥣 Müsli | Мюсли / Өглөөний хоол | Mjusli
+🍳 Rührei mit Schnittlauch | Ногоон сонгинотой өндөг | Nogoon songinotoi öndög
+🍲 Gemüsesuppe | Ногоотой шөл | Nogootoi schöl
+🧂 Kochsalz | Хоолны давс | Choolnii daws
+🍎 Obstgarten | Жимсний цэцэрлэг | Dschimsnii zezerleg
+🍇 Weinberg | Усан үзмийн талбай | Usan üsmiin talbai
+🍯 Honigwabe (frisch) | Шинэ зөгийн бал | Schine sögiin bal
+🥛 Molkegetränk | Шар сүүний ундаа | Schar süünii undaa
+🧀 Hartkäse | Хатуу бяслаг | Chatuu bjaslag
+🧈 Gesalzene Butter | Давстай цөцгийн тос | Dawstai zözgiin tos
+🍞 Sauerteigbrot | Хөрөнгөтэй талх | Chöröngötei talch
+🥖 Sesambrötchen | Гүнжидийн үртэй боов | Gündschidiin ürtei boow
+🥨 Salzstange | Давстай савх | Dawstai sawch
+🍰 Apfelkuchen | Алимтай бялуу | Alimtai bjaluu
+🍪 Haferkeks | Овьёосны жигнэмэг | Owjoosnii dschignemeg
+🍫 Zartbitterschokolade | Хар шоколад | Char schokolad
+🍬 Fruchtgummi | Жимстэй чихэр | Dschimstei chicher
+🍨 Fruchteis | Жимсний зайрмаг | Dschimsnii sairmag
+☕ Espresso | Эспрессо кофе | Espresso kofe
+🍵 Hagebuttentee | Нохойн хошууны цай | Nochoin choschuunii zai
+🧃 Orangensaft | Жүржийн шүүс | Dschürdschiin schüüs
+🥤 Mineralwasser mit Kohlensäure | Хийжүүлсэн рашаан | Chiidschüülsen raschaan
+💧 Stilles Wasser | Хийгүй ус | Chiigüi us
+🍲 Linsensuppe | Сэвэг зарамын шөл | Seweg saramiin schöl
+🥗 Gurkensalat | Өргөст хэмхийн салат | Örgöst chemchiin salat
+🥔 Bratkartoffeln | Шарсан төмс | Scharsan töms
+🍚 Gebratener Reis | Шарсан будаа | Scharsan budaa
+🥩 Hackbraten | Таташ махан хуурга | Tatasch machan chuurga
+🍗 Brathähnchen | Шарсан тахиа | Scharsan tachia
+🥚 Omelett | Омлет / Шарсан өндөг | Omlet
+🥞 Crêpe / Dünner Pfannkuchen | Нимгэн бин | Nimgen bin
+🍯 Honigbrot | Зөгийн балтай талх | Sögiin baltai talch
+🎶 Schlaflied | Бүүвэйн дуу | Büüwein duu
+🧱 Knetmasse / Knete | Баримлын шавар | Barimliin schawar
+✏️ Spitzer / Anspitzer | Харандаа үзүүрлэгч | Charandaa üsüürlegtsch
+🥛 Milliliter | Миллилитр | Millilitr
+💧 Grundwasser | Гүний ус | Günii us
+🌧️ Monsun / Regenzeit | Борооны улирал | Boroonii uliral
+☀️ Trockenzeit | Хуурай улирал | Chuurai uliral
+🌪️ Wirbelsturm / Hurrikan | Хар салхи | Char salchi
+🌈 Doppelregenbogen | Давхар солонго | Dawchar solongo
+🌌 Nordlicht / Polarlicht | Туйлын туяа | Tuiliin tujaa
+☄️ Asteroid | Жижиг гараг | Dschidschig garag
+🪐 Uranus / Neptun | Тэнгэрийн ван / Далайн ван | Tengeriin wan
+🚀 Raumfahrer | Сансрын нисгэгч | Sansriin nisgegtsch
+🍽️ Verdauung | Хоол боловсруулах | Chool bolowsruulach
+🦴 Wirbel | Нугалам | Nugalam
+🦷 Backenzahn | Араа шүд | Araa schüd
+🦷 Schneidezahn | Үүдэн шүд | Üüden schüd
+🦷 Eckzahn | Соёо шүд | Sojoo schüd
+👁️ Iris (Auge) | Солонгон бүрхэвч | Solongon bürchewtsch
+👂 Gehörgang | Чихний суваг | Chichnii suwag
+👃 Nasenrücken | Хамрын хянгар | Chamriin chjangar
+🚂 Lokomotive | Зүтгүүр | Sütgüür
+🌉 Hängebrücke | Дүүжин гүүр | Düüdschin güür
+📐 Winkelhalbierende | Биссектрис | Bissektris
+📊 Wahrscheinlichkeit | Магадлал | Magadlal
+🍞 Roggenbrot | Хөх тарианы талх | Chöch tarianii talch
+🥖 Knoblauchbaguette | Сармистай талх | Sarmistai talch
+🥐 Schokocroissant | Шоколадтай ороомог | Schokoladtai oroomog
+🥞 Kaiserschmarrn / Pfannkuchen | Амтат бин | Amtat bin
+🥣 Milchreis mit Zimt | Шанцтай сүүтэй будаа | Schanztai süütei budaa
+🍲 Erbsensuppe | Вандуйтай шөл | Wanduitai schöl
+🥟 Dampfnudel / gedämpftes Brot | Мантуу | Mantuu
+🍜 Glasnudeln / Reisnudeln | Пүнтүүз | Püntüüs
+🍞 Toaster | Талх шарагч | Talch scharagtsch
+Dampfnudel | Мантуу | Mantuu
+Glasnudeln | Пүнтүүз | Püntüüs
+Gefrierschrank | Хөлдөөгч | Chöldöögtsch
+Versöhnung | Эвлэрэл | Ewlerel
+Fabel | Ёгт үлгэр | Jogt ülger
+🧮 Mathematik-Olympiade | Математикийн олимпиад | Matematikiin olimpiad
+📐 Gleichseitiges Dreieck | Зөв гурвалжин | Söw gurwaldschin
+📐 Rechtwinkliges Dreieck | Тэгш өнцөгт гурвалжин | Tegsch önzögt gurwaldschin
+⭕ Kreissektor | Дугуйн сектор | Duguin sektor
+📏 Maßstab | Масштаб | Maschtab
+🔢 Römische Zahlen | Ром тоо | Rom too
+⚗️ Destilliertes Wasser | Нэрмэл ус | Nermel us
+🍞 Dinkelbrot | Улаан буудайн талх | Ulaan buudain talch
+🥖 Zwiebelbaguette | Сонгинотой талх | Songinotoi talch
+🥐 Butterhörnchen | Цөцгийн тостой ороомог | Zözgiin tostoi oroomog
+🥣 Hirsebrei mit Rosinen | Үзэмтэй шар будаа | Üsemtei schar budaa
+🍲 Bohnensuppe | Шоштой шөл | Schoschtoi schöl
+🥗 Karottensalat | Луувангийн салат | Luuwangiin salat
+🥔 Salzkartoffeln | Чанасан төмс | Tschanasan töms
+🥩 Lammkotelett | Хонины хавирга | Choninii chawirga
+🍗 Hähnchenbrust | Тахианы цээж мах | Tachianii zeedsch mach
+🥟 Khuushuur mit Hammelfleisch | Хонины махтай хуушуур | Choninii machtai chuuschuur
+🍜 Nudelsuppe mit Rindfleisch | Үхрийн махтай гурилтай шөл | Üchriin machtai guriltai schöl
+🧀 Räucherkäse | Утсан бяслаг | Utsan bjaslag
+🍓 Himbeermilch | Бөөрөлзгөнийн сүү | Böörölsgöniin süü

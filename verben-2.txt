@@ -1,0 +1,56 @@
+# Verben
+Anfangen | Эхлэх
+Beenden | Дуусгах
+Bleiben | Үлдэх
+Bringen | Авчрах
+Brauchen | Хэрэгтэй байх
+Bauen | Барих
+Fliegen | Нисэх
+Fallen | Унах
+Fangen | Барьж авах
+Gewinnen | Хожих
+Verlieren | Алдах
+Glauben | Итгэх
+Hoffen | Найдах
+Kämpfen | Тэмцэх
+Kennen (Person) | Таних
+Kaufen | Худалдан авах
+Klettern | Авирах
+Lassen | Орхих
+Leben | Амьдрах
+Legen | Тавих
+Lügen | Худлаа ярих
+Malen / Zeichnen | Зурах
+Rechnen | Тооцох
+Reisen | Аялах
+Reiten | Морь унах
+Ruhen / Sich ausruhen | Амрах
+Schicken | Илгээх
+Schenken | Бэлэглэх
+Schwimmen | Сэлэх
+Springen | Үсрэх
+Stehlen | Хулгайлах
+Tragen | Үүрэх
+Treffen | Уулзах
+Verkaufen | Зарах
+Warten | Хүлээх
+Wachsen | Ургах
+Zählen | Тоолох
+Ziehen | Татах
+Putzen | Цэвэрлэх
+Bügeln | Индүүдэх
+Heiraten | Гэрлэх
+Besuchen | Зочлох
+Einladen | Урих
+Telefonieren | Утсаар ярих
+Fotografieren | Зураг авах
+Üben | Дасгал хийх
+Vergessen | Мартах
+Sich erinnern | Санах
+Lächeln | Инээмсэглэх
+Streiten | Маргах
+Teilen | Хуваалцах
+Sammeln | Цуглуулах
+Wählen | Сонгох
+Sparen | Хэмнэх
+Ausleihen | Зээлэх

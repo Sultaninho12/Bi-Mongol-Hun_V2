@@ -1,0 +1,48 @@
+# Obst & Gemüse
+Obst | Жимс
+Gemüse | Хүнсний ногоо
+Apfel | Алим
+Birne | Лийр
+Pfirsich | Тоор
+Pflaume | Чавга
+Aprikose | Гүйлс
+Kirsche | Интоор
+Weintraube | Усан үзэм
+Wassermelone | Тарвас
+Melone | Амтат гуа
+Orange | Жүрж
+Mandarine | Мандарин
+Zitrone | Нимбэг
+Banane | Гадил
+Ananas | Хан боргоцой
+Granatapfel | Анар
+Feige | Инжир
+Himbeere | Бөөрөлзгөнө
+Erdbeere | Гүзээлзгэнэ
+Blaubeere | Нэрс
+Sanddornbeere | Чацаргана
+Schwarze Johannisbeere | Үхрийн нүд
+Nuss | Самар
+Walnuss | Хушга
+Mandel | Бүйлс
+Rosine | Үзэм
+Kartoffel | Төмс
+Karotte | Лууван
+Zwiebel | Сонгино
+Knoblauch | Сармис
+Kohl | Байцаа
+Blumenkohl | Цэцэгт байцаа
+Brokkoli | Брокколи
+Tomate | Улаан лооль
+Gurke | Өргөст хэмх
+Kürbis | Хулуу
+Aubergine | Баклажан
+Paprika | Амтат чинжүү
+Rote Bete | Улаан манжин
+Rübe | Манжин
+Spinat | Бууцай
+Erbse | Вандуй
+Bohne | Шош
+Mais | Эрдэнэ шиш
+Pilz | Мөөг
+Saft | Шүүс

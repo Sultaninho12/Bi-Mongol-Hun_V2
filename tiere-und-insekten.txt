@@ -1,0 +1,373 @@
+# Tiere & Insekten
+🐄 Kuh | Үнээ | Ünee
+🐂 Yak | Сарлаг | Sarlag
+🐐 Ziege | Ямаа | Jamaa
+🐖 Schwein | Гахай | Gachai
+🐓 Hahn / Huhn | Тахиа | Tachia
+🦆 Ente | Нугас | Nugas
+🐺 Wolf | Чоно | Tschono
+🦊 Fuchs | Үнэг | Üneg
+🐻 Bär | Баавгай | Baawgai
+🦌 Hirsch | Буга | Buga
+🐇 Hase | Туулай | Tuulai
+🐿️ Eichhörnchen | Хэрэм | Cherem
+🐁 Maus | Хулгана | Chulgana
+🦫 Murmeltier | Тарвага | Tarwaga
+🦁 Löwe | Арслан | Arslan
+🐯 Tiger | Бар | Bar
+🐘 Elefant | Заан | Saan
+🐒 Affe | Сармагчин | Sarmagtschin
+🐍 Schlange | Могой | Mogoi
+🐟 Fisch | Загас | Sagas
+🐦 Vogel | Шувуу | Schuwuu
+🦉 Eule | Шар шувуу | Schar schuwuu
+🦋 Schmetterling | Эрвээхэй | Erweechei
+🐝 Biene | Зөгий | Sögii
+🐜 Ameise | Шоргоолж | Schorgoolsch
+🐞 Marienkäfer | Цох хорхой | Zoch chorchoi
+🦟 Mücke | Шумуул | Schumuul
+🪰 Fliege | Ялаа | Jalaa
+🕷️ Spinne | Аалз | Aals
+🐛 Raupe / Wurm | Өт / Хорхой | Öt / Chorchoi
+🦗 Grashüpfer | Царцаа | Zarzzaa
+🐌 Schnecke | Дун хорхой | Dun chorchoi
+🐸 Frosch | Мэлхий | Melchii
+🐢 Schildkröte | Яст мэлхий | Jast melchii
+🐊 Krokodil | Матар | Matar
+🐋 Wal | Халим | Chalim
+🐬 Delfin | Дельфин / Далайн гахай | Dalain gachai
+🦈 Hai | Аварга загас | Awarga sagas
+🐙 Oktopus / Krake | Наймаалж | Naimaalsch
+🦀 Krabbe / Krebs | Хавч | Chawtsch
+🐧 Pinguin | Оцон шувуу | Ozon schuwuu
+🦢 Schwan | Хун | Chun
+🕊️ Taube | Тагтаа | Tagtaa
+🐦‍⬛ Krähe / Rabe | Хэрээ | Cheree
+🦩 Kranich | Тогоруу | Togoruu
+🐋 der Wal | Халим | Chalim
+📺 der Fernseher | Зурагт | Suragt
+🌊 das Meer | Далай | Dalai
+🐴 Airag (Stutenmilch) | Айраг | Airag
+🐑 Hammelfleisch | Хонины мах | Choninii mach
+🐟 Fischfleisch | Загасны мах | Sagasnii mach
+🐐 Kaschmir | Ноолуур | Nooluur
+🐴 Stutenmilch | Айраг | Airag
+👑 König | Хаан | Chaan
+🐉 Drache | Луу | Luu
+🐎 Reiten | Морь унах | Mor unach
+🕊️ Frieden | Энх тайван | Ench taiwan
+🗣️ Sprache | Хэл | Chel
+🌏 Natur | Байгаль | Baigal
+👦 älterer Bruder | Ах | Ach
+👧 ältere Schwester | Эгч | Egtsch
+Tier | Амьтан | Amtan
+🔬 Wissenschaft | Шинжлэх ухаан | Schindschlech uchaan
+🧮 Mathematik | Математик | Matematik
+🌍 Geografie | Газар зүй | Gasar süi
+🧬 Biologie | Биологи | Biologi
+🧪 Chemie | Хими | Chimi
+🔭 Astronomie | Одон орон | Odon oron
+📐 Geometrie | Геометр | Geometr
+📝 Prüfung / Test | Шалгалт | Schalgalt
+🎓 Abschluss / Diplom | Диплом | Diplom
+📚 Hausaufgabe | Гэрийн даалгавар | Geriin daalgawar
+🏫 Unterricht / Stunde | Хичээл | Chitscheel
+🔔 Pause | Завсарлага | Sawsarlaga
+🖍️ Buntstift | Өнгийн харандаа | Öngiin charandaa
+🖌️ Pinsel | Бийр | Biir
+📐 Winkel / Ecke | Өнцөг | Önzög
+➖ Linie / Strich | Зураас | Suraas
+🔵 Punkt | Цэг | Zeg
+➕ Plus | Нэмэх | Nemech
+➖ Minus | Хасах | Chasach
+🐎 Fohlen | Унага | Unaga
+🐆 Schneeleopard | Цоохор ирвэс | Zoochor irwes
+📖 Wörterbuch | Толь бичиг | Tol bitschig
+🏆 Erfolg | Амжилт | Amdschilt
+🌟 Zukunft | Ирээдүй | Ireedüi
+🎣 Fischer | Загасчин | Sagaschtschin
+🏹 Jäger | Анчин | Antschin
+🛍️ Verkäufer | Худалдагч | Chudaldagtsch
+🧹 Reinigungskraft | Үйлчлэгч | Üiltschlegtsch
+🖥️ Bildschirm / Monitor | Дэлгэц | Delgez
+⌨️ Tastatur | Гар | Gar
+🦓 Zebrastreifen | Явган хүний гарц | Jawgan chünii garz
+🅿️ Parkplatz | Зогсоол | Sogsool
+🚕 Taxi | Такси | Taksi
+🚚 Lastwagen / LKW | Ачааны машин | Atschaanii maschin
+🚜 Traktor | Трактор | Traktor
+🚁 Hubschrauber | Нисдэг тэрэг | Nisdeg tereg
+⛵ Segelboot | Дарвуулт завь | Darwuult saw
+🛶 Boot / Kanu | Завь | Saw
+⚓ Hafen | Боомт | Boomt
+🚧 Grenze | Хил | Chil
+🛃 Zoll | Гааль | Gaal
+🛞 Reifen / Rad | Дугуй | Dugui
+🧱 Ziegel / Stein | Тоосго | Toosgo
+🦔 Igel | Зараа | Saraa
+💎 Perle | Сувд | Suwd
+🏞️ Wasserfall | Хүрхрээ | Chürchree
+🕳️ Höhle | Агуй | Agui
+🐢 Trödeln / Verspäten | Хоцрох | Chozroch
+⏰ Aufwachen | Сэрэх | Serech
+💭 Träumen | Зүүдлэх | Süüdlech
+🐄 Melken | Саах | Saach
+🐑 Hüten (Vieh) | Хариулах | Chariulach
+🔥 Anzünden | Асаах | Asaach
+🧯 Löschen / Ausmachen | Унтраах | Untraach
+🔨 Schlagen / Hämmern | Цохих | Zochich
+🪢 Binden / Knoten | Уях / Зангидах | Ujach
+🔓 Lösen / Öffnen | Тайлах | Tailach
+💥 Zerbrechen | Хагалах / Эвдэх | Chagalach
+🌊 Schwimmen (Treiben) | Хөвөх | Chöwöch
+⚓ Sinken / Untergehen | Живэх | Dschiwech
+🧊 Frieren / Gefrieren | Хөлдөх | Chöldöch
+🫠 Schmelzen | Хайлах | Chailach
+🐕 bellen | Хуцах | Chuzach
+🐴 wiehern | Янцгаах | Janzgaach
+🧸 weich | Зөөлөн | Söölön
+🪨 hart | Хатуу | Chatuu
+🎡 Riesenrad | Алсыг харагч | Alsiig charagtsch
+🏕️ Lagerfeuer | Түүдэг гал | Tüüdeg gal
+🌐 Globus / Erdkugel | Бөмбөрцөг | Bömbörzög
+Jurten-Dachkranz | Тооно | Toono
+Tafel | Самбар | Sambar
+Kreide | Шохой | Schochoi
+Tinte | Бэх | Bech
+nass | Нойтон | Noiton
+trocken | Хуурай | Chuurai
+tief | Гүн | Gün
+gerade | Шулуун | Schuluun
+reich | Баян | Bajan
+wichtig | Чухал | Tschuchal
+Gobi-Bär | Мазаалай | Masaalai
+Hütehund | Банхар | Banchar
+Pallaskatze | Мануул | Manuul
+Pferdeherde | Адуу | Aduu
+Gedicht | Шүлэг | Schüleg
+Satz | Өгүүлбэр | Ögüülber
+Chapter / Kapitel | Бүлэг | Büleg
+Seite | Хуудас | Chuudas
+👥 Gesellschaft / Gemeinschaft | Нийгэм / Хамт олон | Niigem
+🏛️ Bürger / Einwohner | Иргэн | Irgen
+🗳️ Wahl / Abstimmung | Сонгууль | Songuul
+👑 Präsident | Ерөнхийлөгч | Jörönchiilögtsch
+🏛️ Minister | Сайд | Said
+🏙️ Bürgermeister | Хотын дарга | Chotiin darga
+👮‍♂️ Chef / Leiter | Дарга / Удирдагч | Darga
+🤝 Kollege / Mitarbeiter | Хамтрагч / Ажилтан | Chamtragtsch
+🧑‍💼 Kunde / Käufer | Үйлчлүүлэгч | Üiltschlüülegtsch
+🏆 Meister / Champion | Аварга | Awarga
+🎓 Experte / Fachmann | Мэргэжилтэн | Mergedschilten
+👶 Anfänger | Анхлан суралцагч | Anchlan suralzagtsch
+📖 Leser | Уншигч | Unschigtsch
+👀 Zuschauer | Үзэгч | Üsegtsch
+👂 Zuhörer | Сонсогч | Sonsogtsch
+🚶‍♂️ Fußgänger | Явган зорчигч | Jawgan sortschigtsch
+🧳 Passagier / Fahrgast | Зорчигч | Sortschigtsch
+🏨 Tourist / Reisender | Жуулчин | Dschuultschin
+🗺️ Reiseführer | Хөтөч | Chötötsch
+🏕️ Lager / Camp | Зуслан | Suslan
+🏡 Ferienhaus / Datscha | Зуслангийн байшин | Suslangiin baischin
+🔬 Forscher / Wissenschaftler | Эрдэмтэн / Судлаач | Erdemten
+📚 Bibliothekar | Номын санч | Nomiin santsch
+🐦 Schwalbe | Хараацай | Charaazai
+🏢 Botschaft | Элчин сайдын яам | Eltschin saidiin jaam
+🛂 Visum | Виз | Wis
+✈️ Abflug | Нислэг | Nisleg
+🛬 Landung | Газардалт | Gasardalt
+🧳 Gepäck | Ачаа тээш | Atschaa teesch
+💺 Sitzplatz | Суудал | Suudal
+🪟 Fensterplatz | Цонхны суудал | Zonchnii suudal
+🚦 Staus / Verkehr | Замын түгжрэл | Samiin tügdschrel
+⛽ Ölwechsel / Reparatur | Засвар үйлчилгээ | Saswar üiltschilgee
+🛞 Lenkrad | Жолооны хүрд | Dscholoonii chürd
+🚨 Bremse | Тоормос | Toormos
+💡 Scheinwerfer | Гэрэл | Gerel
+🪞 Rückspiegel | Толь | Tol
+🪑 Sicherheitsgurt | Хамгаалах бүс | Chamgaalach büs
+🚲 Fahrradklingel | Дугуйн хонх | Duguin chonch
+🪖 Helm | Дуулга / Хамгаалалтын малгай | Duulga
+🛹 Skateboard | Скейтборд | Skeitbord
+🛴 Roller / Scooter | Скүүтер | Sküüter
+🛷 Schlitten | Чарга | Tscharga
+⛄ Schneemann | Цасан хүн | Zasan chün
+🦟 Mückenspray | Шумуулын цацлага | Schumuuliin zazlaga
+🐝 Honigwabe | Зөгийн сархиаг | Sögiin sarchiag
+🐜 Ameisenkönigin | Шоргоолжны хатан | Schorgoolschnii chatan
+🦋 Kokon / Puppe | Хүүхэлдэй | Chüücheldei
+🐸 Kaulquappe | Шанаган хорхой | Schanagan chorchoi
+🐢 Panzer (Schildkröte) | Хуяг | Chujag
+🐟 Flosse | Сэлүүр | Selüür
+🐪 Höcker | Бөх | Böch
+🐎 Hufeisen | Тах | Tach
+🦠 Virus | Вирус | Wirus
+🧬 Zelle | Эс | Es
+🗿 Steindenkmal / Hirschstein | Буган чулуу | Bugan chuluu
+🏺 Archäologie | Археологи | Archeologi
+🪙 Schatztruhe | Эрдэнэсийн авдар | Erdenesiin awdar
+📦 Holztruhe (Avdar) | Авдар | Awdar
+🕯️ Öllampe | Дэн | Den
+🔥 Räucherwerk / Weihrauch | Арц / Хүж | Arz / Chüdsch
+🐘 Weißer Elefant | Цагаан заан | Zagaan saan
+🦁 Schneelöwe | Цагаан арслан | Zagaan arslan
+🦅 Garuda (Fabelvogel) | Хангарьд | Changarid
+🐢 Schildkrötenfelsen | Мэлхий хад | Melchii chad
+🏔️ Heiliger Berg | Хайрхан уул | Chairchan uul
+🌊 Mutter Erde | Эх дэлхий | Ech delchii
+🌌 Ewiger Blauer Himmel | Мөнх хөх тэнгэр | Mönch chöch tenger
+🥛 Ziegenmilch | Ямааны сүү | Jamaanii süü
+🐪 Kamelmilch | Ингэний хоормог | Ingenii choormog
+🐑 Schafsmilch | Хонины сүү | Choninii süü
+🐦 Kranichschwarm | Тогоруун цуваа | Togoruun zuwaa
+🦅 Bartgeier | Ёл | Jol
+🦆 Rostgans | Ангир | Angir
+🐦 Wiedehopf | Өвөөлж | Öwööldsch
+🐦 Lerchengesang | Болжморын жиргээ | Boldschmoriin dschirgee
+🦉 Schneeeule | Цагаан ууль | Zagaan uul
+🐦 Bachstelze | Цэгцгий | Zegzgii
+🐦 Rabe | Хон хэрээ | Chon cheree
+🦌 Maralhirsch | Халиун буга | Chaliun buga
+🦌 Elchbulle | Манж хандгай | Mandsch chandgai
+🐐 Saiga-Antilope | Бөхөн | Böchön
+🐾 Vielfraß | Нохой зээх | Nochoi seech
+🦊 Polarfuchs | Цагаан үнэг | Zagaan üneg
+🐈 Luchs | Шилүүс | Schilüüs
+🦦 Fischotter | Халиу | Chaliu
+🐿️ Flughörnchen | Олби хэрэм | Olbi cherem
+🐹 Wühlmaus | Оготно | Ogotno
+🐇 Pfeifhase | Огдой | Ogdoi
+🦎 Agame (Wüstenechse) | Хонин гүрвэл | Chonin gürwel
+🐍 Otter / Natter | Хорт могой | Chort mogoi
+🐸 Laubfrosch | Модны мэлхий | Modnii melchii
+🐟 Äsche | Хадар загас | Chadar sagas
+🐌 Weinbergschnecke | Эмгэн хумс | Emgen chums
+🤗 gastfreundlich | Зочломтгой | Sotschlomtgoi
+🗣️ zweisprachig | Хос хэлтэй | Chos cheltei
+📺 Fernbedienung | Удирдлага | Udirdlaga
+🚀 modern / zeitgemäß | Орчин үеийн | Ortschin üjeiin
+🏛️ traditionell | Уламжлалт | Ulamschlalt
+🤝 gemeinsam / zusammen | Хамтдаа | Chamtdaa
+✅ natürlich / selbstverständlich | Мэдээж | Medeedsch
+🎉 Wir haben es geschafft! | Бид чадлаа! | Bid tschadlaa!
+Palast | Ордон | Ordon
+Festung | Цайз | Zais
+Holztruhe | Авдар | Awdar
+Zeder | Хуш | Chusch
+Gemeinsam | Хамтдаа | Chamtdaa
+Natürlich | Мэдээж | Medeedsch
+📅 Jahrhundertwende | Зууны зааг | Suunii saag
+⏳ Jahrzehnt | Арван жил | Arwan dschil
+🕰️ Jahrtausend | Мянган жил | Mjangan dschil
+🏞️ Landschaftsbild | Байгалийн зураг | Baigaliin surag
+🐑 Schafwolle | Хонины ноос | Choninii noos
+🐫 Kamelwolle | Тэмээний ноос | Temeenii noos
+🐂 Yakwolle | Сарлагийн хөөвөр | Sarlagiin chööwör
+🐎 Pferdehaar | Адууны хялгас | Aduunii chjalgas
+🐎 Steigbügel | Дөрөө | Döröö
+🐎 Sattelgurt | Олом / Жирэм | Olom
+🐎 Peitsche / Gerte | Ташуур | Taschuur
+🐎 Huf | Туурай | Tuurai
+🐎 Schweif | Сүүл | Süül
+🐄 Kuhstall | Үхрийн саравч | Üchriin sarawtsch
+🐎 Peitsche / Reitgerte | Ташуур | Taschuur
+🧀 Quark | Аарц | Aarz
+🦒 Giraffe | Анааш | Anaasch
+🦘 Känguru | Имж | Imdsch
+🦏 Nashorn | Хирс | Chirs
+🪐 Mars | Ангараг | Angarag
+🪐 Venus | Сугар | Sugar
+🌾 Vogelscheuche | Мануухай | Manuuchai
+🐝 Imker | Зөгийчин | Sögiitschin
+🐟 Fischmarkt | Загасны зах | Sagasnii sach
+🦄 Einhorn | Ганц эвэрт | Ganz ewert
+🧚‍♀️ Fee | Дагина | Dagina
+🧙‍♂️ Zauberer / Magier | Ид шидтэн | Id schidten
+🧭 Abenteuer | Адал явдал | Adal jawdal
+🐄 Weidezaun | Бэлчээрийн хашаа | Beltscheeriin chaschaa
+🐎 Tränke | Онгоц (усны) | Ongoz
+🐑 Schur / Schafschur | Ноос хяргах | Noos chjargach
+🧶 Spinnrad | Ээрүүл | Eerüül
+🧵 Weberei-Muster | Хээ | Chee
+🐎 Fünf Arten Vieh | Таван хошуу мал | Tawan choschuu mal
+🏁 Ziellinie | Бариа | Baria
+🚦 Startlinie | Гараа | Garaa
+💍 Hochzeit | Хурим | Churim
+🧥 Kapuze | Юүдэн | Jüüden
+🐝 Insekt | Шавж | Schawdsch
+🐦 Zugvogel | Нүүдлийн шувуу | Nüüdliin schuwuu
+🔥 Glut / glühende Kohle | Цог | Zog
+📖 Tagebuch | Өдрийн тэмдэглэл | Ödriin temdeglel
+Tierspur | Мөр | Mör
+🦠 Immunsystem | Дархлааны систем | Darchlaanii sistem
+💉 Antikörper | Эсрэг бие | Esreg bije
+🫁 Luftröhre | Цагаан мөгөөрсөн хоолой | Zagaan mögöörsön chooloi
+🧸 Kuscheltier | Чихмэл тоглоом | Chichmel togloom
+⛲ Springbrunnen | Усан оргилуур | Usan orgiluur
+🦁 Zoo / Tierpark | Амьтны хүрээлэн | Amtnii chüreelen
+🗣️ Aussprache | Дуудлага | Duudlaga
+🐄 Viehzucht | Мал аж ахуй | Mal adsch achui
+🚜 Pflug | Анжис | Andschis
+🐝 Bienenstock-Wabe | Зөгийн үүрний сархиаг | Sögiin üürnii sarchiag
+🐟 Räucherfisch | Утсан загас | Utsan sagas
+🤝 Wir schaffen das zusammen! | Бид хамтдаа чадна! | Bid chamtdaa tschadna!
+🌟 Bleib gesund und munter! | Эрүүл энх байгаарай! | Erüül ench baigaarai!
+Bergwerk | Уурхай | Uurchai
+Rhythmus | Хэмнэл | Chemnel
+Refrain | Дахилт | Dachilt
+Strophe | Бадаг | Badag
+Schuldirektor | Захирал | Sachiral
+Zauberspruch | Шившлэг | Schiwschleg
+🌿 Schafgarbe | Төлөгч өвс | Tölögtsch öws
+🦌 Rentierherde | Цаа бугын сүрэг | Zaa bugiin süreg
+🐎 Wildhengst | Зэрлэг азарга | Serleg asarga
+🐺 Wolfsrudel | Чонын сүрэг | Tschoniin süreg
+🦅 Steinadlerhorst | Бүргэдийн үүр | Bürgediin üür
+🦢 Schwanensee | Хунт нуур | Chunt nuur
+🦆 Wildentenpaar | Хос ангир | Chos angir
+🐦 Nachtigall | Алтан гургалдай | Altan gurgaldai
+🦉 Waldkauz | Ойн ууль | Oin uul
+🐦 Eisvogel | Номин шувуу | Nomin schuwuu
+🦋 Schwalbenschwanz | Хараацайн сүүлт эрвээхэй | Charaazain süült erweechei
+🐝 Bienenkönigin | Зөгийн хатан | Sögiin chatan
+🐜 Waldameise | Ойн шоргоолж | Oin schorgoolsch
+🐟 Flussbarsch | Голын алгана | Goliin algana
+🦀 Flusskrebs | Голын хавч | Goliin chawtsch
+🩺 Herz-Kreislauf | Зүрх судас | Sürch sudas
+⭕ Tangente | Шүргэгч | Schürgegtsch
+🦌 Elchkuh | Сүндэс | Sündes
+🦌 Hirschkuh | Согоо | Sogoo
+🐑 Mutterschaf | Эм хонь | Em chon
+🐐 Ziegenbock | Ухна | Uchna
+🐫 Kamelstute | Ингэ | Inge
+🐫 Kamelhengst | Буур | Buur
+🐂 Yakbulle | Сарлагийн бух | Sarlagiin buch
+🦅 Steinadlerweibchen | Бүргэд | Bürged
+🐦 Blaumeise | Цэнхэр хөх бух | Zencher chöch buch
+🐦 Dompfaff / Gimpel | Зана | Sana
+🦆 Krickente | Нугас | Nugas
+🦢 Höckerschwan | Хун | Chun
+🐟 Äschenschwarm | Хадар загасны сүрэг | Chadar sagasnii süreg
+🦋 Zitronenfalter | Шар эрвээхэй | Schar erweechei
+🐝 Drohne (Biene) | Эр зөгий | Er sögii
+🐞 Siebenpunkt | Долоон толбот цох | Doloon tolbot zoch
+📖 Fabel / Tiergeschichte | Ёгт үлгэр | Jogt ülger
+🏊‍♂️ Brustschwimmen | Мэлхий сэлэлт | Melchii selelt – wörtl. Froschschwimmen
+🐴 Steppenwind | Талын салхи | Taliin salchi
+🌅 Morgenröte | Үүрийн туяа | Üüriin tujaa
+🦠 Mikroorganismus | Бичил биетэн | Bitschil bijeten
+🦌 Moschusochse | Заарт үхэр | Saart ücher
+🐎 Przewalski-Pferd | Тахь | Tachi
+🐫 Zweihöckriges Kamel | Хоёр бөхтэй тэмээ | Chojor böchtei temee
+🐑 Fettschwanzschaf | Өөхөн сүүлт хонь | Ööchön süült chon
+🐐 Kaschmirziege | Ноолуурын ямаа | Nooluuriin jamaa
+🦅 Kaiseradler | Хан бүргэд | Chan bürged
+🐦 Feldlerche | Талын болжмор | Taliin boldschmor
+🦆 Brautente | Модны нугас | Modnii nugas
+🦢 Singschwanpaar | Хос гангар хун | Chos gangar chun
+🐟 Lenok (Sibirische Forelle) | Зэвэг загас | Seweg sagas
+🦋 Bläuling | Цэнхэр эрвээхэй | Zencher erweechei
+🐝 Wildbiene | Зэрлэг зөгий | Serleg sögii
+🐞 Marienkäferlarve | Цохны авгалдай | Zochnii awgaldai
+🐟 Gebratener Fisch | Шарсан загас | Scharsan sagas
+🥛 Ziegenjoghurt | Ямааны тараг | Jamaanii tarag

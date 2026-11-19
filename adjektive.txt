@@ -1,0 +1,32 @@
+# Eigenschaften & Gefühle
+Reich | Баян
+Arm | Ядуу
+Jung | Залуу
+Alt (Person) | Настай
+Offen | Нээлттэй
+Geschlossen | Хаалттай
+Voll | Дүүрэн
+Leer | Хоосон
+Nah | Ойр
+Weit / Fern | Хол
+Laut | Чанга
+Leise | Нам
+Breit | Өргөн
+Dick | Бүдүүн
+Dünn | Нимгэн
+Flach | Хавтгай
+Gefährlich | Аюултай
+Sicher | Аюулгүй
+Einfach / Leicht | Хялбар
+Schwierig | Хэцүү
+Wahr | Үнэн
+Falsch / Gelogen | Худал
+Gleich | Адил
+Anders | Өөр
+Frisch | Шинэхэн
+Müde | Ядарсан
+Hungrig | Өлссөн
+Durstig | Цангасан
+Satt | Цадсан
+Stolz | Бахархалтай
+Allein | Ганцаараа

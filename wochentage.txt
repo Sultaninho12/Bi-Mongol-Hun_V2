@@ -1,0 +1,12 @@
+# Wochentage & Zeit
+Montag | Даваа
+Dienstag | Мягмар
+Mittwoch | Лхагва
+Donnerstag | Пүрэв
+Freitag | Баасан
+Samstag | Бямба
+Sonntag | Ням
+Woche | Долоо хоног
+Monat | Сар
+Jahr | Жил
+Wochenende | Амралтын өдөр

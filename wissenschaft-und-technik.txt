@@ -1,0 +1,89 @@
+# Wissenschaft & Technik
+🔨 Hammer | Алх | Alch
+🪚 Säge | Хөрөө | Chöröö
+🪛 Schraubenzieher | Халив | Chaliw
+🔩 Schraube / Nagel | Шураг / Хадаас | Schurag / Chadaas
+🪓 Axt | Сүх | Süch
+🪜 Leiter | Шат | Schat
+🪢 Seil / Strick | Олс / Дээс | Ols / Dees
+🔦 Taschenlampe | Гар чийдэн | Gar tschiiden
+🔋 Batterie | Зай | Sai
+📺 Fernseher | Зурагт | Suragt
+📷 Kamera / Fotoapparat | Зургийн аппарат | Surgiin apparat
+🎧 Kopfhörer | Чихэвч | Chichewtsch
+⌚ Uhr / Armbanduhr | Бугуйн цаг | Buguin zag
+🌐 Internet | Интернэт | Internet
+⚡ Strom / Elektrizität | Цахилгаан | Zachilgaan
+🖱️ Computermaus | Хулгана | Chulgana
+🖨️ Drucker | Принтер / Хэвлэгч | Chewlegtsch
+💾 Datei | Файл | Fail
+📁 Ordner | Хавтас | Chawtas
+🌐 Webseite | Вэб хуудас | Web chuudas
+📲 App / Anwendung | Апп / Програм | Program
+📧 E-Mail | Цахим шуудан | Zachim schuudan
+🎥 Video | Бичлэг / Видео | Bitschleg
+🔊 Lautsprecher | Чанга яригч | Tschanga jarigtsch
+📡 Satellit | Хиймэл дагуул | Chiimel daguul
+🚀 Rakete | Пуужин | Puudschin
+🛸 Raumschiff | Сансрын хөлөг | Sansriin chölög
+⚙️ Zahnrad / Maschine | Араа / Техник | Araa
+🧲 Magnet | Соронз | Sorons
+🔬 Mikroskop | Микроскоп | Mikroskop
+⚡ Energie / Kraft | Эрчим хүч | Ertschim chütsch
+🔥 Wärme / Hitze | Дулаан | Dulaan
+💡 Lichtstrahl | Гэрлийн цацраг | Gerliin zazrag
+🔊 Echo / Widerhall | Цуурай | Zuurai
+🧲 Anziehungskraft | Татах хүч | Tatach chütsch
+🚀 Schwerkraft | Таталцлын хүч | Tatalzliin chütsch
+🌍 Atmosphäre | Агаар мандал | Agaar mandal
+🔋 Spannung | Хүчдэл | Chütschdel
+🧪 Reagenzglas | Хуруу шил | Churuu schil
+⚗️ Kolben (Labor) | Колбо | Kolbo
+🌡️ Schmelzpunkt | Хайлах цэг | Chailach zeg
+💨 Verdampfung | Ууршилт | Uurschilt
+💧 Kondensation | Шүүдэрших | Schüüderschich
+⚛️ Atom | Атом | Atom
+🔬 Molekül | Молекул | Molekul
+🧬 DNA / Erbgut | ДНХ / Удамшил | Udamschil
+🧲 Magnetfeld | Соронзон орон | Soronson oron
+⚡ Leiter (Strom) | Дамжуулагч | Damdschuulagtsch
+🛡️ Isolator | Тусгаарлагч | Tusgaarlagtsch
+🔦 Linse (Optik) | Линз | Lins
+🌈 Spektrum | Спектр | Spektr
+🧪 Lösung (Chemie) | Уусмал | Uusmal
+⚗️ Reaktion | Урвал | Urwal
+🧪 Reagenz | Урвалж | Urwaldsch
+⚗️ Destillation | Нэрэх | Nerech
+🔥 Verbrennung | Шаталт | Schatalt
+🧊 Kristallisation | Талстжих | Talstdschich
+💨 Luftdruck | Агаарын даралт | Agaariin daralt
+🌡️ Luftfeuchtigkeit | Агаарын чийгшил | Agaariin tschiigschil
+🌧️ Niederschlag | Хур тунадас | Chur tunadas
+🌤️ Wettervorhersage | Цаг агаарын мэдээ | Zag agaariin medee
+🧭 Klimazone | Уур амьсгалын бүс | Uur amisgaliin büs
+🌍 Erdkruste | Дэлхийн царцдас | Delchiin zarzdas
+🌋 Erdkern | Дэлхийн цөм | Delchiin zöm
+🪨 Mineral | Ашигт малтмал | Aschigt maltmal
+⛏️ Bergwerk / Mine | Уурхай | Uurchai
+💎 Edelmetall | Үнэт металл | Ünet metall
+🪙 Bronze | Хүрэл | Chürel
+⚙️ Aluminium | Хөнгөн цагаан | Chöngön zagaan
+🧪 Schwefel | Хүхэр | Chücher
+⚡ Stromschlag | Цахилгаанд цохиулах | Zachilgaand zochiuulach
+🔋 Batteriepol | Батерейн туйл | Baterein tuil
+💡 Leuchtdiode / LED | Гэрэлт диод | Gerelt diod
+🔭 Brennweite | Фокусын зай | Fokusiin sai
+🧪 Reagenzpapier | Урвалжийн цаас | Urwaldschiin zaas
+⚗️ Filterpapier | Шүүлтүүрийн цаас | Schüültüüriin zaas
+🔥 Flammpunkt | Авалцах цэг | Awalzach zeg
+⚡ Widerstand (Strom) | Эсэргүүцэл | Esergüüzel
+🔋 Kapazität | Багтаамж | Bagtaamdsch
+🔊 Frequenz | Давтамж | Dawtamdsch
+🌈 Wellenlänge | Долгионы урт | Dolgionii urt
+⚡ Gleichstrom | Тогтмол гүйдэл | Togtmol güidel
+⚡ Wechselstrom | Хувьсах гүйдэл | Chuwsach güidel
+🧲 Elektromagnet | Цахилгаан соронзон | Zachilgaan soronson
+🔦 Laserstrahl | Лазер туяа | Laser tujaa
+🧪 Periodensystem | Үелэх систем | Üjelech sistem
+🔥 Kettenreaktion | Гинжин урвал | Gindschin urwal
+💧 Oberflächenspannung | Гадаргуугийн таталцал | Gadarguugiin tatalzal

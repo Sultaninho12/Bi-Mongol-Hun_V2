@@ -1,0 +1,48 @@
+# Schule & Büro
+Stift / Kugelschreiber | Үзэг
+Bleistift | Харандаа
+Buntstifte | Өнгийн харандаа
+Radiergummi | Баллуур
+Anspitzer | Харандаа үзүүрлэгч
+Lineal | Шугам
+Heft | Дэвтэр
+Notizbuch | Тэмдэглэлийн дэвтэр
+Schulbuch | Сурах бичиг
+Schultasche | Сурагчийн цүнх
+Federmäppchen | Үзэгний сав
+Schere | Хайч
+Klebstoff | Цавуу
+Klebeband | Скотч
+Papier | Цаас
+Mappe / Ordner | Хавтас
+Tafel | Самбар
+Kreide | Шохой
+Taschenrechner | Тооны машин
+Landkarte | Газрын зураг
+Wörterbuch | Толь бичиг
+Stundenplan | Хичээлийн хуваарь
+Hausaufgabe | Гэрийн даалгавар
+Note (Schule) | Дүн
+Prüfung | Шалгалт
+Klasse | Анги
+Lehrer | Багш
+Schüler | Сурагч
+Schuldirektor | Захирал
+Büro | Оффис
+Computer | Компьютер
+Drucker | Принтер
+Bildschirm | Дэлгэц
+Maus (Computer) | Хулгана
+Besprechung | Хурал
+Gehalt | Цалин
+Arbeitsplatz | Ажлын байр
+Vertrag | Гэрээ
+Bericht | Тайлан
+Projekt | Төсөл
+Rechnung (Forderung) | Нэхэмжлэх
+Stempel | Тамга
+Unterschrift | Гарын үсэг
+E-Mail | Цахим шуудан
+Telefon | Утас
+Handy | Гар утас
+Chef | Дарга

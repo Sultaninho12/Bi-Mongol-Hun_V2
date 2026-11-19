@@ -1,0 +1,22 @@
+# Zeit & Kalender
+📅 Heute | Өнөөдөр | Önöödör
+🌅 Morgen | Маргааш | Margaasch
+⏪ Gestern | Өчигдөр | Ötschigdör
+☀️ Tag | Өдөр | Ödör
+🌃 Nacht | Шөнө | Schönö
+🌸 Frühling | Хавар | Chawar
+☀️ Sommer | Зун | Sun
+🍂 Herbst | Намар | Namar
+❄️ Winter | Өвөл | Öwöl
+🗓️ Januar | Нэгдүгээр сар | Negdügeer sar
+🗓️ Februar | Хоёрдугаар сар | Chojordugaar sar
+🗓️ März | Гуравдугаар сар | Gurawdugaar sar
+🗓️ April | Дөрөвдүгээр сар | Döröwdügeer sar
+🗓️ Mai | Тавдугаар сар | Tawdugaar sar
+🗓️ Juni | Зургаадугаар сар | Surgaadugaar sar
+🗓️ Juli | Долоодугаар сар | Doloodugaar sar
+🗓️ August | Наймдугаар сар | Naimdugaar sar
+🗓️ September | Есдүгээр сар | Jösdügeer sar
+🗓️ Oktober | Аравдугаар сар | Arawdugaar sar
+🗓️ November | Арван нэгдүгээр сар | Arwan negdügeer sar
+🗓️ Dezember | Арван хоёрдугаар сар | Arwan chojordugaar sar

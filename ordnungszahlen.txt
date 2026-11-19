@@ -1,0 +1,32 @@
+# Ordnungszahlen (Datum)
+der 1. – erste | нэгдүгээр
+der 2. – zweite | хоёрдугаар
+der 3. – dritte | гуравдугаар
+der 4. – vierte | дөрөвдүгээр
+der 5. – fünfte | тавдугаар
+der 6. – sechste | зургаадугаар
+der 7. – siebte | долоодугаар
+der 8. – achte | наймдугаар
+der 9. – neunte | есдүгээр
+der 10. – zehnte | аравдугаар
+der 11. – elfte | арван нэгдүгээр
+der 12. – zwölfte | арван хоёрдугаар
+der 13. – dreizehnte | арван гуравдугаар
+der 14. – vierzehnte | арван дөрөвдүгээр
+der 15. – fünfzehnte | арван тавдугаар
+der 16. – sechzehnte | арван зургаадугаар
+der 17. – siebzehnte | арван долоодугаар
+der 18. – achtzehnte | арван наймдугаар
+der 19. – neunzehnte | арван есдүгээр
+der 20. – zwanzigste | хорьдугаар
+der 21. – einundzwanzigste | хорин нэгдүгээр
+der 22. – zweiundzwanzigste | хорин хоёрдугаар
+der 23. – dreiundzwanzigste | хорин гуравдугаар
+der 24. – vierundzwanzigste | хорин дөрөвдүгээр
+der 25. – fünfundzwanzigste | хорин тавдугаар
+der 26. – sechsundzwanzigste | хорин зургаадугаар
+der 27. – siebenundzwanzigste | хорин долоодугаар
+der 28. – achtundzwanzigste | хорин наймдугаар
+der 29. – neunundzwanzigste | хорин есдүгээр
+der 30. – dreißigste | гучдугаар
+der 31. – einunddreißigste | гучин нэгдүгээр

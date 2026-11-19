@@ -1,0 +1,112 @@
+# Kleidung & Mode
+👕 Hemd / T-Shirt | Цамц | Zamz
+👖 Hose | Өмд | Ömd
+🧥 Mantel / Jacke | Хүрэм | Chürem
+👘 Deel (Tracht) | Дээл | Deel
+👟 Schuhe | Гутал | Gutal
+🧢 Mütze / Hut | Малгай | Malgai
+🧦 Socken | Оймс | Oims
+🧤 Handschuhe | Бээлий | Beelii
+🧣 Schal | Ороолт | Oroolt
+👗 Kleid | Даашинз | Daaschinz
+👓 Brille | Нүдний шил | Nüdnii schil
+👜 Tasche | Цүнх | Zünch
+💍 Ring | Бөгж | Bögdsch
+📿 Halskette | Зүүлт | Süült
+💎 Ohrring | Ээмэг | Eemeg
+🎗️ Gürtel | Бүс | Büs
+🔘 Knopf | Товч | Towtsch
+👜 Tasche (Kleidung) | Халаас | Chalaas
+🧵 Faden / Garn | Утас | Utas
+🪡 Nadel | Зүү | Süü
+🧶 Wolle | Ноос | Noos
+🧥 Leder | Арьс / Шир | Aris / Schir
+🧶 Filz | Эсгий | Esgii
+🥾 Stiefel | Түрийтэй гутал | Türiitei gutal
+❄️ Schlittschuhlaufen | Тэшүүрээр гулгах | Teschüüreer gulgach
+📖 Märchen | Үлгэр | Ülger
+☂️ Regenschirm | Шүхэр | Schücher
+🛏️ Kissen | Дэр | Der
+🧊 Kühlschrank | Хөргөгч | Chörgögtsch
+📚 Bibliothek | Номын сан | Nomiin san
+🚦 Ampel | Гэрлэн дохио | Gerlen dochio
+Seidenschal | Хадаг | Chadag
+Kultur | Соёл | Sojol
+Blatt | Навч | Nawtsch
+Gipfel | Оргил | Orgil
+Sturm | Шуурга | Schuurga
+⛽ Benzin / Kraftstoff | Бензин / Түлш | Bensin / Tülsch
+🥇 Gold (Metall) | Алт | Alt
+🥈 Silber (Metall) | Мөнгө | Möngö
+🥉 Kupfer | Зэс | Ses
+⛓️ Eisen / Stahl | Төмөр / Ган | Tömör / Gan
+🪨 Kohle | Нүүрс | Nüürs
+💎 Edelstein / Juwel | Эрдэнийн чулуу | Erdeniin chuluu
+🔮 Kristall / Glas | Болор / Шил | Bolor / Schil
+🪵 Holz | Мод | Mod
+🧷 Sicherheitsnadel | Сүлбээр зүү | Sülbeer süü
+💄 Lippenstift | Уруулын будаг | Uruuliin budag
+🧵 Seide | Торго | Torgo
+🛋️ Teppich | Хивс | Chiws
+🔒 Schloss / Vorhängeschloss | Цоож | Zoodsch
+💧 Brunnen | Худаг | Chudag
+👕 Unterhemd | Майк / Дотуур цамц | Dotuur zamz
+🧦 Strumpfhose | Трико | Triko
+🧥 Regenmantel | Борооны цув | Boroonii zuw
+🧣 Kopftuch | Алчуур | Altschuur
+🧤 Fäustlinge | Эрхийвчтэй бээлий | Erchiiwtschitei beelii
+👟 Turnschuhe / Sneaker | Пүүз | Püüs
+👠 Absätze / Schuhe | Өсгийтэй гутал | Ösgiitei gutal
+🪢 Schnürsenkel | Үдээс | Üdees
+👖 Reißverschluss | Цахилгаан | Zachilgaan
+👕 Kragen | Зах | Sach
+🧥 Ärmel | Ханцуй | Chanzui
+👗 Rock | Банзал / Юбка | Bansal
+👔 Anzug | Костюм / Хослол | Choslol
+🩳 Schlafanzug / Pyjama | Унтлагын хувцас | Untlagiin chuwzas
+👶 Lätzchen | Энгэвч | Engewtsch
+👶 Windel | Живх | Dschiwch
+Turnschuhe | Пүүз | Püüs
+🧮 Addieren / Zusammenzählen | Нэмэх | Nemech
+➖ Subtrahieren / Abziehen | Хасах | Chasach
+🧭 Taschenkompass | Луужин | Luudschin
+🔦 Stirnlampe | Духны гэрэл | Duchnii gerel
+🛌 Schlafsack | Аяны хөнжил | Ajanii chöndschil
+🔥 Streichholz | Чүдэнз | Tschüdens
+🔥 Feuerzeug | Асаагуур | Asaaguur
+🪓 Taschenmesser | Эвхдэг хутга | Ewchdeg chutga
+🪥 Zahnseide | Шүдний утас | Schüdnii utas
+🪒 Rasierer | Сахлын хутга | Sachliin chutga
+💅 Nagelschere | Хумсны хутга | Chumsnii chutga
+🧴 Duschgel | Биеийн шингэн саван | Bijeiin schingen sawan
+🧻 Toilettenpapier | Ариун цэврийн цаас | Ariun zewriin zaas
+🧺 Wäschekorb | Хувцасны сагс | Chuwzasnii sags
+🧹 Kehrblech / Schaufel | Хогийн хутгуур | Chogiin chutguur
+🧽 Wischmopp | Шалны моод / Арчуур | Schalnii artschuur
+🪟 Fensterputzer | Цонх арчигч | Zonch artschigtsch
+🖍️ Filzstift / Marker | Фломастер / Маркер | Flomaster
+🧂 Mineralstoff | Эрдэс бодис | Erdes bodis
+🧤 Gartenhandschuhe | Ажлын бээлий | Adschliin beelii
+🪓 Spaten / Schaufel | Хүрз | Chürs
+🔱 Harke / Rechen | Тармуур | Tarmuur
+✂️ Heckenschere | Бут хайчлагч | But chaitschlagtsch
+🪵 Schubkarre | Гар тэрэг | Gar tereg
+👟 Schuhgeschäft | Гутлын дэлгүүр | Gutliin delgüür
+👕 Bekleidungsgeschäft | Хувцасны дэлгүүр | Chuwzasnii delgüür
+💡 Glühfaden | Улайсах утас | Ulaisach utas
+🔊 Schallwelle | Дууны долгион | Duunii dolgion
+🌈 Lichtbrechung | Гэрлийн хугарал | Gerliin chugaral
+🪞 Reflexion / Spiegelung | Ойлт | Oilt
+💨 Sauerstoff | Хүчилтөрөгч | Chütschiltörögtsch
+🫧 Kohlendioxid | Нүүрсхүчлийн хий | Nüürschütschliin chii
+💧 Wasserstoff | Устөрөгч | Ustörögtsch
+🌬️ Stickstoff | Азот | Asot
+🧬 Organismus | Организм / Бие махбодь | Bije machbod
+🧮 Taschenrechner | Тооны машин | Toonii maschin
+🎒 Federmäppchen / Etui | Үзэгний сав | Üsegnii saw
+🗄️ Schublade | Шургуулга | Schurguulga
+🎨 Postkarte | Ил захидал | Il sachidal
+🥁 Rhythmus / Takt | Хэмнэл | Chemnel
+🧭 Magnetnadel | Соронзон зүү | Soronson süü
+🧬 Stoffwechsel | Бодисын солилцоо | Bodisiin solilzoo
+🫀 Herzklappe | Зүрхний хавхлага | Sürchnii chawchlaga

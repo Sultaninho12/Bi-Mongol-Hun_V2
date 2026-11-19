@@ -1,0 +1,44 @@
+# Grundwörter
+👋 Hallo | Сайн байна уу / Сайна уу | Sain baina uu / Sainuu
+🙏 Danke | Баярлалаа | Bajarlalaa
+✅ Ja | Тийм | Tiim
+❌ Nein | Үгүй | Ügüi
+👩 Mama | Ээж | Eedsch
+👨 Papa | Аав | Aaw
+👧 Mädchen | Охин | Ochin
+👦 Junge | Хүү | Chüü
+👵 Oma | Эмээ | Emee
+👴 Opa | Өвөө | Öwöö
+🐴 Pferd | Морь | Mor
+🐕 Hund | Нохой | Nochoi
+🐈 Katze | Муур | Muur
+🐑 Schaf | Хонь | Chon
+🐫 Kamel | Тэмээ | Temee
+🦅 Adler | Бүргэд | Bürged
+☀️ Sonne | Нар | Nar
+🌙 Mond | Сар | Sar
+⭐ Stern | Од | Od
+⛰️ Berg | Уул | Uul
+💧 Wasser | Ус | Us
+🥛 Milch | Сүү | Süü
+🍞 Brot | Талх | Talch
+🍎 Apfel | Алим | Alim
+🏠 Haus | Байшин | Baischin
+⛺ Jurte | Гэр | Ger
+📖 Buch | Ном | Nom
+🏫 Schule | Сургууль | Surguul
+🔴 Rot | Улаан | Ulaan
+🔵 Blau | Цэнхэр | Zencher
+🟢 Grün | Ногоон | Nogoon
+🟡 Gelb | Шар | Schar
+Eins | Нэг | Neg
+Zwei | Хоёр | Chojor
+Drei | Гурав | Guraw
+Vier | Дөрөв | Döröw
+Fünf | Тав | Taw
+☀️ die Sonne | Нар | Nar
+🐴 das Pferd | Морь | Mor
+⛺ die Jurte | Гэр | Ger
+🥛 die Milch | Сүү | Süü
+das Wasser | Ус | Us
+das Buch | Ном | Nom

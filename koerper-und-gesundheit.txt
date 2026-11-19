@@ -1,0 +1,105 @@
+# Körper & Gesundheit
+🧠 Kopf | Толгой | Tolgoi
+👁️ Auge | Нүд | Nüd
+👂 Ohr | Чих | Chich
+👃 Nase | Хамар | Chamar
+👄 Mund | Ам | Am
+🦷 Zahn | Шүд | Schüd
+👅 Zunge | Хэл | Chel
+💇 Haare | Үс | Üs
+✋ Hand | Гар | Gar
+🦶 Fuß / Bein | Хөл | Chöl
+❤️ Herz | Зүрх | Sürch
+🤰 Bauch | Гэдэс | Gedes
+🦴 Rücken | Нуруу | Nuruu
+👆 Finger | Хуруу | Churuu
+🩺 Arzt | Эмч | Emtsch
+💊 Medizin | Эм | Em
+🚑 Krankenwagen / Notdienst | Түргэн тусламж | Türgen tuslamsch
+👨‍⚕️ Zahnarzt | Шүдний эмч | Schüdnii emtsch
+👩‍⚕️ Krankenschwester | Сувилагч | Suwilagtsch
+👷‍♂️ Ingenieur | Инженер | Indschener
+🏗️ Architekt | Архитектор | Architektor
+🫀 Magen | Ходоод | Chodood
+🧬 Haut | Арьс | Aris
+💦 Schweiß | Хөлс | Chöls
+🤒 Erkältung | Ханиад томуу | Chaniad tomuu
+🌌 Großer Wagen | Долоон бурхан од | Doloon burchan od
+🔤 Alphabet | Цагаан толгой | Zagaan tolgoi
+🇲🇳 Muttersprache | Эх хэл | Ech chel
+💊 Apotheker | Эм зүйч | Em süitsch
+🩸 Blutgruppe | Цусны бүлэг | Zusnii büleg
+🦴 Skelett | Араг яс | Arag jas
+🧠 Gedächtnistraining | Ой тогтоолт | Oi togtoolt
+👀 Sehkraft | Хараа | Charaa
+👂 Gehör | Сонсгол | Sonsgol
+👃 Geruchssinn | Үнэрлэх мэдрэмж | Ünerlech medremdsch
+👅 Geschmackssinn | Амтлах мэдрэмж | Amtlach medremdsch
+✋ Tastsinn | Хүрэлцэх мэдрэмж | Chürelzech medremdsch
+🩺 Blutdruck | Цусны даралт | Zusnii daralt
+🩹 Gips / Schiene | Гипс | Gips
+🏥 Operation | Хагалгаа / Мэс засал | Chagalgaa
+🧼 Desinfektionsmittel | Ариутгагч | Ariutgagtsch
+🏥 Klinik | Эмнэлэг | Emneleg
+⚓ Anker | Зангуу | Sanguu
+🔄 Kreisverkehr | Тойрог | Toirog
+💾 Speichern | Хадгалах | Chadgalach
+📥 Herunterladen | Татаж авах | Tatadsch awach
+🤫 Auswendig lernen | Цээжлэх | Zeedschlech
+🚑 Retten | Аврах | Awrach
+🚚 Umziehen | Нүүх | Nüüch
+🌊 Fließen / Strömen | Урсах | Ursach
+🔍 Lupe / Vergrößerungsglas | Томруулдаг шил | Tomruuldag schil
+🙋 Sich vorstellen | Өөрийгөө танилцуулах | Ööriigöö tanilzuulach
+Echo | Цуурай | Zuurai
+Kopieren | Хуулах | Chuulach
+Fließen | Урсах | Ursach
+Beißen | Хазах | Chasach
+Raten | Таах | Taach
+👑 Kaiser / Herrscher | Эзэн хаан | Esen chaan
+👸 Prinzessin | Гүнж | Gündsch
+🤴 Prinz | Ханхүү | Chanchüü
+🏰 Palast / Schloss | Ордон | Ordon
+🛡️ Festung / Burg | Цайз | Zais
+⚔️ Krieger / Kämpfer | Дайчин | Daitschin
+🏇 Reiter | Морьтон | Morton
+🏹 Köcher | Саадаг | Saadag
+🎯 Pfeil | Сум | Sum
+🛡️ Rüstung / Panzer | Хуяг дуулга | Chujag duulga
+📜 Chronik / Annalen | Түүхэн судар | Tüüchen sudar
+🩺 Diagnose | Онош | Onosch
+💊 Therapie / Behandlung | Эмчилгээ | Emtschilgee
+🏥 Genesung / Heilung | Эдгэрэлт | Edgerelt
+🧘 Meditation | Бясалгал | Bjasalgal
+🫁 Atemwege | Амьсгалын зам | Amisgaliin sam
+🩸 Rote Blutkörperchen | Улаан эс | Ulaan es
+🩸 Weiße Blutkörperchen | Цагаан эс | Zagaan es
+🦴 Schlüsselbein | Эгэм | Egem
+🦴 Schulterblatt | Дал | Dal
+🦴 Kniescheibe | Тойг | Toig
+💪 Bizeps / Oberarm | Бугалга | Bugalga
+✋ Unterarm | Шуу | Schuu
+👁️ Pupillenreflex | Хүүхэн харааны рефлекс | Chüüchen charaa
+👂 Ohrmuschel | Чихний дэлбээ | Chichnii delbee
+👃 Nasenspitze | Хамрын үзүүр | Chamriin üsüür
+👄 Mundwinkel | Амны завьж | Amnii sawdsch
+🩺 Blutdruckmessgerät | Даралт хэмжигч | Daralt chemdschigtsch
+💊 Kapsel | Капсул / Бүрхүүлтэй эм | Kapsul
+🩹 Mullbinde | Бинт / Маарль | Bint
+🏥 Krankenstation | Эмнэлгийн тасаг | Emnelgiin tasag
+🚑 Notarzt | Яаралтай тусламжийн эмч | Jaaraltai tuslamdschiin emtsch
+🧘‍♀️ Yoga | Иог | Jog
+🏃‍♂️ Aufwärmen | Бие халаалт | Bije chalaalt
+🧬 Chromosom | Хромосом | Chromosom
+🫀 Arterie / Schlagader | Артерийн судас | Arteriin sudas
+🩸 Vene | Венийн судас | Weniin sudas
+🦴 Beckenknochen | Аарцаг | Aarzag
+🦴 Brustbein | Өвчүү | Öwtschüü
+💪 Trizeps | Гурван толгойт булчин | Gurwan tolgoit bultschin
+👁️ Hornhaut | Эвэрлэг бүрхэвч | Ewerleg bürchewtsch
+👂 Innenohr | Дотоод чих | Dotood chich
+🩺 Ultraschall | Эхо / Хэт авиа | Echo
+💊 Antibiotikum | Антибиотик | Antibiotik
+🩹 Steriler Verband | Ариутгасан боолт | Ariutgasan boolt
+🏥 Intensivstation | Эрчимт эмчилгээний тасаг | Ertschimt emtschilgeenii tasag
+🧘‍♂️ Atemtechnik | Амьсгалын техник | Amisgaliin technik

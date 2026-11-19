@@ -1,0 +1,4 @@
+var C='mongol-v6',F=['./','index.html','manifest.json','icon-192.png','icon-512.png'];
+self.addEventListener('install',function(e){e.waitUntil(caches.open(C).then(function(c){return c.addAll(F).then(function(){return fetch('words/index.json').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(l){return c.addAll(['words/index.json'].concat(l.map(function(f){return 'words/'+f})))})['catch'](function(){})})}));self.skipWaiting()});
+self.addEventListener('activate',function(e){e.waitUntil(caches.keys().then(function(k){return Promise.all(k.filter(function(n){return n!==C}).map(function(n){return caches.delete(n)}))}))});
+self.addEventListener('fetch',function(e){if(e.request.method!='GET')return;e.respondWith(caches.open(C).then(function(c){return c.match(e.request).then(function(r){var f=fetch(e.request).then(function(n){if(n&&(n.ok||n.type=='opaque'))c.put(e.request,n.clone());return n})['catch'](function(){return r});return r||f})}))});

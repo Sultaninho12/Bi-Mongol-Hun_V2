@@ -1,0 +1,44 @@
+# Eigenschaften & Gefühle
+👍 Gut | Сайн | Sain
+👎 Schlecht | Муу | Muu
+🐘 Groß | Том | Tom
+🐭 Klein | Жижиг | Dschidschig
+🔥 Warm / Heiß | Халуун | Chaluun
+🧊 Kalt | Хүйтэн | Chüiten
+🐆 Schnell | Хурдан | Churdan
+🐢 Langsam | Удаан | Udaan
+✨ Schön | Сайхан / Хөөрхөн | Saichan
+😊 Glücklich | Жаргалтай | Dschargaltai
+😢 Traurig | Гунигтай | Gunigtai
+😋 Lecker | Амттай | Amttai
+🆕 Neu | Шинэ | Schine
+🏛️ Alt | Хуучин | Chuutschin
+💪 Stark | Хүчтэй | Chütschtei
+🍬 Süß | Чихэрлэг | Chicherleg
+📏 Lang | Урт | Urt
+📐 Kurz | Богино | Bogino
+🏔️ Hoch | Өндөр | Öndör
+🌱 Niedrig / Klein | Намхан | Namchan
+🏋️ Schwer | Хүнд | Chünd
+🪶 Leicht | Хөнгөн | Chöngön
+☀️ Hell | Гэгээтэй / Цайвар | Gegeetei
+🌑 Dunkel | Харанхуй / Бараан | Charanchui
+✨ Sauber | Цэвэрхэн | Zewerchen
+☀️ der Sommer | Зун | Sun
+❄️ der Winter | Өвөл | Öwöl
+✅ Richtig | Зөв | Söw
+🤩 Begeistert / Froh | Баяр хөөртэй | Bajar chöörtei
+😠 Wütend / Böse | Ууртай | Uurtai
+😨 Ängstlich | Айсан | Aisan
+😲 Überrascht | Гайхсан | Gaichsan
+😌 Ruhig / Friedlich | Тайван | Taiwan
+🦁 Mutig | Зоригтой | Sorigtoi
+🤗 Freundlich / Nett | Эелдэг | Eeldeg
+🤓 Klug / Schlau | Ухаантай | Uchaantai
+🐝 Fleißig | Хичээнгүй | Chitscheengüi
+🦥 Faul | Залхуу | Salchuu
+😇 Ehrlich | Шударга | Schudarga
+😂 Lustig / Witzig | Хөгжилтэй | Chögdschiltei
+😳 Schüchtern | Ичимхий | Itschimchii
+🤒 Krank | Өвчтэй | Öwtschtei
+💪 Gesund | Эрүүл | Erüül

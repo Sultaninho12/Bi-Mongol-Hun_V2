@@ -1,0 +1,13 @@
+# Musik, Sport & Freizeit
+Skifahren | Цаначлах
+Radfahren | Дугуй унах
+Wandern | Явган аялал
+Angeln | Загас барих
+Jagen | Ан хийх
+Mannschaft | Баг
+Spieler | Тоглогч
+Sieg | Ялалт
+Niederlage | Ялагдал
+Wettkampf | Тэмцээн
+Training | Дасгал
+Schiedsrichter | Шүүгч

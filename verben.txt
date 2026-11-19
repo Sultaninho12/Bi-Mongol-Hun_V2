@@ -1,0 +1,37 @@
+# Verben
+🚶 Gehen | Явах | Jawach
+🏃 Laufen / Rennen | Гүйх | Güich
+🍽️ Essen | Идэх | Idech
+🥤 Trinken | Уух | Uuch
+😴 Schlafen | Унтах | Untach
+🗣️ Sprechen | Ярих | Jarich
+👂 Hören | Сонсох | Sonsoch
+👀 Sehen | Харах | Charach
+📖 Lesen | Унших | Unschich
+✍️ Schreiben | Бичих | Bitschich
+🎮 Spielen | Тоглох | Togloch
+🎓 Lernen | Сурах | Surach
+❤️ Lieben / Mögen | Хайрлах | Chairlach
+🤝 Helfen | Туслах | Tuslach
+🎵 Singen | Дуулах | Duulach
+💃 Tanzen | Бүжиглэх | Büdschiglech
+✨ Sein / Existieren | Байх | Baich
+🔨 Machen / Tun | Хийх | Chiich
+🤲 Geben | Өгөх | Ögöch
+✊ Nehmen / Bekommen | Авах | Awach
+🏃‍♂️ Kommen | Ирэх | Irech
+🧠 Wissen / Kennen | Мэдэх | Medech
+💭 Denken | Бодох | Bodoch
+🔍 Suchen | Хайх | Chaich
+💡 Finden | Олох | Oloch
+🚪 Öffnen | Нээх | Neech
+🔒 Schließen | Хаах | Chaach
+🧼 Waschen | Угаах | Ugaach
+🍳 Kochen | Хоол хийх | Chool chiich
+🪑 Sitzen | Суух | Suuch
+🧍 Stehen | Зогсох | Sogsoch
+😃 Lachen | Инээх | Ineech
+😭 Weinen | Уйлах | Uilach
+🙋 Fragen | Асуух | Asuuch
+💬 Antworten | Хариулах | Chariulach
+💼 Arbeiten | Ажиллах | Adschillach

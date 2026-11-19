@@ -1,0 +1,19 @@
+# Familie & Menschen
+Vater | Аав
+Mutter | Ээж
+Eltern | Эцэг эх
+Familie | Гэр бүл
+Kind | Хүүхэд
+Baby | Нярай
+Sohn | Хүү
+Tochter | Охин
+Jüngeres Geschwister | Дүү
+Onkel (väterlich) | Авга ах
+Onkel (mütterlich) | Нагац ах
+Tante (väterlich) | Авга эгч
+Cousin / Cousine | Үеэл
+Ehemann | Нөхөр
+Ehefrau | Эхнэр
+Großeltern | Өвөө эмээ
+Nachbar | Хөрш
+Gast | Зочин

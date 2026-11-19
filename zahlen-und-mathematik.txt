@@ -1,0 +1,146 @@
+# Zahlen & Mathematik
+Null | Тэг | Teg
+Sechs | Зургаа | Surgaa
+Sieben | Долоо | Doloo
+Acht | Найм | Naim
+Neun | Ес | Jös
+🔟 Zehn | Арав | Araw
+Elf | Арван нэг | Arwan neg
+Zwölf | Арван хоёр | Arwan chojor
+Zwanzig | Хорь | Chor
+Dreißig | Гуч | Gutsch
+Vierzig | Дөч | Dötsch
+Fünfzig | Тавь | Taw
+Sechzig | Жар | Dschar
+Siebzig | Дал | Dal
+Achtzig | Ная | Naja
+Neunzig | Ер | Jör
+💯 Hundert | Зуу | Suu
+🔢 Tausend | Мянга | Mjanga
+👥 Sie (Mehrzahl) | Тэд | Ted
+✖️ Mal / Multiplizieren | Үржүүлэх | Ürdschüülech
+➗ Geteilt / Dividieren | Хуваах | Chuwaach
+🟰 Gleich | Тэнцүү | Tenzüü
+½ Hälfte / Halb | Хагас | Chagas
+¼ Viertel | Дөрөвний нэг | Döröwnii neg
+🥇 Erster | Нэгдүгээр / Эхний | Negdügeer
+🥈 Zweiter | Хоёрдугаар | Chojordugaar
+🥉 Dritter | Гуравдугаар | Gurawdugaar
+🔚 Letzter | Сүүлчийн | Süültschiin
+🔝 Anfang | Эхлэл | Echlel
+🔚 Ende | Төгсгөл | Tögsgöl
+🎯 Mitte | Дунд | Dund
+↔️ Seite | Тал / Хажуу | Tal / Chadschuu
+⬆️ Spitze / Gipfel | Оргил | Orgil
+🕳️ Loch / Grube | Нүх | Nüch
+🪨 Felsen | Хад | Chad
+🏜️ Tal | Хөндий | Chöndii
+🌡️ Thermometer | Халууны шил | Chaluunii schil
+⚖️ Waage | Жинлүүр | Dschinlüür
+🛣️ Kreuzung | Уулзвар | Uulswar
+🚶‍♂️ Fußgängerweg | Явган хүний зам | Jawgan chünii sam
+🔢 Summe / Gesamt | Нийлбэр | Niilber
+📊 Durchschnitt | Дундаж | Dundadsch
+📈 Mehr / Größer | Илүү / Их | Ilüü
+📉 Weniger / Kleiner | Дутуу / Бага | Dutuu
+💯 Prozent | Хувь | Chuw
+🪙 Münze | Зоос | Soos
+💵 Geldschein | Цаасан мөнгө | Zaasan möngö
+💳 Bankkarte | Банкны карт | Banknii kart
+🏦 Sparkasse / Konto | Данс / Хадгаламж | Dans / Chadgalamsch
+📈 Gewinn / Profit | Ашиг | Aschig
+📉 Verlust / Schaden | Алдагдал / Хохирол | Aldagdal
+🎁 Rabatt / Nachlass | Хямдрал | Chjamdral
+🧾 Kassenbon | Талон / Баримт | Talon
+🛒 Einkaufswagen | Тэрэг | Tereg
+⚖️ Kilogramm | Килограмм | Kilogramm
+⚖️ Gramm | Грамм | Gramm
+📏 Meter | Метр | Metr
+📏 Zentimeter | Сантиметр | Santimetr
+🛣️ Kilometer | Километр | Kilometr
+📊 Tabelle / Diagramm | Хүснэгт / График | Chüsnegt
+📉 Minimum / Kleinstes | Хамгийн бага | Chamgiin baga
+📈 Maximum / Größtes | Хамгийн их | Chamgiin ich
+🔢 Ziffer | Цифр / Тоо | Zifr
+⚖️ Gleichgewicht | Тэнцвэр | Tenzwer
+🔄 Kreislauf / Zyklus | Эргэлт | Ergelt
+🗑️ Mülltonne | Хогийн сав | Chogiin saw
+📦 Karton | Цаасан хайрцаг | Zaasan chairzag
+🕯️ Docht | Гол | Gol
+🛋️ Sessel | Түшлэгтэй сандал | Tüschlegtei sandal
+🛏️ Kopfteil | Орны толгой | Ornii tolgoi
+🚪 Türschwelle | Босго | Bosgo
+🪟 Fensterbank | Цонхны тавцан | Zonchnii tawzan
+🏠 Schornstein | Яндан | Jandan
+🧱 Mauerwerk | Өрлөг | Örlög
+🏡 Zaun | Хашаа | Chaschaa
+🚪 Gartentor | Хашааны хаалга | Chaschaanii chaalga
+📬 Briefschlitz | Захианы нүх | Sachianii nüch
+💡 Straßenlaterne | Гудамжны гэрэл | Gudamdschnii gerel
+🏙️ Bürgersteig / Gehweg | Явган хүний зам | Jawgan chünii sam
+🏢 Hochhaus | Олон давхар байшин | Olon dawchar baischin
+🏛️ Rathaus | Хотын захиргаа | Chotiin sachirgaa
+🏟️ Turnhalle | Спорт заал | Sport saal
+🏊 Hallenbad | Битүү усан бассейн | Bitüü usan bassein
+🎭 Bühne | Тайз | Tais
+🎟️ Zuschauerraum | Үзэгчдийн танхим | Üsegtschdiin tanchim
+🖼️ Ausstellung / Galerie | Үзэсгэлэн | Üsesgelen
+🛍️ Einkaufszentrum | Худалдааны төв | Chudaldaanii töw
+🧮 Bruchzahl | Бутархай тоо | Butarchai too
+🔢 Gerade Zahl | Тэгш тоо | Tegsch too
+🔢 Ungerade Zahl | Сондгой тоо | Sondgoi too
+📐 Winkelmaß / Grad | Хэм / Градус | Chem / Gradus
+📏 Umfang (Geometrie) | Хүрээний урт | Chüreenii urt
+🟦 Fläche / Flächeninhalt | Талбай | Talbai
+🧊 Volumen / Rauminhalt | Эзлэхүүн | Eslechüün
+⚖️ Masse / Gewicht | Жин / Масс | Dschin / Mass
+⏱️ Geschwindigkeit | Хурд | Churd
+🛣️ Entfernung / Strecke | Зай / Зам | Sai / Sam
+🧭 Himmelsrichtung | Зүг чиг | Süg tschig
+🌡️ Gefrierpunkt | Хөлдөх цэг | Chöldöch zeg
+♨️ Siedepunkt | Буцлах цэг | Buzlach zeg
+💧 Flüssigkeit | Шингэн | Schingen
+🪨 Festkörper | Хатуу биет | Chatuu bijet
+💨 Gas | Хий | Chii
+💎 Kristall | Талст | Talst
+🧪 Säure | Хүчил | Chütschil
+⭐ Punkt / Punktzahl | Оноо | Onoo
+🎉 Jubel / Freude | Уухай | Uuchai
+🚀 Auf geht's! / Los! | Явцгаая! | Jawzgaaja!
+Punktzahl | Оноо | Onoo
+📊 Balkendiagramm | Баганан график | Baganan grafik
+🧮 Potenz / Hochzahl | Зэрэг | Sereg
+📖 Grammatik | Хэл зүй | Chel süi
+✍️ Schönschrift / Kalligrafie | Уран бичлэг | Uran bitschleg
+🧮 Bruchstrich | Бутархайн зураас | Butarchain suraas
+🔢 Zähler (Mathe) | Хүртвэр | Chürtwer
+🔢 Nenner (Mathe) | Хуваарь | Chuwaar
+📐 Rechter Winkel | Тэгш өнцөг | Tegsch önzög
+📐 Spitzer Winkel | Хурц өнцөг | Churz önzög
+📐 Stumpfer Winkel | Мохоо өнцөг | Mochoo önzög
+📏 Diagonale | Диагональ | Diagonal
+🧊 Kegel (Geometrie) | Конус | Konus
+📐 Prisma | Призм | Prism
+📊 Statistikdiagramm | Диаграмм | Diagramm
+⚖️ Hebel | Хөшүүрэг | Chöschüüreg
+⚙️ Flaschenzug / Rolle | Эргэвч | Ergewtsch
+🔄 Zentrifugalkraft | Төвөөс зугтах хүч | Töwöös sugtach chütsch
+💡 Glühlampe | Улайсдаг чийдэн | Ulaisdag tschiiden
+🔋 Pluspol | Нэмэх туйл | Nemech tuil
+🔋 Minuspol | Хасах туйл | Chasach tuil
+⚡ Kurzschluss | Богино холбоо | Bogino cholboo
+🔌 Sicherung | Гал хамгаалагч | Gal chamgaalagtsch
+🔦 Scheinwerferlicht | Хурц гэрэл | Churz gerel
+🔭 Vergrößerung | Өсгөлт | Ösgölt
+🧮 Logarithmus | Логарифм | Logarifm
+📐 Symmetrieachse | Тэгш хэмийн тэнхлэг | Tegsch chemiin tenchleg
+📏 Millimeter | Миллиметр | Millimetr
+⚖️ Tonne (Gewicht) | Тонн | Tonn
+🧊 Kubikmeter | Шоо метр | Schoo metr
+🟦 Quadratmeter | Ам метр | Am metr
+⏱️ Millisekunde | Миллисекунд | Millisekund
+🌡️ Thermometeranzeige | Хэмжүүр | Chemdschüür
+🎲 Zufallszahl | Санамсаргүй тоо | Sanamsargüi too
+⚖️ Trägheit | Инерц | Inerz
+📊 Liniendiagramm | Шугаман график | Schugaman grafik
+⚖️ Schwerpunkt | Хүндийн төв | Chündiin töw

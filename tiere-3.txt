@@ -1,0 +1,8 @@
+# Tiere & Insekten
+Haustier | Гэрийн тэжээвэр амьтан
+Welpe | Гөлөг
+Kalb | Тугал
+Zicklein | Ишиг
+Küken | Дэгдээхэй
+Esel | Илжиг
+Gazelle | Зээр

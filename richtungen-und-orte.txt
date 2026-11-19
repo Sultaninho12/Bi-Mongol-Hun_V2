@@ -1,0 +1,21 @@
+# Richtungen & Orte
+⬆️ Oben / Auf | Дээр | Deer
+⬇️ Unten / Unter | Доор | Door
+⬅️ Links | Зүүн | Süün
+➡️ Rechts | Баруун | Baruung
+⏩ Vorne / Vor | Урд | Urd
+⏪ Hinten / Hinter | Хойд | Choid
+📥 Innen / Drinnen | Дотор | Dotor
+📤 Außen / Draußen | Гадаа | Gadaa
+📍 Hier | Энд | End
+👉 Dort | Тэнд | Tend
+🧭 Norden | Хойд зүг | Choid süg
+🧭 Süden | Өмнөд зүг | Ömnöd süg
+🏥 Krankenhaus | Эмнэлэг | Emneleg
+📮 Post | Шуудан | Schuudan
+🏦 Bank | Банк | Bank
+🏨 Hotel | Зочид буудал | Sotschid buudal
+🍽️ Restaurant | Ресторан / Зоогийн газар | Soogiin gasar
+🌳 Park / Garten | Цэцэрлэгт хүрээлэн | Zezerlegt chüreelen
+🎠 Kindergarten | Цэцэрлэг | Zezerleg
+🏛️ Museum | Музей | Musei

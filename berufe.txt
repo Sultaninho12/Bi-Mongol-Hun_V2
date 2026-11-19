@@ -1,0 +1,16 @@
+# Berufe & Arbeit
+Koch | Тогооч
+Polizist | Цагдаа
+Feuerwehrmann | Гал сөнөөгч
+Sänger | Дуучин
+Tänzer | Бүжигчин
+Dichter | Яруу найрагч
+Sportler | Тамирчин
+Trainer | Дасгалжуулагч
+Programmierer | Программист
+Buchhalter | Нягтлан бодогч
+Sekretär | Нарийн бичгийн дарга
+Hirte | Малчин
+Tierarzt | Мал эмч
+Übersetzer | Орчуулагч
+Dolmetscher | Хэлмэрч

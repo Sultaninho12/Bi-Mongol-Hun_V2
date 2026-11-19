@@ -1,0 +1,13 @@
+# Farben & Formen
+⚪ Weiß | Цагаан | Zagaan
+⚫ Schwarz | Хар | Char
+🟠 Orange | Улбар шар | Ulbar schar
+🟣 Lila / Violett | Ягаан / Нил ягаан | Jagaan
+🌸 Rosa | Ягаан | Jagaan
+🟤 Braun | Бор | Bor
+🩶 Grau | Саарал | Saaral
+🟡 Gold | Алт | Alt
+⚪ Silber | Мөнгө | Möngö
+⭕ Kreis / Rund | Дугуй | Dugui
+⬜ Viereck / Quadrat | Дөрвөлжин | Dörwöldschin
+🔺 Dreieck | Гурвалжин | Gurwaldschin

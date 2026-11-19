@@ -1,0 +1,1 @@
+Die Schrift Pacifico wird beim ersten Start (mit Internet) automatisch von Google Fonts geladen und danach offline gespeichert. Diese Datei und handschrift.ttf sind nur noch optional.

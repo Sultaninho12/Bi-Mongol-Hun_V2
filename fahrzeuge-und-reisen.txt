@@ -1,0 +1,16 @@
+# Fahrzeuge & Reisen
+🚗 Auto | Машин | Maschin
+🚌 Bus | Автобус | Awtobus
+🚆 Zug | Галт тэрэг | Galt tereg
+✈️ Flugzeug | Онгоц | Ongoz
+🚲 Fahrrad | Унадаг дугуй | Unadag dugui
+🏍️ Motorrad | Мотоцикл | Motozikl
+🚢 Schiff / Boot | Усан онгоц | Usan ongoz
+🛣️ Straße / Weg | Зам | Sam
+🌉 Brücke | Гүүр | Güür
+🏙️ Stadt | Хот | Chot
+🏡 Dorf | Тосгон | Tosgon
+🗺️ Land / Staat | Улс | Uls
+🇲🇳 Mongolei | Монгол | Mongol
+🇩🇪 Deutschland | Герман | German
+🎫 Fahrkarte / Ticket | Тасалбар | Tasalbar

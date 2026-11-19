@@ -1,0 +1,13 @@
+# Einkaufen & Geld
+🛒 Geschäft / Laden | Дэлгүүр | Delgüür
+🏪 Markt / Basar | Зах | Sach
+💵 Geld | Мөнгө | Möngö
+🇲🇳 Tugrik (Währung) | Төгрөг | Tögrög
+🏷️ Preis | Үнэ | Üne
+💎 Teuer | Үнэтэй | Ünetei
+🪙 Günstig / Billig | Хямд | Chjamd
+🛍️ Kaufen | Худалдаж авах | Chudaldadsch awach
+💰 Verkaufen | Зарах | Sarach
+💳 Karte | Карт | Kart
+🧾 Rechnung / Quittung | Баримт | Barimt
+🎁 Paket / Schachtel | Хайрцаг | Chairzag
